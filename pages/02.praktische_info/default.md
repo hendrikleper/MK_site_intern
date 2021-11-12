@@ -38,4 +38,4 @@ body_classes: title-center title-h1h2
 * in het Atelier mediakunst op "mediakunst" netwerk met wachtwoord `m3d1a@kunsttoren`
 
 ## Documenten
-* [sjabloon zelf-reflectieverslag](%assets_url%/SjabloonReflectieverslag.rtf)
+* [sjabloon zelf-reflectieverslag](SjabloonReflectieverslag.rtf)
