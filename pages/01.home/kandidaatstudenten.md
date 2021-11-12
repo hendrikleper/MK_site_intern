@@ -1,10 +1,5 @@
 ---
 Title: info voor kandidaat studenten
-Description: KASK Conservatorium, kunstonderwijs, Gent, Hogent, School of Arts Gent, mediakunst, media art
-Author: Hendrik
-Date: 2021/04/25
-Robots: noindex,nofollow
-Template: index
 ---
 # INFO VOOR KANDIDAAT STUDENTEN
 [Studiegids 2021-2022](https://issuu.com/schoolofartsgent/docs/2122_studiewijzer)

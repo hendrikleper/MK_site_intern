@@ -5,7 +5,7 @@ body_classes: 'title-center title-h1h2'
 
 **Mediakunst** is één van de zes trajecten binnen de opleiding beeldende kunsten - Vrije Kunsten aan KASK (Koninklijke Academie voor Schone Kunsten) dat samen met het Koninklijk Conservatorium de [School of Arts](https://www.schoolofartsgent.be/) van HOGENT en Howest vormt.
 
-Deze site is voornamelijk een informatiebron voor huidige studenten maar toekomstige studenten vinden op [deze pagina](../kandidaatstudenten) info en links mbt de opleidingen aan KASK, de toelatingsprocedure, lessenrooster en studiefiches, ... Inschrijven voor de toelatingsproef Vrije Kunsten 2022 kan normaal gezien vanaf eind november!
+Deze site is voornamelijk een informatiebron voor huidige studenten maar toekomstige studenten vinden op [deze pagina](kandidaatstudenten) info en links mbt de opleidingen aan KASK, de toelatingsprocedure, lessenrooster en studiefiches, ... Inschrijven voor de toelatingsproef Vrije Kunsten 2022 kan normaal gezien vanaf eind november!
 
 Onder [praktische info](../praktische_info) vind je contact info en nuttige links naar documenten en downloads. <!--[covid](covid) is een infopagina over studeren aan KASK in tijden van COVID-19. Je vind hier o.a. de geldende maatregelen voor de praktijk in het atelier mediakunst.-->
 
