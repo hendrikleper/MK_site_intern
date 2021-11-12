@@ -14,17 +14,17 @@ Title: programma
 
 **Overzichtsrooster 1e bachelor**
 
-![1e bachelor](%assets_url%/rooster2021sem1mk1.png)
+![1e bachelor](rooster2021sem1mk1.png)
 **Overzichtsrooster 2e bachelor**
 
-![2e bachelor](%assets_url%/rooster2021sem1mk2.png)
+![2e bachelor](rooster2021sem1mk2.png)
 **Overzichtsrooster 3e bachelor**
 
-![3e bachelor](%assets_url%/rooster2021sem1mk3.png)
+![3e bachelor](rooster2021sem1mk3.png)
 
 ## Atelierrooster
 of een rooster met de aanwezigheid van docenten doorheen de week.    
-![rooster](%assets_url%/docentenrooster2021sem1.png)
+![rooster](docentenrooster2021sem1.png)
 
 
 ## Studiefiches
@@ -55,21 +55,3 @@ of een rooster met de aanwezigheid van docenten doorheen de week.
 * [Scriptie vrije kunsten](https://bamaflexweb.hogent.be/BMFUIDetailxOLOD.aspx?a=131421&b=5&c=1)
 * [Masterclass Vrije kunsten](https://bamaflexweb.hogent.be/BMFUIDetailxOLOD.aspx?a=131433&b=5&c=1)
 * [Kunst in het werkveld](https://bamaflexweb.hogent.be/BMFUIDetailxOLOD.aspx?a=131944&b=5&c=1)
-
-<!--
-## <span name="covid">Covid aanvullingen op studiefiches</span>
-
-###  1e bachelor
-* [Atelier Mediakunst I & II](%assets_url%/studiefiche_Atelier_MK_IenII_COVIDaddendum.docx)
-* [Theorie van de Mediakunst](%assets_url%/studiefiche_TMK_COVIDaddendum.docx)      
-
-###  2e bachelor
-* [Atelier Mediakunst III & IV](%assets_url%/studiefiche_Atelier_MK_IIIenIV_COVIDaddendum.docx)
-* [Theorie & Actualiteit van de Mediakunst](%assets_url%/studiefiche_TAMK_COVIDaddendum.docx)     
-
-###  3e bachelor
-* [Atelier Mediakunst V & VI](%assets_url%/studiefiche_Atelier_MK_VenVI_COVIDaddendum.docx)     
-
-### Minor
-* [Minor Mediakunst](%assets_url%/studiefiche_MinorMK_COVIDaddendum.docx)
--->
