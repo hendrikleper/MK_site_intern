@@ -1,10 +1,5 @@
 ---
 Title: programma
-Description: This description will go in the meta description tag
-Author: Hendrik
-Date: 2020/09/27
-Robots: noindex,nofollow
-Template: index
 ---
 
 # PROGRAMMA / CURRICULA

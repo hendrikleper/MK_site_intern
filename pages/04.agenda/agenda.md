@@ -1,10 +1,5 @@
 ---
 Title: agenda
-Description: KASK Conservatorium, kunstonderwijs, Gent, Hogent, School of Arts Gent, mediakunst, media art
-Author: Hendrik
-Date: 2020/09/28
-Robots: noindex,nofollow
-Template: index
 ---
 # AGENDA
 ## 1e BACHELOR

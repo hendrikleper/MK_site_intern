@@ -1,10 +1,5 @@
 ---
 Title: projecten en events
-Description: This description will go in the meta description tag
-Author: Hendrik
-Date: 2020/09/29
-Robots: noindex,nofollow
-Template: index
 ---
 
 # PROJECTEN & GASTEN 2021-2022
