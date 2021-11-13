@@ -43,3 +43,7 @@ h1 {
 h2 {
   text-align: center;
 }
+
+#body-wrapper .container {
+  padding: 1em 0 2rem;
+}
