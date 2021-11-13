@@ -2,10 +2,10 @@
 Title: info voor kandidaat studenten
 published: true
 routable: true
-visible: false 
+visible: false
 ---
 # INFO VOOR KANDIDAAT STUDENTEN
-[Studiegids 2021-2022](https://issuu.com/schoolofartsgent/docs/2122_studiewijzer)
+☞ [Studiegids 2021-2022](https://issuu.com/schoolofartsgent/docs/2122_studiewijzer)
 
 # BACHELOR
 
@@ -14,17 +14,17 @@ Alle kandidaten moeten de artistieke toelatingsproef afleggen, ook zij die reeds
 
 Alle kandidaten die wensen deel te nemen aan de toelatingsproef dienen zich te registreren via [webreg.hogent.be](https://webreg.hogent.be/)
 
-[algemene info toelatingsproef](https://schoolofartsgent.be/2021/onderwijs/toelatings-en-orienteringsproeven/)
+[Algemene info toelatingsproef](https://schoolofartsgent.be/2021/onderwijs/toelatings-en-orienteringsproeven/)
 
 ### sessie 1
-Deadline dossier (portfolio + motivatiebrief): 02 juli om 12u00    
-Theorieproef & Praktijkproef: 05 juli    
-Interview: 06, 07 of 08 juli
+Deadline dossier (portfolio + motivatiebrief): ~~02 juli om 12u00~~    
+Theorieproef & Praktijkproef: ~~05 juli~~    
+Interview: ~~06, 07 of 08 juli~~
 
 ### sessie 2
-Deadline dossier (portfolio + motivatiebrief): 20 aug. om 12u00    
-Theorieproef & Praktijkproef: 24 aug.    
-Interview: 25, 26 of 27 aug.
+Deadline dossier (portfolio + motivatiebrief): ~~20 aug. om 12u00~~    
+Theorieproef & Praktijkproef: ~~24 aug.~~    
+Interview: ~~25, 26 of 27 aug.~~
 
 [info toelatingsproef Vrije Kunsten](https://schoolofartsgent.be/2021/onderwijs/toelatings-en-orienteringsproeven/academische-bachelor/beeldende-kunsten/vrije-kunsten/)
 
@@ -34,9 +34,6 @@ Interview: 25, 26 of 27 aug.
 ## Minors
 [Infobundel Minors 2021-2022](http://www.docs.schoolofarts.be/documenten/Minors%20en%20keuzevakken/Informatiebundel%20Minors%202021-2022.doc)
 [Minors presentatie](http://www.docs.schoolofarts.be/documenten/Minors%20en%20keuzevakken/Infosessie%20minor%20keuzepakket%202021-2022_met%20audio.pptx)
-
-## lessenroosters
-
 
 ## Studiefiches
 [link](https://www.hogent.be/studiefiches/) naar alle fiches van alle opleidingen School of Arts Gent.
@@ -64,20 +61,20 @@ Interview: 25, 26 of 27 aug.
 # MASTER
 
 ## Guide
-http://www.docs.schoolofarts.be/documenten/Master/Mastergids%202122.pdf
+☞ [Masterguide / Masergids](http://www.docs.schoolofarts.be/documenten/Master/Mastergids%202122.pdf)
 
 ## Orientation test
 For access to the master programmes there is an annual selection procedure in spring, and one in summer. You can find all the details in the application guidelines of the various programmes.
 
-see https://schoolofartsgent.be/2021/onderwijs/toelatings-en-orienteringsproeven/master/?lang=en
+see [this page](https://schoolofartsgent.be/2021/onderwijs/toelatings-en-orienteringsproeven/master/?lang=en)
 
 ### Session 1
-submission deadline: 19.03.2021 / 16:00    
-interview: 26.04.21
+submission deadline: ~~19.03.2021 / 16:00~~    
+interview: ~~26.04.21~~
 
 ### Session 2
-submission deadline: 25.06.2021 / 16:00    
-interview: 30.08.2021
+submission deadline: ~~25.06.2021 / 16:00~~    
+interview: ~~30.08.2021~~
 
 [Read the Application Guidelines](http://docs.schoolofarts.be/documenten/INFO%20EN%20HANDLEIDINGEN/Admission_procedures_masters/AGL_VAVD.pdf)
 
