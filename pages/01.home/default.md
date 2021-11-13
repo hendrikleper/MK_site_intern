@@ -1,6 +1,6 @@
 ---
 title: welkom
-body_classes: ''
+body_classes: overlay-dark-gradient
 media_order: MKcover.jpg
 ---
 
