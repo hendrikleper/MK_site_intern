@@ -15,10 +15,7 @@ lightslider:
     speed: 1000
 ---
 
-
-
 # BEELDMATERIAAL
-<!--iframe src="https://mediakunst.be/openhouse/" title="description" height="500px" width="100%"-->
 
 # Shop Geek Stuff
 ## We have all your **geek** needs covered..
