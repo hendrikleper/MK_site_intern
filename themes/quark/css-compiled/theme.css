@@ -206,7 +206,7 @@ form .form-group:not(.form-field-toggleable) .checkboxes label:before { display:
 
 .treemenu li a { display: block; margin-left: 1.2rem; font-size: 1rem; }
 
-.treemenu li a:hover, .treemenu li a:focus, .treemenu li a.active { color: #3e8def !important; text-decoration: none; }
+.treemenu li a:hover, .treemenu li a:focus, .treemenu li a.active { background: rgba(3,227,25,1); background: linear-gradient(135deg, rgba(3,227,25,1) 0%, rgba(0,249,255,1) 100%) !important; text-decoration: none; }
 
 .treemenu ul { margin: 0 0 0 1rem; }
 
@@ -291,7 +291,7 @@ body.sticky-footer #page-wrapper { -ms-flex: 1 0 auto; flex: 1 0 auto; }
 
 .dropmenu ul li a { text-decoration: none; padding: 7px 30px 7px 20px; display: block; }
 
-.dropmenu ul li a:hover, .dropmenu ul li a:focus, .dropmenu ul li a.active { color: #3085EE !important; }
+.dropmenu ul li a:hover, .dropmenu ul li a:focus, .dropmenu ul li a.active { background: rgba(3,227,25,1); background: linear-gradient(135deg, rgba(3,227,25,1) 0%, rgba(0,249,255,1) 100%) !important; }
 
 .dropmenu ul li a:before { content: '\f107'; font-family: 'FontAwesome'; display: inline-block; vertical-align: middle; float: right; margin-right: -20px; }
 
