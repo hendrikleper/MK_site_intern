@@ -25,6 +25,11 @@ a:visited {
   color: #03e319 !important;
 }
 
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 1rem;
+}
+
+
 h1 {
   text-align: center;
   background: linear-gradient(135deg, #03e319 0%, #00f9ff 100%);
