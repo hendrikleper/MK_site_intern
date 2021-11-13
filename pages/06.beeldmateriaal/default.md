@@ -1,6 +1,6 @@
 ---
 title: Beeldmateriaal
-routable: false
+routable: true
 visible: true
 lightslider:
     slider_type: image
