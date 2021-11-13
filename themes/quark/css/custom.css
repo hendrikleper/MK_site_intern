@@ -1,5 +1,7 @@
 @media screen {
-  body {}
+  body {
+    background: linear-gradient(135deg, #03e319 0%, #00f9ff 100%)
+  }
 }
 
 a {
@@ -20,25 +22,11 @@ a:visited {
 }
 
 .mobile-menu .button_container span {
-  background: rgba(3, 227, 25, 1);
+  background: #03e319;
   background: linear-gradient(135deg, #03e319 0%, #00f9ff 100%);
-  border: none;
-  height: 4px;
-  width: 100%;
-  position: absolute;
-  top: 0;
-  left: 0;
-  transition: all .35s ease;
-  cursor: pointer;
+  border: none; height: 4px; width: 100%; position: absolute; top: 0; left: 0; transition: all .35s ease; cursor: pointer;
 }
 
 .dropmenu ul li a:hover, .dropmenu ul li a:focus, .dropmenu ul li a.active {
   color: #03e319 !important;
-}
-
-h1 {
-  background: linear-gradient(135deg, #03e319 0%, #00f9ff 100%);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  text-align: center;
 }
