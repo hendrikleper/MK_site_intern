@@ -184,7 +184,7 @@ form .form-group:not(.form-field-toggleable) .checkboxes label:before { display:
 
 .mobile-menu .button_container.active .bottom { transform: translateY(-8px) translateX(0) rotate(-45deg); background: #FFF; }
 
-.mobile-menu .button_container span { background: rgba(3,227,25,1); background: linear-gradient(135deg, rgba(3,227,25,1) 0%, rgba(0,249,255,1) 100%); border: none; height: 4px; width: 100%; position: absolute; top: 0; left: 0; transition: all .35s ease; cursor: pointer; }
+.mobile-menu .button_container span { background: #3e8def; border: none; height: 4px; width: 100%; position: absolute; top: 0; left: 0; transition: all .35s ease; cursor: pointer; }
 
 .mobile-menu .button_container span:nth-of-type(2) { top: 8px; }
 
