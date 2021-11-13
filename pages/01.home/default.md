@@ -1,6 +1,6 @@
 ---
 title: welkom
-body_classes: 'title-center title-h1h2'
+body_classes: ''
 media_order: MKcover.jpg
 ---
 
