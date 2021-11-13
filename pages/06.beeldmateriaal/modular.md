@@ -1,5 +1,6 @@
 ---
 title: Beeldmateriaal
+menu: Beeldmateriaal
 onpage_menu: true
 content:
     items: '@self.modular'
