@@ -1,5 +1,6 @@
 ---
 title: Welkom
+visible: false
 ---
 
 # WELKOM
