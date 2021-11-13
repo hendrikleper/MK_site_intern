@@ -1,5 +1,5 @@
 ---
-title: Beeldmateriaal titel
+title: Beeldmateriaal
 ---
 
 # Beeldmateriaal

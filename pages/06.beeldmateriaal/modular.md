@@ -2,7 +2,6 @@
 title: Beeldmateriaal
 menu: Beeldmateriaal
 onpage_menu: true
-body_classes: "modular header-image fullwidth"
 content:
     items: '@self.modular'
     order:
