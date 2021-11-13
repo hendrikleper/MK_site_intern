@@ -12,6 +12,13 @@ a:visited {
 
 .treemenu li a:hover, .treemenu li a:focus, .treemenu li a.active {
   color: #03e319 !important;
+  background: linear-gradient(135deg, #03e319 0%, #00f9ff 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  text-fill-color: transparent;
+  -webkit-text-fill-color: transparent;
+  -moz-text-fill-color: transparent;
   text-decoration: none;
 }
 
