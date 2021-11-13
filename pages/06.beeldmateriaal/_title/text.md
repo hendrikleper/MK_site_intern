@@ -1,5 +1,0 @@
----
-title: Beeldmateriaal
----
-
-# BEELDMATERIAAL

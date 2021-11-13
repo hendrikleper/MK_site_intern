@@ -1,6 +1,5 @@
 ---
 title: Beeldmateriaal
-menu: Beeldmateriaal
 onpage_menu: true
 content:
     items: '@self.modular'
@@ -8,7 +7,5 @@ content:
         by: default
         dir: asc
         custom:
-            - _title
             - _slides
 ---
-
