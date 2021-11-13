@@ -6,7 +6,7 @@ Title: Agenda
 #### initiaties en projecten codelab
 
 | | 1e semester |       |     |
-| :---: | --- | :---: | --- |
+| --- | --- | :---: | --- |
 | w1 | di 28/09 9:00-15:30 | **CODE AS A CREATIVE MEDIUM** & [CFA](projecten/2021_CFA) | Elias, Jerry & Hendrik |
 | w2 | di 5/10 9:00-15:30   | [NETART lecture / Webdev](projecten/2021_netartwebdev)  | Hendrik |
 | w3 | di 12/10 9:00-15:30  | [NETART Webdev](projecten/2021_netartwebdev) | Hendrik |
