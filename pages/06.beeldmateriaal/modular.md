@@ -11,4 +11,3 @@ content:
         custom:
             - _slides
 ---
-# Beeldmateriaal
