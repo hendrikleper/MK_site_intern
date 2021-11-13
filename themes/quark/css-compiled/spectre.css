@@ -139,13 +139,13 @@ html { box-sizing: border-box; font-size: 20px; line-height: 1.5; -webkit-tap-hi
 
 body { background: #fff; color: #50596c; font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif; font-size: 0.8rem; overflow-x: hidden; text-rendering: optimizeLegibility; }
 
-a { color: #3085EE; outline: none; text-decoration: none; }
+a { color: #03e319; outline: none; text-decoration: none; }
 
 a:focus { box-shadow: 0 0 0 0.1rem rgba(48, 133, 238, 0.2); }
 
-a:focus, a:hover, a:active, a.active { color: #126bd9; text-decoration: underline; }
+a:focus, a:hover, a:active, a.active { color: #4be303; text-decoration: underline; }
 
-a:visited { color: #5fa1f2; }
+a:visited { color: #07cb1a; }
 
 h1, h2, h3, h4, h5, h6 { color: inherit; font-weight: 500; line-height: 1.2; margin-bottom: .5em; margin-top: 0; }
 
