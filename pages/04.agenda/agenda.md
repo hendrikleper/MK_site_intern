@@ -1,5 +1,5 @@
 ---
-Title: agenda
+Title: Agenda
 ---
 # AGENDA
 ## 1e BACHELOR

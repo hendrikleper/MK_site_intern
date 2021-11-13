@@ -1,6 +1,5 @@
 ---
 title: 'Praktische Info'
-body_classes: 'title-center title-h1h2'
 ---
 
 # PRAKTISCHE INFO
