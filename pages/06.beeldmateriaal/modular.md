@@ -2,7 +2,6 @@
 title: Beeldmateriaal
 menu: Beeldmateriaal
 onpage_menu: true
-lightbox: true
 content:
     items: '@self.modular'
     order:
