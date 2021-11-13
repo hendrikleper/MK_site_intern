@@ -52,11 +52,11 @@ section.section { padding-left: 1rem; padding-right: 1rem; position: relative; }
 
 .overlay-dark-gradient .image-overlay { background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)); }
 
-html { font-size: 20px; }
+html { font-size: 18px; }
 
-@media screen and (min-width: 480px) { html { font-size: calc(20px + 4 * ((100vw - 480px) / 800)); } }
+@media screen and (min-width: 480px) { html { font-size: calc(18px + 4 * ((100vw - 480px) / 800)); } }
 
-@media screen and (min-width: 1280px) { html { font-size: 24px; } }
+@media screen and (min-width: 1280px) { html { font-size: 22px; } }
 
 h1, h2, h3, h4, h5, h6 { margin-top: 2rem; font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif; color: #3a414e; }
 
@@ -184,7 +184,7 @@ form .form-group:not(.form-field-toggleable) .checkboxes label:before { display:
 
 .mobile-menu .button_container.active .bottom { transform: translateY(-8px) translateX(0) rotate(-45deg); background: #FFF; }
 
-.mobile-menu .button_container span { background: #3085EE; border: none; height: 4px; width: 100%; position: absolute; top: 0; left: 0; transition: all .35s ease; cursor: pointer; }
+.mobile-menu .button_container span { background: rgba(3,227,25,1); background: linear-gradient(135deg, rgba(3,227,25,1) 0%, rgba(0,249,255,1) 100%); border: none; height: 4px; width: 100%; position: absolute; top: 0; left: 0; transition: all .35s ease; cursor: pointer; }
 
 .mobile-menu .button_container span:nth-of-type(2) { top: 8px; }
 
