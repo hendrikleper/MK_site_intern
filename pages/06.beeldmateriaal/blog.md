@@ -1,5 +1,5 @@
 ---
-title: Slider Content
+title: Beeldmateriaal
 routable: false
 visible: false
 lightslider:
