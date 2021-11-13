@@ -1,6 +1,7 @@
 ---
 Title: info voor kandidaat studenten
-published: false
+published: true
+routable: true
 ---
 # INFO VOOR KANDIDAAT STUDENTEN
 [Studiegids 2021-2022](https://issuu.com/schoolofartsgent/docs/2122_studiewijzer)
