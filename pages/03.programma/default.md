@@ -1,5 +1,5 @@
 ---
-Title: programma
+Title: Programma
 ---
 # PROGRAMMA / CURRICULA
 

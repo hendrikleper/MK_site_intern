@@ -1,5 +1,5 @@
 ---
-Title: info voor kandidaat studenten
+Title: 'Info voor Kandidaat Studenten'
 published: true
 routable: true
 visible: false
