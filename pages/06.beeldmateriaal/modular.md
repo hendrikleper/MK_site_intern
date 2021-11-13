@@ -1,7 +1,7 @@
 ---
 title: Beeldmateriaal
 routable: true
-visible: true
+visible: false
 lightslider:
     slider_type: image
     type_text_vertical_padding: 70px;
