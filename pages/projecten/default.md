@@ -1,9 +1,9 @@
 ---
-Title: the Art of Code • Context Free Art
-Description: This description will go in the meta description tag
+Title: 'the Art of Code • Context Free Art'
+Description: 'This description will go in the meta description tag'
 Author: Hendrik
 Date: 2020/09/26
-Robots: noindex,nofollow
+Robots: 'noindex,nofollow'
 Template: index
 ---
 
