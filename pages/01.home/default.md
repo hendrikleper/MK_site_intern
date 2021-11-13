@@ -1,5 +1,6 @@
 ---
 title: Welkom
+hero_classes: text-dark
 ---
 
 ! **Mediakunst** is één van de zes trajecten binnen de opleiding beeldende kunsten - Vrije Kunsten aan KASK (Koninklijke Academie voor Schone Kunsten) dat samen met het Koninklijk Conservatorium de [School of Arts](https://www.schoolofartsgent.be/) van HOGENT en Howest vormt.
