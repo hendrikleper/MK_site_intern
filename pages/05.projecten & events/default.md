@@ -1,7 +1,6 @@
 ---
 Title: 'Projecten en Events'
 ---
-
 # PROJECTEN & EVENTS 21-22
 ## [workshop BLENDER](../projecten/2021_blender)
 **woekshop 3D modeling, sculpting, shading & rendering met Fons Artois**    

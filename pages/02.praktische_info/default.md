@@ -1,7 +1,6 @@
 ---
 title: 'Praktische Info'
 ---
-
 # PRAKTISCHE INFO
 ## Nuttige links
 
