@@ -8,5 +8,6 @@ content:
         by: default
         dir: asc
         custom:
+            - _empty
             - _slides
 ---
