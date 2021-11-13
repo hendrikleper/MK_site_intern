@@ -1,22 +1,42 @@
 @media screen {
-  body {
+  body {}
+}
 
-  }
+a {
+  color: #03e319;
+}
 
+a:focus, a:hover, a:active, a.active {
+  color: #4be303;
+}
 
-  a { color: #03e319; }
+a:visited {
+  color: #07cb1a;
+}
 
-  a:focus, a:hover, a:active, a.active { color: #4be303; }
+.treemenu li a:hover, .treemenu li a:focus, .treemenu li a.active {
+  color: #03e319 !important;
+  text-decoration: none;
+}
 
-  a:visited { color: #07cb1a; }
+.mobile-menu .button_container span {
+  background: rgba(3, 227, 25, 1);
+  background: linear-gradient(135deg, #03e319 0%, #00f9ff 100%);
+  border: none;
+  height: 4px;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  transition: all .35s ease;
+  cursor: pointer;
+}
 
-  .treemenu li a:hover, .treemenu li a:focus, .treemenu li a.active { color: #03e319 !important; text-decoration: none; }
+.dropmenu ul li a:hover, .dropmenu ul li a:focus, .dropmenu ul li a.active {
+  color: #03e319 !important;
+}
 
-  .mobile-menu .button_container span { background: rgba(3,227,25,1); background: linear-gradient(135deg, #03e319 0%, #00f9ff 100%); border: none; height: 4px; width: 100%; position: absolute; top: 0; left: 0; transition: all .35s ease; cursor: pointer; }
-
-  .dropmenu ul li a:hover, .dropmenu ul li a:focus, .dropmenu ul li a.active { color: #03e319 !important; }
-
-  h1 {
+h1 {
   background: linear-gradient(135deg, #03e319 0%, #00f9ff 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
