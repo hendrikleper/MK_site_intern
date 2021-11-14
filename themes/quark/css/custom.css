@@ -6,6 +6,10 @@ a:focus, a:hover, a:active, a.active {
   color: #4be303;
 }
 
+a:hover {
+  text-decoration-style: wavy;
+}
+
 a:visited {
   color: #07cb1a;
 }
