@@ -13,9 +13,9 @@ title: 'Praktische Info'
 
 ### Materiaal & werkplaatsen
 [Faciliteiten van de School of Arts](https://schoolofartsgent.be/nl/onderwijs/faciliteiten) met o.a.
-* de [uitleendienst](http://uitleendienst.schoolofarts.be/users/sign_in)
-* [houtatelier Bijloke](https://www.facebook.com/KASKhoutatelier)
-* doka
+* [Uitleendienst](http://uitleendienst.schoolofarts.be/users/sign_in)
+* [Houtatelier Bijloke](https://www.facebook.com/KASKhoutatelier)
+* doka fotografie
 * studio's bij fotografie
 * print- en scanatelier fotografie
 * atelier grafiek
@@ -24,16 +24,18 @@ title: 'Praktische Info'
 
 ### Software
 * Adobe CC software: Ga naar [academicsoftware.eu](https://www.academicsoftware.eu/) en meld je aan met je Hogent mailadres en wachtwoord volgens de [handleiding](https://streamable.com/tb4xyr). Indien je problemen ervaart neem je contact op met Thomas Janssens (advies en beheer ICT) 09/2433637 of [per mail](mailto:thomas.janssens@hogent.be)
+* We hebben een aantal [Max licenties](https://cycling74.com/) op iLok-key die  uitleenbaar zijn.
 * [Linkedin Learning](https://linkedin-learning.pxf.io/) is een online platform voor het volgen van videotrainingen.
 * [Github repositories](https://github.com/theBlackBoxSociety/)
 
 ### Internet & webtools
-* [Belnet FileSender](https://filesender.belnet.be/index.php?s=upload), zendt veilig en gemakkelijk grote bestanden (tot 5TB!!) naar andere gebruikers.
+* [Belnet FileSender](https://filesender.belnet.be/index.php?s=upload), verzend veilig en gemakkelijk grote bestanden (tot 5TB!!) naar andere gebruikers
 * [Hogent IT helpdesk](https://servicedesk.hogent.be/)
 
-## WIFI
-* op de campus via het "eduroam" netwerk met je Hogent mailadres en wachtwoord
-* in het Atelier mediakunst op "mediakunst" netwerk met wachtwoord `m3d1a@kunsttoren`
+## Draadloos netwerk
+* Op de hele campus kan je gebruik maken van het "eduroam" netwerk. Aanmelden doe je aan de hand van je Hogent gebruikersnaam (gevolgd door @hogent.be) + wachtwoord. Bvb: abcd124@hogent.be + wachtwoord    
+Extra instellingen op Android: EAP-methode: PEAP | PHASE 2 Verificatie: MSCHAPv2 | CA Certificaat: niet valideren
+* In het Atelier mediakunst is er het "mediakunst" netwerk met wachtwoord `m3d1a@kunsttoren`
 
 ## Documenten
 * [sjabloon zelf-reflectieverslag](SjabloonReflectieverslag.rtf)

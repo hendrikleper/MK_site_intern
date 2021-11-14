@@ -81,7 +81,8 @@ interview: ~~30.08.2021~~
 ## PROGRAM
 [PDF with the program of the bachelor & master Media Art](http://docs.schoolofarts.be/documenten/Curricula%20beeldende%20kunsten/mediakunst.pdf)
 
-[Master seminars](https://schoolofartsgent.be/assets/files/paginas/files/DOC_SeminariesMaster2021.pdf)
+[Master seminars](https://schoolofartsgent.be/2021/wp-content/uploads/2021/09/DOC_SeminariesMaster2122.pdf)
+
 
 ## MENTORS
 [list with available mentors 2020-2021](http://www.docs.schoolofarts.be/documenten/Master/Mentoren20202021.pdf)
