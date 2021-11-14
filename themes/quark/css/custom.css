@@ -26,7 +26,8 @@ a:visited {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    margin-top: 1rem;
+    margin-top: 0.5rem;
+    margin-bottom: 0.2rem;
 }
 
 
@@ -42,6 +43,10 @@ h1 {
 }
 h2 {
   text-align: center;
+  text-transform: lowercase;
+}
+h3 {
+  text-transform: lowercase;
 }
 
 #body-wrapper .container {
