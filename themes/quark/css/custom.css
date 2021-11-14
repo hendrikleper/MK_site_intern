@@ -31,9 +31,9 @@ html { font-size: 20px; }
 
 @media screen and (min-width: 1280px) { html { font-size: 24px; } }
 
-h1, .h1 { font-size: 2.4rem; }
+h1, .h1 { font-size: 3rem; }
 
-h2, .h2 { font-size: 1.6rem; }
+h2, .h2 { font-size: 1.8rem; }
 
 h3, .h3 { font-size: 1.4rem; }
 
@@ -63,6 +63,7 @@ h1 {
 h2 {
   text-align: center;
   text-transform: lowercase;
+  font-weight: 700;
 }
 h3 {
   text-align: center;
