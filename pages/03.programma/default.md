@@ -27,7 +27,7 @@ of een rooster met de aanwezigheid van docenten doorheen de week.
 
 
 ## Studiefiches
-[link](https://www.hogent.be/studiefiches/) naar alle fiches van alle opleidingen School of Arts Gent.
+[studiefiches](https://www.hogent.be/studiefiches/) van alle opleidingen School of Arts Gent.
 
 ###  1e bachelor
 * [Atelier mediakunst I](https://bamaflexweb.hogent.be/BMFUIDetailxOLOD.aspx?a=128852&b=5&c=1)
