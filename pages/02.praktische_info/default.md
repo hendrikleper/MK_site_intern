@@ -21,11 +21,11 @@ title: 'Praktische Info'
 
 <div class="columns">
   <div class="column col-sm-12">
-    <div class="toast toast-warning"><a href="http://uitleendienst.schoolofarts.be/users/sign_in" target=_blanc>HoGent Uitleendienst</a>
+    <div class="toast toast-warning text-center text-dark"><a href="http://uitleendienst.schoolofarts.be/users/sign_in" target=_blanc>HoGent Uitleendienst</a>
     </div>
   </div>
   <div class="column col-sm-12">
-    <div class="toast toast-warning"><a href="https://www.facebook.com/KASKhoutatelier" target=_blanc>Houtatelier Bijloke</a>
+    <div class="toast toast-warning text-center"><a href="https://www.facebook.com/KASKhoutatelier" target=_blanc>Houtatelier Bijloke</a>
     </div>
   </div>
   <div class="column col-sm-12">
