@@ -1,13 +1,5 @@
 ---
 title: Beeldmateriaal
-menu: Beeldmateriaal
-onpage_menu: true
-content:
-    items: '@self.modular'
-    order:
-        by: default
-        dir: asc
-        custom:
-            - _empty
-            - _slides
 ---
+# BEELDMATERIAAL
+<iframe src="https://mediakunst.be/openhouse/" title="description" height="500px" width="100%">
