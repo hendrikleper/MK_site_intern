@@ -2,28 +2,28 @@
 Title: 'Projecten en Events'
 ---
 # PROJECTEN & EVENTS 21-22
-## [workshop BLENDER](../projecten/2021_blender)
+## [workshop BLENDER](../projecten/2021 blender)
 **woekshop 3D modeling, sculpting, shading & rendering met Fons Artois**    
 Black Box, Atelier MEDIAKUNST / KASK    
 woensdag 1 en 8 december 2021, 9:00-12:30
 
-## [workshop SOUND IN THE ARTS](../projecten/2021_sound)
+## [workshop SOUND IN THE ARTS](../projecten/2021 sound)
 **kennismaking met het domein van geluidskunst en introductie tot klank opname- en montagetechnieken met [Liew Niyomkarn](https://liewniyomkarn.com/)**    
 Atelier MEDIAKUNST / KASK    
 8 - 10 november 2021, 10:00 - 17:00
 
-## [X-RAY PAULINE CURNIER JARDIN](../projecten/2021_paulinecurnierjardin)
+## [X-RAY PAULINE CURNIER JARDIN](../projecten/2021 paulinecurnierjardin)
 unfolding the practice & screening    
 KASKcinema    
 woensdag 10 november, 2021, 15:30 en 20:30
 
-## [Lezing LISA SPILLIAERT](../projecten/2021_lisaspiliaert)    
+## [Lezing LISA SPILLIAERT](../projecten/2021 lisaspiliaert)    
 CIRQUE auditorium / KASK    
 woensdag 20 oktober 2021, 16:00    
 i.s.m. KASK Fotografie & Courtisane festival    
 
 
-## [Lezing CHT/TOTALISM.ORG](../projecten/2021_totalismlecture)
+## [Lezing CHT/TOTALISM.ORG](../projecten/2021 totalismlecture)
 met David Potocnik & Elisabeth De Laet    
 atelier MEDIAKUNST / KASK    
 woensdag 6 oktober 2021, 18:00    
