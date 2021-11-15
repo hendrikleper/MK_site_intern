@@ -12,17 +12,23 @@ Title: Agenda
 | w3 | di 12/10 9:00-15:30  | [NETART Webdev](projecten/2021_netartwebdev) | Hendrik |
 | w4 | di 19/10 9:00-15:30  | [MAX](projecten/2021_max) | Jerry |
 | w5 | di 26/10 9:00-15:30  | [MAX](projecten/2021_max) | Jerry |
-| w6 | di 2/11 9:00-15:30   | Geen Les |  |
-|  | wo 3/11 9:00-12:30   | Geen Les Hendrik Leper |  |
+| w6 | di 2/11 9:00-15:30   | Geen les |  |
+|  | wo 3/11 9:00-12:30   | Uitzonderlijk geen les |  |
 | w7 | PROJECTWEEK |  |  |
-| w8 | di 16/11  9:00-12:30 | print & lasercut | Hendrik |
-| w9 | di 23/11 9:00-12:30  | physical computing | Hendrik |
+| w8 | di 16/11  9:00-15:00 | begeleiding autonomoon werk | Hendrik |
+|  | wo 17/11  9:00-12:30 | initiatie print & lasercut | Hendrik |
+| w9 | di 23/11 9:00-15:00  | begeleiding autonomoon werk | Hendrik |
+|  | wo 24/11 10:30-15:30  | Tussentijdse Jury | Fairuz, Jerry & Hendrik |
 | w10 | di 30/11 9:00-15:30 | [AI](projecten/2021_AI) | Jerry |
 |  | wo 1/12 9:00-12:30 | Blender | Fons Artois |
+|  | wo 1/12 13:30-17:30 | uitstap BXL | Fairuz & Hendrik |
 | w11 | di 7/12 9:00-15:30 | [AI](projecten/2021_AI)  | Jerry |
 |  | wo 8/12 9:00-12:30 | Blender | Fons Artois |
-| w12 | di 15/12 9:00-15:30 | Axidraw & Plotting | Elias, Jerry, Hendrik |
+|  | wo 8/12 13:30-17:30 | autonomoon werk | Fairuz & Hendrik |
+| w12 | di 15/12 9:00-15:30 | Axidraw & Plotting / physical computing | Hendrik |
+|  | wo 19/12 13:30-17:30 | autonomoon werk | Hendrik |
 | w13 | di 21/12 9:00-12:30 | Open Lab | Jerry & Hendrik |
+|  | wo 22/12 13:30-17:30 | autonomoon werk | Hendrik |
 
 <!--
 |  | 2e semester |  |  |
@@ -55,12 +61,12 @@ Title: Agenda
 | 	| 	| 	| 	|
 
 -->
-#### <span style="background-color: #fffbe2;">uitstappen</span>
+#### uitstappen
 |     |       |     |
 | --- | :---: | --- |
+| woensdag 1/12 namiddag | Brussel | Bezoek aan Argos, iMal, ... |
 
-
-#### <span style="background-color: #fcc972;">jury's</span>
+#### jury's
 |     |       |     |
 | --- | :---: | --- |
 | wo 24/11 10:30-16:00 | **tussentijdse jury** | jury: Fairuz, Jerry & Hendrik |
@@ -70,7 +76,7 @@ Title: Agenda
 
 
 ## 2e BACHELOR
-#### <span style="background-color: #fcc972;">jury's</span>
+#### jury's
 |     |       |     |
 | --- | :---: | --- |
 | do 25/11 9:00-17:30 | **tussentijdse jury** | jury: Joost, Anouk & Hendrik |
@@ -80,7 +86,7 @@ Title: Agenda
 
 
 ## 3e BACHELOR
-#### <span style="background-color: #fcc972;">jury's</span>
+#### jury's
 |     |       |     |
 | --- | :---: | --- |
 | vr 26/11 10:30-17:30 | **tussentijdse jury** | jury: Jerry, Jasper & Anouk |

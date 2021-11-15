@@ -1,13 +1,6 @@
 ---
-Title: BLENDER
-Description: A workshop on 3D modeling, sculpting, shading & rendering with Blender
-Author: Hendrik
-Date: 2021/10/20
-Robots: noindex,nofollow
-Template: index
+Title: WORKSHOP BLENDER
 ---
-
-
 # WORKSHOP BLENDER
 ##3D modeling, sculpting, shading & rendering
 

@@ -1,12 +1,6 @@
 ---
 Title: AI CODELAB
-Description: This description will go in the meta description tag
-Author: Hendrik
-Date: 2021/01/09
-Robots: noindex,nofollow
-Template: index
 ---
-
 # AI CODELAB
 <iframe src="https://www.thispersondoesnotexist.com/" width="100%" height="400" style="border:none; background-color:#FFF;"></iframe>
 <sub>fake AI-id met https://www.thispersondoesnotexist.com/</sub>
