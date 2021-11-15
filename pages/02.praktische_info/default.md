@@ -11,7 +11,11 @@ title: 'Praktische Info'
 <div class="chip"><a href="https://ibamaflex.hogent.be/" target=_blanc>iBaMaFlex • curriculum</a></div>
 <div class="chip"><a href="https://hogent.asimut.net/public/" target=_blanc>Asimut • persoonlijk lessenrooster</a></div>
 
-<div class="chip">[Jaarkalender 21-22](https://schoolofartsgent.be/2021/wp-content/uploads/2021/05/07_Acad-kal-2021-2022-SCH-ACAD-v2.pdf)</div>
+<div class="chip">
+
+[Jaarkalender 21-22](https://schoolofartsgent.be/2021/wp-content/uploads/2021/05/07_Acad-kal-2021-2022-SCH-ACAD-v2.pdf)
+
+</div>
 
 ### Materiaal & werkplaatsen
 [Faciliteiten van de School of Arts](https://schoolofartsgent.be/nl/onderwijs/faciliteiten) met o.a.
