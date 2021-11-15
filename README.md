@@ -1,4 +1,4 @@
 # MK intern site
 Interne website voor KASK mediakunst studenten.
 
-Built with [Pico](http://picocms.org/), a stupidly simple, blazing fast, flat file CMS.
+Built with [Grav CMS](https://getgrav.org/) and Git Sync, a plugin that allows to seamlessly synchronize a Git repository with a Grav site, and vice-versa.

@@ -80,3 +80,34 @@ a:visited {
 .chipXL .avatar { margin-left: -0.4rem; margin-right: 0.2rem; }
 
 .chipXL .btn-clear { border-radius: 50%; transform: scale(0.75); }
+
+#navigation a.github-link {
+    font-size: inherit!important;
+    display: -ms-flexbox;
+    display: flex;
+    padding: 0 1rem;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+
+#navigation a.github-link i {
+    padding-right: 5px;
+}
+
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 ForkAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.fa-pencil-square:before {
+    content: "\f14b";
+}
+
+.fa-pencil-square:before {
+    content: "\f14b";
+}
