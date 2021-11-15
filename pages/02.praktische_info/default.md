@@ -16,12 +16,8 @@ title: 'Praktische Info'
 <div class="chipXL"><a href="https://schoolofartsgent.be/2021/wp-content/uploads/2021/05/07_Acad-kal-2021-2022-SCH-ACAD-v2.pdf" target=_blanc>Jaarkalender 21-22</a></div>
 
 ### Materiaal & werkplaatsen
-
-[Faciliteiten van de School of Arts](https://schoolofartsgent.be/nl/onderwijs/faciliteiten) met o.a.
-
-<div class="chipXL"><a href="http://uitleendienst.schoolofarts.be/users/sign_in" target=_blanc>HoGent Uitleendienst</a></div>
+<div class="chipXL"><a href="http://uitleendienst.schoolofarts.be/users/sign_in" target=_blanc>Uitleendienst</a></div>
 <div class="chipXL"><a href="https://www.facebook.com/KASKhoutatelier" target=_blanc>Houtatelier Bijloke</a></div>
-
 <div class="chipXL"><a href="" target=_blanc>doka fotografie</a></div>
 <div class="chipXL"><a href="" target=_blanc>studio's fotografie</a></div>
 <div class="chipXL"><a href="" target=_blanc>print- en scanatelier fotografie</a></div>
@@ -45,7 +41,8 @@ title: 'Praktische Info'
 
 ## Draadloos netwerk
 
-☞ Op de hele campus kan je gebruik maken van het "eduroam" netwerk. Aanmelden doe je aan de hand van je Hogent gebruikersnaam (gevolgd door @hogent.be) + wachtwoord. Bvb: abcd124@hogent.be + wachtwoord  Extra instellingen op Android: EAP-methode: PEAP | PHASE 2 Verificatie: MSCHAPv2 | CA Certificaat: niet valideren    
+☞ Op de hele campus kan je gebruik maken van het "eduroam" netwerk. Aanmelden doe je aan de hand van je Hogent gebruikersnaam (gevolgd door @hogent.be) + wachtwoord. Bvb: abcd124@hogent.be + wachtwoord     
+Extra instellingen op Android: EAP-methode: PEAP | PHASE 2 Verificatie: MSCHAPv2 | CA Certificaat: niet valideren    
 ☞ In het Atelier mediakunst is er het "mediakunst" netwerk met wachtwoord `m3d1a@kunsttoren`
 
 ## Documenten
