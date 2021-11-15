@@ -1,19 +1,9 @@
 ---
 Title: 'the Art of Code • Context Free Art'
-Description: 'This description will go in the meta description tag'
-Author: Hendrik
-Date: 2020/09/26
-Robots: 'noindex,nofollow'
-Template: index
 ---
-
 # CONTEXT FREE ART
 
 Deze eerste workshop is een korte eerste kennismaking met het schijven van computer-code. We gebruiken hiervoor het programma [Context Free](https://www.contextfreeart.org/). De tutorial & files vind je [hier](https://github.com/theBlackBoxSociety/CodeCrashCourses/blob/master/CFA.md).
-
-
-
-
 
 👀 The Art of Code lecture by [Dylan Beattie](https://dylanbeattie.net/)
 > Hi there. I'm Dylan.    

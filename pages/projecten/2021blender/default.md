@@ -29,8 +29,7 @@ sculpting, shading + rendering
 ## DEELNEMEN
 Mail hendrik.leper-at-hogent.be
 
-<hr>
+![](blender2021.jpeg)
+
 ## FONS ARTOIS
 Fons Artois is alumni media art. His graduation project [Tools for Animals](https://graduation.schoolofarts.be/student/fons-artois/) is a speculative open source design project looking at how we can better arm animals against humans.  Fons has interests in: Ecofuturism, Bio-Art and posthumanist literature. He is currently giving workshops and working on a sci-fi adventure game: "SOURCE".
-
-![](%assets_url%/blender2021.jpeg)

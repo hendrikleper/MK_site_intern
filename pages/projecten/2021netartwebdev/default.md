@@ -1,12 +1,6 @@
 ---
 Title: <!--net.art web.dev-->
-Description: This description will go in the meta description tag
-Author: Hendrik
-Date: 2021/10/02
-Robots: noindex,nofollow
-Template: index
 ---
-
 # &lt;!--net.art web.dev--&gt;
 ##Web literacy for artists HTML, CSS (en Javascript)
 
@@ -30,8 +24,7 @@ Enkele aanraders:
 
 In de [kunstenbibliotheek](https://kunstenbibliotheek.be/) vind je ook een aantal boeken.
 
-![netart](%assets_url%/netart.jpg)
-
+![netart](netart.jpg)
 
 ## LANGUAGES: HTML & CSS
 

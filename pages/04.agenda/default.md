@@ -3,15 +3,15 @@ Title: Agenda
 ---
 # AGENDA
 ## 1e BACHELOR
-#### initiaties en projecten codelab
+#### initiaties en ../projecten codelab
 
 | | 1e semester |       |     |
 |:---|:---|:---:|---:|
-| w1 | di 28/09 9:00-15:30 | **CODE AS A CREATIVE MEDIUM** & [CFA](projecten/2021_CFA) | Elias, Jerry & Hendrik |
-| w2 | di 5/10 9:00-15:30   | [NETART lecture / Webdev](projecten/2021_netartwebdev)  | Hendrik |
-| w3 | di 12/10 9:00-15:30  | [NETART Webdev](projecten/2021_netartwebdev) | Hendrik |
-| w4 | di 19/10 9:00-15:30  | [MAX](projecten/2021_max) | Jerry |
-| w5 | di 26/10 9:00-15:30  | [MAX](projecten/2021_max) | Jerry |
+| w1 | di 28/09 9:00-15:30 | **CODE AS A CREATIVE MEDIUM** & [CFA](../projecten/2021CFA) | Elias, Jerry & Hendrik |
+| w2 | di 5/10 9:00-15:30   | [NETART lecture / Webdev](../projecten/2021netartwebdev)  | Hendrik |
+| w3 | di 12/10 9:00-15:30  | [NETART Webdev](../projecten/2021netartwebdev) | Hendrik |
+| w4 | di 19/10 9:00-15:30  | [MAX](../projecten/2021max) | Jerry |
+| w5 | di 26/10 9:00-15:30  | [MAX](../projecten/2021max) | Jerry |
 | w6 | di 2/11 9:00-15:30   | Geen les |  |
 |  | wo 3/11 9:00-12:30   | Uitzonderlijk geen les |  |
 | w7 | PROJECTWEEK |  |  |
@@ -19,10 +19,10 @@ Title: Agenda
 |  | wo 17/11  9:00-12:30 | initiatie print & lasercut | Hendrik |
 | w9 | di 23/11 9:00-15:00  | begeleiding autonomoon werk | Hendrik |
 |  | wo 24/11 10:30-15:30  | Tussentijdse Jury | Fairuz, Jerry & Hendrik |
-| w10 | di 30/11 9:00-15:30 | [AI](projecten/2021_AI) | Jerry |
+| w10 | di 30/11 9:00-15:30 | [AI](../projecten/2021AI) | Jerry |
 |  | wo 1/12 9:00-12:30 | Blender | Fons Artois |
 |  | wo 1/12 13:30-17:30 | uitstap BXL | Fairuz & Hendrik |
-| w11 | di 7/12 9:00-15:30 | [AI](projecten/2021_AI)  | Jerry |
+| w11 | di 7/12 9:00-15:30 | [AI](../projecten/2021AI)  | Jerry |
 |  | wo 8/12 9:00-12:30 | Blender | Fons Artois |
 |  | wo 8/12 13:30-17:30 | autonomoon werk | Fairuz & Hendrik |
 | w12 | di 15/12 9:00-15:30 | Axidraw & Plotting / physical computing | Hendrik |

@@ -47,7 +47,7 @@ Inschrijven kan je via mail naar hendrik.leper-at-hogent.be. De workshop staat o
 
 ## Liew Niyomkarn
 
-![LIEW NIYOMKARN](%assets_url%/2021_liew.jpg)
+![LIEW NIYOMKARN](2021_liew.jpg)
 
 [Liew Niyomkarn](https://liewniyomkarn.com/) is geluidskunstenaar en muzikant. Ze woont en werkt in Antwerpen. Haar werkdomein bevindt zich binnen de elektronische muziek, performance, geluidskunst en klank voor bewegend beeld. Haar werk werpt een kritische blik op de historische wortels van de geografie en verwijst vaak naar rituelen, overlevingstechnieken en akoestische ecologie. Ze maakt gebruik van gevonden objecten, field recordings, code, video, tekst, spoken word, … Deze elementen combineert ze met een rijk klankenpalet waarbij de fysieke eigenschappen van geluid zelf geïntegreerd worden.    
 
