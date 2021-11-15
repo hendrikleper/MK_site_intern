@@ -41,13 +41,12 @@ title: 'Praktische Info'
 
 ### Internet & webtools
 
-☞ [Belnet FileSender](https://filesender.belnet.be/index.php?s=upload), verzend veilig en gemakkelijk grote bestanden (tot 5TB!!) naar andere gebruikers    
+☞ [Belnet FileSender](https://filesender.belnet.be/index.php?s=upload), verzend veilig en gemakkelijk grote bestanden (tot 5TB!!) naar andere gebruikers     
 ☞ [Hogent IT helpdesk](https://servicedesk.hogent.be/)
 
 ## Draadloos netwerk
 
-☞ Op de hele campus kan je gebruik maken van het "eduroam" netwerk. Aanmelden doe je aan de hand van je Hogent gebruikersnaam (gevolgd door @hogent.be) + wachtwoord. Bvb: abcd124@hogent.be + wachtwoord  
-    Extra instellingen op Android: EAP-methode: PEAP | PHASE 2 Verificatie: MSCHAPv2 | CA Certificaat: niet valideren
+☞ Op de hele campus kan je gebruik maken van het "eduroam" netwerk. Aanmelden doe je aan de hand van je Hogent gebruikersnaam (gevolgd door @hogent.be) + wachtwoord. Bvb: abcd124@hogent.be + wachtwoord  Extra instellingen op Android: EAP-methode: PEAP | PHASE 2 Verificatie: MSCHAPv2 | CA Certificaat: niet valideren    
 ☞ In het Atelier mediakunst is er het "mediakunst" netwerk met wachtwoord `m3d1a@kunsttoren`
 
 ## Documenten
