@@ -20,29 +20,29 @@ title: 'Praktische Info'
 [Faciliteiten van de School of Arts](https://schoolofartsgent.be/nl/onderwijs/faciliteiten) met o.a.
 
 <div class="chip"><a href="http://uitleendienst.schoolofarts.be/users/sign_in" target=_blanc>HoGent Uitleendienst</a></div>
-<hr>
+<br>
 <div class="chip"><a href="https://www.facebook.com/KASKhoutatelier" target=_blanc>Houtatelier Bijloke</a></div>
-<hr>
+<br>
 <div class="chip"><a href="" target=_blanc>doka fotografie</a></div>
 <div class="chip"><a href="" target=_blanc>studio's fotografie</a></div>
 <div class="chip"><a href="" target=_blanc>print- en scanatelier fotografie</a></div>
-<hr>
+<br>
 <div class="chip"><a href="" target=_blanc>atelier grafiek</a></div>
-<hr>
+<br>
 <div class="chip"><a href="https://www.formlab.schoolofarts.be/" target=_blanc>FORMLAB</a></div>
-<div class="chip"><a href="http://www.laboratorium.bio/" target=_blanc>LABORATORIUM / Biolab</a></div>
+<div class="chip"><a href="http://www.laboratorium.bio/" target=_blanc>LABORATORIUM • Biolab</a></div>
 
 ### Software
 
-☞   Adobe CC software: Ga naar [academicsoftware.eu](https://www.academicsoftware.eu/) en meld je aan met je Hogent mailadres en wachtwoord volgens de [handleiding](https://streamable.com/tb4xyr). Indien je problemen ervaart neem je contact op met Thomas Janssens (advies en beheer ICT) 09/2433637 of [per mail](mailto:thomas.janssens@hogent.be)
+☞   Adobe CC software: Ga naar [academicsoftware.eu](https://www.academicsoftware.eu/) en meld je aan met je Hogent mailadres en wachtwoord volgens de [handleiding](https://streamable.com/tb4xyr). Indien je problemen ervaart neem je contact op met Thomas Janssens (advies en beheer ICT) 09/2433637 of [per mail](mailto:thomas.janssens@hogent.be)    
 ☞   We hebben een aantal [Max licenties](https://cycling74.com/) op iLok-key die  uitleenbaar zijn.
 <hr>
-☞   [Linkedin Learning](https://linkedin-learning.pxf.io/) is een online platform voor het volgen van videotrainingen.
+☞   [Linkedin Learning](https://linkedin-learning.pxf.io/) is een online platform voor het volgen van videotrainingen.    
 ☞   [Github repositories](https://github.com/theBlackBoxSociety/)
 
 ### Internet & webtools
 
-☞ [Belnet FileSender](https://filesender.belnet.be/index.php?s=upload), verzend veilig en gemakkelijk grote bestanden (tot 5TB!!) naar andere gebruikers
+☞ [Belnet FileSender](https://filesender.belnet.be/index.php?s=upload), verzend veilig en gemakkelijk grote bestanden (tot 5TB!!) naar andere gebruikers    
 ☞ [Hogent IT helpdesk](https://servicedesk.hogent.be/)
 
 ## Draadloos netwerk
