@@ -6,10 +6,26 @@ title: 'Praktische Info'
 
 ### Mail, Programma, Kalender, ...
 <div class="columns">
-  <div class="column col-3">[HoGent Webmail](http://webmail.hogent.be/)</div>
-  <div class="column col-3">[Chamilo](https://chamilo.hogent.be/) • digitale leeromgeving</div>
-  <div class="column col-3">[iBaMaFlex](https://ibamaflex.hogent.be/) • curriculum</div>
-  <div class="column col-3">[Asimut](https://hogent.asimut.net/public/) • persoonlijk lessenrooster</div>
+  <div class="column col-3">
+
+  [HoGent Webmail](http://webmail.hogent.be/)
+
+  </div>
+  <div class="column col-3">
+
+  [Chamilo](https://chamilo.hogent.be/) • digitale leeromgeving
+
+  </div>
+  <div class="column col-3">
+
+  [iBaMaFlex](https://ibamaflex.hogent.be/) • curriculum
+
+  </div>
+  <div class="column col-3">
+
+  [Asimut](https://hogent.asimut.net/public/) • persoonlijk lessenrooster
+
+  </div>
 </div>
 
 [Jaarkalender 21-22](https://schoolofartsgent.be/2021/wp-content/uploads/2021/05/07_Acad-kal-2021-2022-SCH-ACAD-v2.pdf)
