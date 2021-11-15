@@ -35,6 +35,7 @@ title: 'Praktische Info'
   <div class="column col-sm-12">
     <div class="toast toast-warning"><a href="" target=_blanc>studio's fotografie</a>
     </div>
+  </div>
 </div>
 
 -   [Houtatelier Bijloke](https://www.facebook.com/KASKhoutatelier)
