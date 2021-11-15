@@ -1,11 +1,4 @@
-@font-face {
-    font-family: 'NHaasGroteskDSPro-45Lt';
-    src: url("../fonts/346E2F_0_0.eot");
-    src: url("../fonts/346E2F_0_0.eot?#iefix") format("embedded-opentype"), url("../fonts/346E2F_0_0.woff2") format("woff2"), url("../fonts/346E2F_0_0.woff") format("woff"), url("webfonts/346E2F_0_0.ttf") format("truetype")
-}
-
-
-html { font-size: 20px; font-family: 'NHaasGroteskDSPro-45Lt'; }
+html { font-size: 20px; }
 
 @media screen and (min-width: 480px) { html { font-size: calc(20px + 4 * ((100vw - 480px) / 800)); } }
 
@@ -28,7 +21,6 @@ h1, h2, h3, h4, h5, h6 {
     margin-top: 0.5rem;
     margin-bottom: 0.2rem;
 }
-
 
 h1 {
   text-align: center;
