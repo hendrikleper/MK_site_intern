@@ -5,11 +5,11 @@ title: 'Praktische Info'
 ## Nuttige links
 
 ### Mail, Programma, Kalender, ...
-<div class="columns">
-  <div class="column col-3"><a href="http://webmail.hogent.be/" target=_blanc>HoGent Webmail</a></div>
-  <div class="column col-3"><a href="https://chamilo.hogent.be/" target=_blanc>chamilo</a> • digitale leeromgeving</div>
-  <div class="column col-3"><a href="https://ibamaflex.hogent.be/" target=_blanc>iBaMaFlex</a> • curriculum</div>
-  <div class="column col-3"><a href="https://hogent.asimut.net/public/" target=_blanc>Asimut</a> • persoonlijk lessenrooster</div>
+<div class="hero-body columns">
+  <div class="column col-auto"><a href="http://webmail.hogent.be/" target=_blanc>HoGent Webmail</a></div>
+  <div class="column col-auto"><a href="https://chamilo.hogent.be/" target=_blanc>Chamilo</a> • digitale leeromgeving</div>
+  <div class="column col-auto"><a href="https://ibamaflex.hogent.be/" target=_blanc>iBaMaFlex</a> • curriculum</div>
+  <div class="column col-auto"><a href="https://hogent.asimut.net/public/" target=_blanc>Asimut</a> • persoonlijk lessenrooster</div>
 </div>
 
 [Jaarkalender 21-22](https://schoolofartsgent.be/2021/wp-content/uploads/2021/05/07_Acad-kal-2021-2022-SCH-ACAD-v2.pdf)
