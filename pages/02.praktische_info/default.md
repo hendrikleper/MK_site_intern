@@ -20,17 +20,16 @@ title: 'Praktische Info'
 [Faciliteiten van de School of Arts](https://schoolofartsgent.be/nl/onderwijs/faciliteiten) met o.a.
 
 <div class="chipXL"><a href="http://uitleendienst.schoolofarts.be/users/sign_in" target=_blanc>HoGent Uitleendienst</a></div>
-<br>
 <div class="chipXL"><a href="https://www.facebook.com/KASKhoutatelier" target=_blanc>Houtatelier Bijloke</a></div>
-<br>
+
 <div class="chipXL"><a href="" target=_blanc>doka fotografie</a></div>
 <div class="chipXL"><a href="" target=_blanc>studio's fotografie</a></div>
 <div class="chipXL"><a href="" target=_blanc>print- en scanatelier fotografie</a></div>
-<br>
 <div class="chipXL"><a href="" target=_blanc>atelier grafiek</a></div>
-<br>
 <div class="chipXL"><a href="https://www.formlab.schoolofarts.be/" target=_blanc>FORMLAB</a></div>
 <div class="chipXL"><a href="http://www.laboratorium.bio/" target=_blanc>LABORATORIUM • Biolab</a></div>
+<div class="chipXL"><a href="https://schoolofartsgent.be/nl/onderzoek/infrastructuur/" target=_blanc>HERCULESLAB • 5.1 mixagestudio</a></div>
+
 
 ### Software
 
