@@ -69,30 +69,30 @@ Title: Agenda
 #### jury's
 |     |       |     |
 | --- | :---: | --- |
-| wo 24/11 10:30-16:00 | **tussentijdse jury** | jury: Fairuz, Jerry & Hendrik |
-| di 25/01 10:30-17:30 (o.v.)| **tussentijdse jury** | jury: Fairuz, Jerry & Hendrik |
-| wo 20/04 10:30-17:30 (o.v.)| **tussentijdse jury** | jury: Fairuz, Hendrik, Jerry &  Pieter-Paul (o.v.) |
-| wo 15/06 10:30-17:30 (o.v.)| **eindjury** | jury: Fairuz, Hendrik, Jasper, Jerry, Joost (o.v.) |
+| wo 24/11 10:30-16:00 | **tussentijdse jury** | juryleden: Fairuz, Jerry & Hendrik |
+| di 25/01 10:30-17:30 (o.v.)| **tussentijdse jury** | juryleden: Fairuz, Jerry & Hendrik |
+| wo 20/04 10:30-17:30 (o.v.)| **tussentijdse jury** | juryleden: Fairuz, Hendrik, Jerry &  Pieter-Paul (o.v.) |
+| wo 15/06 10:30-17:30 (o.v.)| **eindjury** | juryleden: Fairuz, Hendrik, Jasper, Jerry, Joost (o.v.) |
 
 
 ## 2e BACHELOR
 #### jury's
 |     |       |     |
 | --- | :---: | --- |
-| do 25/11 9:00-17:30 | **tussentijdse jury** | jury: Joost, Anouk & Hendrik |
-| do 27/01 9:00-17:30 (o.v.)| **tussentijdse jury** | jury: Joost, Fairuz & Pieter-Paul (o.v.) |
-| do 21/04 9:00-17:30 (o.v.)| **tussentijdse jury** | jury: Joost, Jasper & Anouk (o.v.) |
-| vr 17/06 9:00-17:30 (o.v.)| **eindjury** | jury: Joost, Jerry, Dirk Zoete, Anouk  (o.v.) |
+| do 25/11 9:00-17:30 | **tussentijdse jury** | juryleden: Joost, Anouk & Hendrik |
+| do 27/01 9:00-17:30 (o.v.)| **tussentijdse jury** | juryleden: Joost, Fairuz & Pieter-Paul (o.v.) |
+| do 21/04 9:00-17:30 (o.v.)| **tussentijdse jury** | juryleden: Joost, Jasper & Anouk (o.v.) |
+| vr 17/06 9:00-17:30 (o.v.)| **eindjury** | juryleden: Joost, Jerry, Dirk Zoete, Anouk  (o.v.) |
 
 
 ## 3e BACHELOR
 #### jury's
 |     |       |     |
 | --- | :---: | --- |
-| vr 26/11 10:30-17:30 | **tussentijdse jury** | jury: Jerry, Jasper & Anouk |
-| wo 26/01 10:30-17:30 (o.v.)| **tussentijdse jury** | jury: Jerry, Pieter-Paul, Jelena & Hendrik (o.v.) |
-| wo 27/04 10:30-17:30 (o.v.)| **tussentijdse jury** | jury: Jerry, Fairuz, Anouk & Mekhitar (o.v.) |
-| vr 25/06 10:30-17:30 (o.v.)| **eindjury** | jury: Jerry, Anouk, Pieter-Paul, 1 (of 2) externen (o.v.) |
+| vr 26/11 10:30-17:30 | **tussentijdse jury** | juryleden: Jerry, Jasper & Anouk |
+| wo 26/01 10:30-17:30 (o.v.)| **tussentijdse jury** | juryleden: Jerry, Pieter-Paul, Jelena & Hendrik (o.v.) |
+| wo 27/04 10:30-17:30 (o.v.)| **tussentijdse jury** | juryleden: Jerry, Fairuz, Anouk & Mekhitar (o.v.) |
+| vr 25/06 10:30-17:30 (o.v.)| **eindjury** | juryleden: Jerry, Anouk, Pieter-Paul, 1 (of 2) externen (o.v.) |
 
 <!--
 ### transversaal atelier
