@@ -11,18 +11,27 @@ title: 'Praktische Info'
 <div class="chip"><a href="https://ibamaflex.hogent.be/" target=_blanc>iBaMaFlex • curriculum</a></div>
 <div class="chip"><a href="https://hogent.asimut.net/public/" target=_blanc>Asimut • persoonlijk lessenrooster</a></div>
 
-<div class="chip">
-
-[Jaarkalender 21-22](https://schoolofartsgent.be/2021/wp-content/uploads/2021/05/07_Acad-kal-2021-2022-SCH-ACAD-v2.pdf)
-
-</div>
+<div class="chip"><a href="https://schoolofartsgent.be/2021/wp-content/uploads/2021/05/07_Acad-kal-2021-2022-SCH-ACAD-v2.pdf" target=_blanc>Jaarkalender 21-22</a></div>
 
 ### Materiaal & werkplaatsen
 [Faciliteiten van de School of Arts](https://schoolofartsgent.be/nl/onderwijs/faciliteiten) met o.a.
-* [Uitleendienst](http://uitleendienst.schoolofarts.be/users/sign_in)
+
+<div class="toast toast-warning">
+<a href="http://uitleendienst.schoolofarts.be/users/sign_in" target=_blanc>HoGent Uitleendienst</a>
+</div>
+<div class="toast toast-warning">
+<a href="https://www.facebook.com/KASKhoutatelier" target=_blanc>Houtatelier Bijloke</a>
+</div>
+<div class="toast toast-warning">
+<a href="" target=_blanc>doka fotografie</a>
+</div>
+<div class="toast toast-warning">
+<a href="" target=_blanc>studio's fotografie</a>
+</div>
+
 * [Houtatelier Bijloke](https://www.facebook.com/KASKhoutatelier)
 * doka fotografie
-* studio's bij fotografie
+* studio's fotografie
 * print- en scanatelier fotografie
 * atelier grafiek
 * [FORMLAB](https://www.formlab.schoolofarts.be/)
