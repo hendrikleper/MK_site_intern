@@ -54,6 +54,18 @@ a:visited {
   color: #07cb1a;
 }
 
+h2 a {
+  xcolor: #03e319;
+  text-decoration: wavy;
+  background: linear-gradient(135deg, #00f9ff 0%, #03e319 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  text-fill-color: transparent;
+  -webkit-text-fill-color: transparent;
+  -moz-text-fill-color: transparent;
+}
+
 .treemenu li a:hover, .treemenu li a:focus, .treemenu li a.active {
   color: #03e319 !important;
   text-decoration: none;
