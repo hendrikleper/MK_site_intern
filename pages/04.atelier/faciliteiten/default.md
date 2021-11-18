@@ -1,5 +1,5 @@
 ---
-title: 'atelier faciliteiten'
+title: faciliteiten
 published: true
 child_type: default
 routable: true
