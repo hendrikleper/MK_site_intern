@@ -5,34 +5,19 @@ Title: bezoek aan Argos & iMAL
 
 Dag allen,
 
-Fairuz en ik willen jullie graag uitnodigen voor een uitstap naar Brussel op woensdag 1 december voor een bezoek aan iMal en Argos en een gesprek met Aay Liparoto, kunstenaar en oud-student. Zie onderaan.  
+Fairuz en ik willen jullie graag uitnodigen voor een uitstap naar Brussel op woensdag 1 december voor een bezoek aan iMal en Argos en een gesprek met Aay Liparoto, kunstenaar en oud-student. Zie onderaan.    
 
-We spreken af op het centrale plein voor station Gent Sint-Pieters om 13:10 (voor de trein van 13:23) of rechtsreeks aan iMal om 14:30. We zijn terug in Gent rond 18u.    
+We kunnen de uitstap laten doorgaan ondanks de aangescherpte corona regels. Een van de nieuwe maatregelen is dat we niet samen de reis kunnen maken (bus, openbaar vervoer, ..) Om die reden spreken we rechtsreeks af aan iMal om 14:30. We sluiten af in Argos rond 18:00.    
 
-De toegang voor de tentoonstellingen wordt betaald via de bijzondere studiekosten. Jullie staan zelf in voor de verplaatsingsonkosten.
+De toegang voor de tentoonstellingen wordt betaald via de bijzondere studiekosten. Jullie staan zelf in voor de verplaatsingsonkosten.    
 
-Wegens covid willen we de groep beperken tot 20 deelnemers. Laat ons dus snel weten indien je mee wil gaan. Indien je rechtstreeks naar iMal gaat weten we dat ook graag op voorhand.
+We moeten de groep beperken tot 20 deelnemers. Laat ons dus snel weten indien je mee wil gaan.    
 
 Let op: Voor beide tentoonstellingen is er een Covid Safe Ticket vereist!
 
 Groeten,
 Fairuz en Hendrik
 
-
-Hello everyone,
-
-Fairuz and I would like to invite you to a trip to Brussels on Wednesday, December 1, to visit iMal and Argos and have a conversation with Aay Liparoto, artist and former student. See below.  
-
-We will meet at the central square in front of Gent Sint-Pieters station at 13:10 (for the 13:23 train) or right at iMal at 14:30. We will be back in Ghent around 6 pm.    
-
-Entrance to the exhibitions is paid for through the special student fee. You are responsible for the travel expenses.
-
-Because of covid we want to limit the group to 20 participants. So let us know soon if you want to come along. If you are going directly to iMal we would also like to know in advance.
-
-Note: For both exhibitions a Covid Safe Ticket is mandatory!
-
-Greetings,
-Fairuz and Hendrik
 
 ## [iMAL - Swipe Right! Data, Dating, Desire](https://www.imal.org/nl/events/swipe-right-data-dating-desire)
 What does it mean to love in the digital age? How are digital interfaces reshaping our personal relationships? What do new technologies imply for the future of the romantic sphere? How do screens affect our sexual intimacy and our desire for connection?    
@@ -70,12 +55,17 @@ They are currently in development of 360°cinematic virtual reality work, [Small
 
 
 ## Programma
+<!--
 * 13:10 afspraak Gent SP
 * 13:23 vertrek trein naar BXL Noord
 * 14:04 aankomst trein
+-->
 * 14:30 bezoek iMal
-* 16:00 vertrek naar Argos
-* 16:10 Bezoek Argos
+* 15:50 vertrek naar Argos
+* 16:00 Bezoek Argos
 * 17:15 gesprek met Aay Liparoto
-* 18:00 Vertrek naar BXL Noord
+* 18:00 Einde.
+<!--
+Vertrek naar BXL Noord
 * 18:21 Vertrek trein naar Gent SP
+-->
