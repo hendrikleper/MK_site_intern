@@ -1,6 +1,7 @@
 ---
 title: Atelier
 ---
+
 # ATELIER
 Het atelier mediakunst is een plaats voor educatie, creatie en productie. Deze ruimte werd ca. 13 jaar terug in gebruik genomen en evolueert met de opleiding mee. Het is een werkplaats met een aantal gespecialiseerde werkruimtes voor o.a. video montage, audio en muziek, VR, AI, elektronica, een blackbox & daglicht presentatieruimte en de 2 onderzoek labo’s: [Formlab](https://www.formlab.schoolofarts.be/) en [Laboratorium](http://laboratorium.bio/).
 
@@ -13,7 +14,7 @@ todo
 ### Blackbox
 todo
 ### video montage
-todo
+todo![videomontage](videomontage.jpg "videomontage")
 ### audiolab
 todo
 ### VR lab
