@@ -1,5 +1,5 @@
 ---
-title: 'atelier 2'
+title: 'atelier gedragscode'
 published: true
 child_type: default
 routable: true
