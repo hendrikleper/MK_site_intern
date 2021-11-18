@@ -12,7 +12,8 @@ todo
 ### Blackbox
 todo
 ### video montage
-todo![videomontage](videomontage.jpg "videomontage")
+todo
+![videomontage](videomontage.jpg "videomontage")
 ### audiolab
 todo
 ### VR lab

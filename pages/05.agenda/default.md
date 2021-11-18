@@ -3,7 +3,7 @@ Title: Agenda
 ---
 # AGENDA
 ## 1e BACHELOR
-#### initiaties en ../projecten codelab
+#### initiaties en codelabs
 
 | | 1e semester |       |     |
 |:---|:---|:---:|---:|
