@@ -1,18 +1,11 @@
 ---
 Title: X-RAY met PAULINE CURNIER JARDIN
-Description: lecture LISA SPILLIAERT
-Author: Hendrik
-Date: 2021/10/20
-Robots: noindex,nofollow
-Template: index
 ---
-
-
 # X-RAY met PAULINE CURNIER JARDIN
 ### Unfolding the Practice & Screening
 ### @ KASKcinema
 ### woensdag 10 november, 2021, 20:30
-
+<!--https://www.kaskcinema.be/kaskcinema/vertoning/x_ray_pauline_curnier_jardin-->
 ![](2021_paulinecurnierjardin.png)
 
 [Pauline Curnier Jardin](http://paulinecurnierjardin.com/) (geboren 1980, Marseille, Frankrijk) is een beeldend kunstenaar. Ze werkt voornamelijk met film, installatie, performance en tekenen. Ze woont in Rome en Berlijn.    
