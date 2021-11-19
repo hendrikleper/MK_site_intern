@@ -22,6 +22,7 @@ Het atelier mediakunst bevindt zich op de 1e verdieping van de Kunsttoren. De oo
   <p>Offerlaan 5 - 9000 Gent</p>
   <p><a href="https://www.google.com/maps/dir//Offerlaan+5,+9000+Gent/@51.0442882,3.7048299,987m/data=!3m1!1e3!4m8!4m7!1m0!1m5!1m1!1s0x47c37166edf87939:0x9204369e1efa3c9f!2m2!1d3.7092073!2d51.0442883?hl=nl" target="_blanc">kaart</a> & <a href="https://schoolofartsgent.be/nl/over-ons/locaties/campus-bijloke-de-kunsttoren#campus-bijloke-de-kunsttoren" target="_blanc" >bereikbaarheid</a></p>
   <img src="https://intern.mediakunst.be/atelier/faciliteiten/ingang_offerlaan.jpg" alt="">
+  <br>
   </div>
 </div>
 </div>
@@ -37,7 +38,7 @@ Het atelier mediakunst bevindt zich op de 1e verdieping van de Kunsttoren. De oo
   </div>
 </div>
 </div>
-<p></p>
+<p>&nbsp;</p>
 <div class="column col-5 col-xs-12">
 <div class="panel">
   <div class="panel-header">
