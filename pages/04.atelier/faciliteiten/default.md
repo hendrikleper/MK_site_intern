@@ -47,7 +47,6 @@ Er is in het atelier nog een 2e PA systeem voorhanden bestaande uit 2 [QSC K10.2
 licht: dimbare TL lampen & puntspot op spreker via schakelaar (Q1)
 
 ### Videomontage
-![videomontage](videomontage.jpg "videomontage")
 De Videomontage ruimte is uitgerust met een krachtige Apple computer, een 2e beeldscherm en studiomonitors. Qua software is zowel een videopakket van Adobe met recente versies van Premiere Pro en After Effects geïnstalleerd als Apple Final Cut Pro en DaVinci Resolve van Blackmagic.    
 
 ![videomontage](videomontage.jpg)
@@ -60,7 +59,6 @@ Geluid: KRK 6 Rokit studio monitors
 
 ### Audio lab
 De audio werkplaats uitgerust met een Apple iMac computer, quadrofone luidspreker opstelling, een analoge synth van Doepfer. Qua software is er Ableton Live, Adobe Audition, Reaper & Max geïnstalleerd.
-
 
 ![audiolab](audio.jpg)
 
