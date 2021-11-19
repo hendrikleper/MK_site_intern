@@ -1,7 +1,6 @@
 ---
 title: Atelier
 ---
-
 # ATELIER
 
 ![Atelier Mediakunst](atelier1.jpg)

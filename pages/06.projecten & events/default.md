@@ -3,7 +3,7 @@ Title: 'Projecten en Events'
 ---
 # PROJECTEN & EVENTS 21-22
 ## [workshop BLENDER](../projecten/2021blender)
-**woekshop 3D modeling, sculpting, shading & rendering met Fons Artois**    
+**3D modeling, sculpting, shading & rendering met Fons Artois**    
 Black Box, Atelier MEDIAKUNST / KASK    
 woensdag 1 en 8 december 2021, 9:00-12:30
 
