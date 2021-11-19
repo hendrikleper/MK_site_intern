@@ -12,6 +12,8 @@ Het atelier mediakunst bevindt zich op de 1e verdieping van de Kunsttoren. De oo
 
 ![atelier mediakunst](uitkijk.jpg)
 
+<div class="columns">
+<div class="column col-6 col-xs-12">
 <div class="panel">
   <div class="panel-header">
     <div class="panel-title">adres</div>
@@ -20,10 +22,12 @@ Het atelier mediakunst bevindt zich op de 1e verdieping van de Kunsttoren. De oo
   Offerlaan 5    
   9000 Gent    
   <hr>
-  [kaart](https://www.google.com/maps/dir//Offerlaan+5,+9000+Gent/@51.0442882,3.7048299,987m/data=!3m1!1e3!4m8!4m7!1m0!1m5!1m1!1s0x47c37166edf87939:0x9204369e1efa3c9f!2m2!1d3.7092073!2d51.0442883?hl=nl) & [bereikbaarheid](https://schoolofartsgent.be/nl/over-ons/locaties/campus-bijloke-de-kunsttoren#campus-bijloke-de-kunsttoren)
-  ![ingang kunsttoren](ingang_offerlaan.jpg)
+  <a href="https://www.google.com/maps/dir//Offerlaan+5,+9000+Gent/@51.0442882,3.7048299,987m/data=!3m1!1e3!4m8!4m7!1m0!1m5!1m1!1s0x47c37166edf87939:0x9204369e1efa3c9f!2m2!1d3.7092073!2d51.0442883?hl=nl" target="_blanc">kaart</a> & <a href="https://schoolofartsgent.be/nl/over-ons/locaties/campus-bijloke-de-kunsttoren#campus-bijloke-de-kunsttoren" target="_blanc" >bereikbaarheid</a>
+  <img src"ingang_offerlaan.jpg" alt="ingang kunsttoren">
   </div>
 </div>
+</div>
+<div class="column col-6 col-xs-12">
 <div class="panel">
   <div class="panel-header">
     <div class="panel-title">Openingsuren</div>
@@ -34,6 +38,8 @@ Het atelier mediakunst bevindt zich op de 1e verdieping van de Kunsttoren. De oo
   <p>Alle campussen en gebouwen zijn gesloten tijdens het kerstreces en het zomerreces van midden juli tot midden augustus.</p>
   </div>
 </div>
+</div>
+<div class="column col-6 col-xs-12">
 <div class="panel">
   <div class="panel-header">
     <div class="panel-title">Ruimtes Reserveren</div>
@@ -42,6 +48,8 @@ Het atelier mediakunst bevindt zich op de 1e verdieping van de Kunsttoren. De oo
   <p>Je kan dagdelen reserveren in de verschillende gedeelde gespecialiseerde ruimtes als de daglicht presentatieruimte in het atelier, de Blackbox, Videomontage ruimte, Audiolab en VRlab. Voorlopig gebeurt het reserveren ter plaatse via een kalender.</p>
   </div>
 </div>
+</div>
+<div class="column col-6 col-xs-12">
 <div class="panel">
   <div class="panel-header">
     <div class="panel-title">Beheer en Zorg</div>
@@ -54,6 +62,9 @@ Het atelier mediakunst bevindt zich op de 1e verdieping van de Kunsttoren. De oo
   <p>**Open en afsluiten van ruimtes.** Via de studenten- of personeelskaart (of een salto sleutelhanger) kunnen de ruimtes geopend en gesloten worden. Maak daar gebruik van zodat.</p>
   </div>
 </div>
+</div>
+</div>
+
 
 ### Blackbox
 De Blackbox is een polyvalente ruimte die gebruikt wordt voor screenings, lezingen, groepsgesprekken en atelier specifieke theorielessen. Studenten kunnen in deze plek ook opstellingen en performances oefenen en brengen, opnames maken, etc.
