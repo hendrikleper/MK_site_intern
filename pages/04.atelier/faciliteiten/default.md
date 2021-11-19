@@ -40,7 +40,7 @@ Het atelier mediakunst bevindt zich op de 1e verdieping van de Kunsttoren. De oo
   </div>
 </div>
 </div>
-<div class="column col-3 col-xs-12">
+<div class="column col-5 col-xs-12">
 <div class="panel">
   <div class="panel-header">
     <div class="panel-title">Ruimtes Reserveren</div>
@@ -51,7 +51,7 @@ Het atelier mediakunst bevindt zich op de 1e verdieping van de Kunsttoren. De oo
   </div>
 </div>
 </div>
-<div class="column col-9 col-xs-12">
+<div class="column col-7 col-xs-12">
 <div class="panel">
   <div class="panel-header">
     <div class="panel-title">Beheer en Zorg</div>
