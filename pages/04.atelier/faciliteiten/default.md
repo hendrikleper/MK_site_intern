@@ -54,7 +54,7 @@ De Videomontage ruimte is uitgerust met een krachtige Apple computer, een 2e bee
 Computer: Apple iMac 27" (3,8‐GHz 8‐core Intel Core i7-processor, 32Gb Ram, Radeon
 Pro 5700 XT met 16GB Ram  grafische kaart, AZERTY toetsenbord)    
 `user: schoolofarts – psw: 1111`    
-Tweede scherm: Sony    
+Tweede scherm: Sony (type ??)    
 Geluid: KRK 6 Rokit studio monitors
 
 ### Audio lab
@@ -65,31 +65,33 @@ De audio werkplaats uitgerust met een Apple iMac computer, quadrofone luidspreke
 Computer: Apple iMac 27" (AZERTY toetsenbord) + RME Fireface geluidskaart    
 `user: schoolofarts – psw: 1111`    
 Geluid: Quadrofoon opstelling met 4 Adam T7V studio monitors, Adam T10 subwoofer, Mackie mixer    
-Instrumenten: Doepfer Modulaire synth, Koma ??    
+Instrumenten: Doepfer Modulaire synth (type ??), Koma (type ??)    
 Software licenties: Max op iLok usb key. Er is geen Ableton Live.
 
 ### VR lab
-
+! verder uitschrijven
 Blender, Unity, Unreal, Adobe Premiere Pro en After Effects
 
 ![VR lab](VR.jpg)
 
 
-Computer: Dell Alienware Aurora R10 (AMD Ryzen™ 9 5900X 12C, 32Gb Ram, NVIDIA® GeForce RTX™ 3090 24GB grafische kaart, AZERTY toetsenbord),     
+Computer: Dell Alienware Aurora R10 (AMD Ryzen™ 9 5900X 12C, 32Gb Ram, NVIDIA® GeForce RTX™ 3090 24GB grafische kaart, AZERTY toetsenbord)     
 `user: schoolofarts – psw: 1111`    
 VR headsets:
 Geluid: Adam ?? studio monitors
 
 ### Elektronica Lab
-
+! verder uitschrijven
 ![elektronica lab](elektronics.jpg)
 
 
 Arduino's, Raspberry Pi's 3B en 400, Pico
-<!--### AI
-todo-->
+### AI
+! verder uitschrijven
+Linux computer met GTX grafische kaart, ...
+
 ### keuken
-De mediakunst is een
+! verder uitschrijven
 
 ### Formlab
 [Formlab](https://www.formlab.schoolofarts.be/) is een werkplaats die inzet op het overbruggen van het digitale naar het fysieke. Centraal staat het 3D-printen en -scannen maar er zijn ook mogelijkheden om te frezen en vacuümvormen.
