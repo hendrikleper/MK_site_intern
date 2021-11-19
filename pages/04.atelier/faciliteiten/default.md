@@ -12,27 +12,48 @@ Het atelier mediakunst bevindt zich op de 1e verdieping van de Kunsttoren. De oo
 
 ![atelier mediakunst](uitkijk.jpg)
 
-#### Adres
-Offerlaan 5    
-9000 Gent    
-[kaart](https://www.google.com/maps/dir//Offerlaan+5,+9000+Gent/@51.0442882,3.7048299,987m/data=!3m1!1e3!4m8!4m7!1m0!1m5!1m1!1s0x47c37166edf87939:0x9204369e1efa3c9f!2m2!1d3.7092073!2d51.0442883?hl=nl) & [bereikbaarheid](https://schoolofartsgent.be/nl/over-ons/locaties/campus-bijloke-de-kunsttoren#campus-bijloke-de-kunsttoren)
-![ingang kunsttoren](ingang_offerlaan.jpg)
-#### Openingsuren
-Tijdens het academiejaar is de Kunsttoren doorgaans open van ma-do 8:00 - 22:00 & op vr 8:00 - 18:30. Tijdens het weekend is het gebouw gesloten.
-
-Er kan een uitzondering op deze reguliere openingsuren worden aangevraagd via de coördinator van de opleiding.
-
-Alle campussen en gebouwen zijn gesloten tijdens het kerstreces en het zomerreces van midden juli tot midden augustus.
-
-#### Ruimtes Reserveren
-Je kan dagdelen reserveren in de verschillende gedeelde gespecialiseerde ruimtes als de daglicht presentatieruimte in het atelier, de Blackbox, Videomontage ruimte, Audiolab en VRlab. Voorlopig gebeurt het reserveren ter plaatse via een kalender.
-
-#### Beheer en Zorg
-**Respecteer ruimtes & middelen.** Hou materialen, gereedschap en ruimtes beschikbaar. Zet alles na gebruik terug op de juiste plaats.    
-**Laat geen sporen na. **Laat de gedeelde ruimtes proper achter. Sporen zijn ongewenste of ongevraagde materiële of immateriële achterblijfsels. In je eigen werkruimte, op je eigen computer ben je baas zolang het veilig en hygiënisch blijft.    
-**Draag zorg voor eigen en uitgeleend materiaal.** We beschouwen het atelier graag als een veilige plaats maar dat is het spijtig genoeg niet. Laat dus nooit waardevolle zaken achteloos achter. Maak gebruik van de locker.    
-**Draag zorg voor je files** Je kan files achterlaten op de gedeelde computers maar ze staan daar nooit 100% veilig. Zorg steeds voor een backup.     
-**Open en afsluiten van ruimtes.** Via de studenten- of personeelskaart (of een salto sleutelhanger) kunnen de ruimtes geopend en gesloten worden. Maak daar gebruik van zodat.    
+<div class="panel">
+  <div class="panel-header">
+    <div class="panel-title">adres</div>
+  </div>
+  <div class="panel-body">
+  Offerlaan 5    
+  9000 Gent    
+  <hr>
+  [kaart](https://www.google.com/maps/dir//Offerlaan+5,+9000+Gent/@51.0442882,3.7048299,987m/data=!3m1!1e3!4m8!4m7!1m0!1m5!1m1!1s0x47c37166edf87939:0x9204369e1efa3c9f!2m2!1d3.7092073!2d51.0442883?hl=nl) & [bereikbaarheid](https://schoolofartsgent.be/nl/over-ons/locaties/campus-bijloke-de-kunsttoren#campus-bijloke-de-kunsttoren)
+  ![ingang kunsttoren](ingang_offerlaan.jpg)
+  </div>
+</div>
+<div class="panel">
+  <div class="panel-header">
+    <div class="panel-title">Openingsuren</div>
+  </div>
+  <div class="panel-body">
+  <p>Tijdens het academiejaar is de Kunsttoren doorgaans open van ma-do 8:00 - 22:00 & op vr 8:00 - 18:30. Tijdens het weekend is het gebouw gesloten.</p>
+  <p>Er kan een uitzondering op deze reguliere openingsuren worden aangevraagd via de coördinator van de opleiding.</p>
+  <p>Alle campussen en gebouwen zijn gesloten tijdens het kerstreces en het zomerreces van midden juli tot midden augustus.</p>
+  </div>
+</div>
+<div class="panel">
+  <div class="panel-header">
+    <div class="panel-title">Ruimtes Reserveren</div>
+  </div>
+  <div class="panel-body">
+  <p>Je kan dagdelen reserveren in de verschillende gedeelde gespecialiseerde ruimtes als de daglicht presentatieruimte in het atelier, de Blackbox, Videomontage ruimte, Audiolab en VRlab. Voorlopig gebeurt het reserveren ter plaatse via een kalender.</p>
+  </div>
+</div>
+<div class="panel">
+  <div class="panel-header">
+    <div class="panel-title">Beheer en Zorg</div>
+  </div>
+  <div class="panel-body">
+  <p>**Respecteer ruimtes & middelen.** Hou materialen, gereedschap en ruimtes beschikbaar. Zet alles na gebruik terug op de juiste plaats.</p>
+  <p>**Laat geen sporen na. **Laat de gedeelde ruimtes proper achter. Sporen zijn ongewenste of ongevraagde materiële of immateriële achterblijfsels. In je eigen werkruimte, op je eigen computer ben je baas zolang het veilig en hygiënisch blijft.</p>
+  <p>**Draag zorg voor eigen en uitgeleend materiaal.** We beschouwen het atelier graag als een veilige plaats maar dat is het spijtig genoeg niet. Laat dus nooit waardevolle zaken achteloos achter. Maak gebruik van de locker.</p>
+  <p>**Draag zorg voor je files** Je kan files achterlaten op de gedeelde computers maar ze staan daar nooit 100% veilig. Zorg steeds voor een backup.</p>
+  <p>**Open en afsluiten van ruimtes.** Via de studenten- of personeelskaart (of een salto sleutelhanger) kunnen de ruimtes geopend en gesloten worden. Maak daar gebruik van zodat.</p>
+  </div>
+</div>
 
 ### Blackbox
 De Blackbox is een polyvalente ruimte die gebruikt wordt voor screenings, lezingen, groepsgesprekken en atelier specifieke theorielessen. Studenten kunnen in deze plek ook opstellingen en performances oefenen en brengen, opnames maken, etc.
