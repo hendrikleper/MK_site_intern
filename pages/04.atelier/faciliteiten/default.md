@@ -59,7 +59,7 @@ Het atelier mediakunst bevindt zich op de 1e verdieping van de Kunsttoren. De oo
       <div class="card-body">
         <p>Er staan verschillende computers in het atelier, vaste en flexibele. De toestellen met een specifieke functie; VR, audio, videomontage, ... blijven steeds staan. De andere mogen verplaatst en gebruikt worden.</p>
         <p>Op de mezzanine staat een iMac, laser kleur printer en scanner (incl opties om film te scannen).</p>
-        <p>Alle computers werken met <code>Login: schoolofarts</code>&<code> paswoord: 1111</code></p>
+        <p>Alle computers werken met <code>Login: schoolofarts</code> & <code> paswoord: 1111</code></p>
       </div>
     </div>
   </div>
@@ -85,12 +85,12 @@ De Blackbox is een polyvalente ruimte die gebruikt wordt voor screenings, lezing
 
 ![blackbox](blackbox.jpg)
 
-Afmetingen: ±11 bij 6 meter & 5,5 meter hoog. Technisch grid.    
+**Afmetingen**: ±11 bij 6 meter & 5,5 meter hoog. Er is een technisch grid voorzien waardoor makkelijk licht en andere zaken iopgehangen kunnen worden.    
 Akoestische geoptimaliseerd met absorberende panelen en gordijnen.    
-video: [Panasonic PT-RZ470E](https://nl.business.panasonic.be/visual-system/sites/default/eu-files/visual-systems/files/technical_downloads/PT-RZ470E_E.pdf) projector (led/Laser DLP-projector)    
-geluid: [Yamaha STAGEPAS 400BT](https://usa.yamaha.com/files/download/other_assets/1/1142301/stagepas_600bt_en_om_c0.pdf) PA systeem (2 x 200watt, 8-channel mixer, Bluetooth, ...)    
+**video**: [Panasonic PT-RZ470E](https://nl.business.panasonic.be/visual-system/sites/default/eu-files/visual-systems/files/technical_downloads/PT-RZ470E_E.pdf) projector (led/Laser DLP-projector)    
+**geluid**: [Yamaha STAGEPAS 400BT](https://usa.yamaha.com/files/download/other_assets/1/1142301/stagepas_600bt_en_om_c0.pdf) PA systeem (2 x 200watt, 8-channel mixer, Bluetooth, ...)    
 Er is in het atelier nog een 2e PA systeem voorhanden bestaande uit 2 [QSC K10.2](https://www.qsc.com/resource-files/productresources/spk/k.2/q_spk_k2_usermanual.pdf) actieve speakers (Multi-purpose, 2-way active loudspeaker, 2000 Watt Class-D amp, 10inch woofer).    
-licht: dimbare TL lampen & puntspot op spreker via schakelaar (Q1)
+**licht**: dimbare TL lampen & puntspot op spreker via schakelaar (Q1)
 
 ### Videomontage
 
@@ -98,11 +98,11 @@ De Videomontage ruimte is uitgerust met een krachtige Apple computer, een 2e bee
 
 ![videomontage](videomontage.jpg)
 
-Computer: Apple iMac 27" (3,8‐GHz 8‐core Intel Core i7-processor, 32Gb Ram, Radeon
+**Computer**: Apple iMac 27" (3,8‐GHz 8‐core Intel Core i7-processor, 32Gb Ram, Radeon
 Pro 5700 XT met 16GB Ram  grafische kaart, AZERTY toetsenbord)  
 `user: schoolofarts – psw: 1111`  
-Tweede scherm: Sony (type ??)  
-Geluid: KRK 6 Rokit studio monitors
+**Tweede scherm**: Sony (type ??)  
+**Geluid**: KRK 6 Rokit studio monitors
 
 ### Audio lab
 
@@ -110,11 +110,11 @@ De audio werkplaats uitgerust met een Apple iMac computer, quadrofone luidspreke
 
 ![audiolab](audio.jpg)
 
-Computer: Apple iMac 27" (AZERTY toetsenbord) + RME Fireface geluidskaart  
+**Computer**: Apple iMac 27" (AZERTY toetsenbord) + RME Fireface geluidskaart  
 `user: schoolofarts – psw: 1111`  
-Geluid: Quadrofoon opstelling met 4 Adam T7V studio monitors, Adam T10 subwoofer, Mackie mixer  
-Instrumenten: Doepfer Modulaire synth (type ??), Koma (type ??)  
-Software licenties: Max op iLok usb key. Er is geen Ableton Live.
+**Geluid**: Quadrofoon opstelling met 4 Adam T7V studio monitors, Adam T10 subwoofer, Mackie mixer  
+**Instrumenten**: Doepfer Modulaire synth (type ??), Koma (type ??)  
+**Software licenties**: Max op iLok usb key. Er is geen Ableton Live.
 
 ### VR lab
 
@@ -123,10 +123,10 @@ Blender, Unity, Unreal, Adobe Premiere Pro en After Effects
 
 ![VR lab](VR.jpg)
 
-Computer: Dell Alienware Aurora R10 (AMD Ryzen™ 9 5900X 12C, 32Gb Ram, NVIDIA® GeForce RTX™ 3090 24GB grafische kaart, AZERTY toetsenbord)  
+**Computer**: Dell Alienware Aurora R10 (AMD Ryzen™ 9 5900X 12C, 32Gb Ram, NVIDIA® GeForce RTX™ 3090 24GB grafische kaart, AZERTY toetsenbord)  
 `user: schoolofarts – psw: 1111`  
 VR headsets:
-Geluid: Adam ?? studio monitors
+**Geluid**: Adam ?? studio monitors
 
 ### Elektronica Lab
 
