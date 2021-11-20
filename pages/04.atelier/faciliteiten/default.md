@@ -63,17 +63,24 @@ Het atelier mediakunst bevindt zich op de 1e verdieping van de Kunsttoren. De oo
       </div>
     </div>
   </div>
-  <div class="column col-12 col-xs-12">
-    <div class="card bg-dark">
+  <div class="column col-9 col-xs-12">
+    <div class="card bg-warning">
       <div class="card-header">
         <div class="card-title h4">Beheer en Zorg</div>
       </div>
       <div class="card-body">
         <p>Hou materialen, gereedschap en ruimtes beschikbaar. Zet alles na gebruik terug op de juiste plaats.</p>
-        <p>Laat geen sporen na. Laat de gedeelde ruimtes en computers proper achter.</p>
-        <p>Je kan documenten achterlaten op de gedeelde computers maar ze staan daar nooit 100% veilig. Zorg steeds voor een backup.</p>
+        <p>Laat geen sporen na. Laat de ruimtes en computers proper achter.</p>
+        <p>Je kan documenten achterlaten op de computers maar ze staan daar nooit 100% veilig. Zorg steeds voor een backup.</p>
         <p>Het atelier is niet steeds de veilige plaats als gehoopt. Laat nooit waardevolle zaken achteloos achter. Maak gebruik van de lockers.</p>
         <p>Via de studenten- of personeelskaart (of een salto sleutelhanger) kunnen de ruimtes geopend en gesloten worden. Maak daar gebruik van.</p>
+      </div>
+    </div>
+  </div>
+  <div class="column col-3 col-xs-12">
+    <div class="card">
+      <div class="card-image">
+        <img src="https://intern.mediakunst.be/atelier/faciliteiten/atelier0.jpg" alt="" class="img-responsive">
       </div>
     </div>
   </div>
