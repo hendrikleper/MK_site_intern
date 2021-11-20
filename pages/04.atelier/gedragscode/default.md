@@ -5,7 +5,7 @@ child_type: default
 routable: true
 visible: true
 ---
-## GEDRAGSCODE
+# GEDRAGSCODE
 Deze gedragscode bepaalt en communiceert de verbintenis van de gemeenschap om een aantal normen en verplichtingen na te leven die van het atelier en de opleiding een vriendelijke en gastvrije omgeving moeten maken.    
 
 Onderstaande lijst voorschriften is integraal overgenomen van de [Richtlijnen voor Samenwerking](https://constantvzw.org/site/Richtlijnen-voor-samenwerking-een-update.html?lang=nl?w=https://constantvzw.org/wefts/orientationspourcollaboration.nl.html) (korte versie) van [Constant vzw](https://constantvzw.org/).

@@ -6,7 +6,7 @@ routable: true
 visible: true
 ---
 
-## FACILITEITEN
+# FACILITEITEN
 
 Het atelier mediakunst bevindt zich op de 1e verdieping van de Kunsttoren. De oorspronkelijke functie van het gebouwd was een textielschool, iets dat zich nog nog erg duidelijk laat zien in de architectuur.     
 
