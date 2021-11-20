@@ -51,6 +51,18 @@ Het atelier mediakunst bevindt zich op de 1e verdieping van de Kunsttoren. De oo
       </div>
     </div>
   </div>
+  <div class="column col-4 col-xs-12">
+    <div class="card">
+      <div class="card-header">
+        <div class="card-title h4">Computers</div>
+      </div>
+      <div class="card-body">
+        <p>Er staan verschillende computers in het atelier, vaste en flexibele. De toestellen met een specifieke functie; VR, audio, videomontage, ... blijven steeds staan. De andere mogen verplaatst en gebruikt worden.</p>
+        <p>Op de mezzanine staat een iMac, laser kleur printer en scanner (incl opties om film te scannen).</p>
+        <p>Alle computers werken met <code>Login: schoolofarts</code>&<code> paswoord: 1111</code></p>
+      </div>
+    </div>
+  </div>
   <div class="column col-8 col-xs-12">
     <div class="card">
       <div class="card-header">
@@ -73,11 +85,11 @@ De Blackbox is een polyvalente ruimte die gebruikt wordt voor screenings, lezing
 
 ![blackbox](blackbox.jpg)
 
-Afmetingen: ±11 bij 6 meter & 5,5 meter hoog.  
-Akoestische geoptimaliseerd met absorberende carden en gordijnen.  
-video: [Panasonic PT-RZ470E](https://nl.business.panasonic.be/visual-system/sites/default/eu-files/visual-systems/files/technical_downloads/PT-RZ470E_E.pdf) projector (led/Laser DLP-projector)  
-geluid: [Yamaha STAGEPAS 400BT](https://usa.yamaha.com/files/download/other_assets/1/1142301/stagepas_600bt_en_om_c0.pdf) PA systeem (2 x 200watt, 8-channel mixer, Bluetooth, ...)  
-Er is in het atelier nog een 2e PA systeem voorhanden bestaande uit 2 [QSC K10.2](https://www.qsc.com/resource-files/productresources/spk/k.2/q_spk_k2_usermanual.pdf) actieve speakers (Multi-purpose, 2-way active loudspeaker, 2000 Watt Class-D amp, 10inch woofer).  
+Afmetingen: ±11 bij 6 meter & 5,5 meter hoog. Technisch grid.    
+Akoestische geoptimaliseerd met absorberende panelen en gordijnen.    
+video: [Panasonic PT-RZ470E](https://nl.business.panasonic.be/visual-system/sites/default/eu-files/visual-systems/files/technical_downloads/PT-RZ470E_E.pdf) projector (led/Laser DLP-projector)    
+geluid: [Yamaha STAGEPAS 400BT](https://usa.yamaha.com/files/download/other_assets/1/1142301/stagepas_600bt_en_om_c0.pdf) PA systeem (2 x 200watt, 8-channel mixer, Bluetooth, ...)    
+Er is in het atelier nog een 2e PA systeem voorhanden bestaande uit 2 [QSC K10.2](https://www.qsc.com/resource-files/productresources/spk/k.2/q_spk_k2_usermanual.pdf) actieve speakers (Multi-purpose, 2-way active loudspeaker, 2000 Watt Class-D amp, 10inch woofer).    
 licht: dimbare TL lampen & puntspot op spreker via schakelaar (Q1)
 
 ### Videomontage
@@ -106,7 +118,7 @@ Software licenties: Max op iLok usb key. Er is geen Ableton Live.
 
 ### VR lab
 
-! verder uitschrijven
+! verder uitschrijven    
 Blender, Unity, Unreal, Adobe Premiere Pro en After Effects
 
 ![VR lab](VR.jpg)
@@ -118,14 +130,14 @@ Geluid: Adam ?? studio monitors
 
 ### Elektronica Lab
 
-! verder uitschrijven
+! verder uitschrijven    
 ![elektronica lab](elektronics.jpg)
 
 Arduino's, Raspberry Pi's 3B en 400, Pico
 
 ### AI
 
-! verder uitschrijven
+! verder uitschrijven    
 Linux computer met GTX grafische kaart, ...
 
 ### keuken
