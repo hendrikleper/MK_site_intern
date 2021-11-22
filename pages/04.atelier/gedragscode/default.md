@@ -15,7 +15,7 @@ Deze *overname* is een eerste versie die binnen de context van mediakunst gehant
 
 Mediakunst docenten, onderzoekers, medewerkers, studenten en bezoekers:
 - Weigeren en ontmantelen racisme, queer antagonisme, validisme, leeftijdsdiscriminatie en andere vormen van onderdrukking.
-- Geven ruimte aan anderen: Zowel fysiek, emotioneel als conceptueel
+- Geven ruimte aan anderen: Zowel fysiek, emotioneel als conceptueel.
 - Respecteren andere levens, aanwezig of niet, menselijk of niet.
 - Dragen zorg voor hun fysieke en digitale omgeving.
 - Vermijden voor anderen te spreken.
@@ -26,8 +26,6 @@ Mediakunst docenten, onderzoekers, medewerkers, studenten en bezoekers:
 - Accepteren en waarderen verschil, verschillende snelheden en standpunten, opvattingen, ervaringen, achtergronden, referenties, behoeften en grenzen.
 - Erkennen dat woorden en uitspraken verschillende betekenissen en consequenties hebben voor verschillende mensen.
 - Letten op taalverschillen. Dit is een meertalige omgeving.
-- Gebruiken waar mogelijk Vrije en Open Source software.
-- Onderschrijven dat Constant als standaardlicentie een Free Art License gebruikt.
 - Vragen expliciet om toestemming voordat ze foto’s, video, audio of andere opnames via commerciële platvormen verspreiden.
 - Weten dat het toepassen van deze richtlijnen gemakkelijker gezegd is dan gedaan.
 - Intimidatie is onaanvaardbaar
