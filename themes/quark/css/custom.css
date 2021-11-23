@@ -33,11 +33,11 @@ h1 {
   -moz-text-fill-color: transparent;
 }
 
-h1::before {
-  content: "]|I{•------» ";
+h2::before {
+  content: "•---» ";
 }
-h1::after {
-  content: " «------•}I|[";
+h2::after {
+  content: " «---•";
 }
 
 h2 {
