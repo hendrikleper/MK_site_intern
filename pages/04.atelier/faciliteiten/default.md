@@ -78,7 +78,7 @@ Het atelier mediakunst bevindt zich op de 1e verdieping van de Kunsttoren. De oo
   </div>
 </div>
 ! werk-in-uitvoering
-### Blackbox
+## Blackbox
 
 De Blackbox is een polyvalente ruimte die gebruikt wordt voor screenings, lezingen, groepsgesprekken en atelier specifieke theorielessen. Studenten kunnen in deze plek ook opstellingen en performances oefenen en brengen, opnames maken, etc.
 
@@ -91,7 +91,7 @@ Akoestische geoptimaliseerd met absorberende panelen en gordijnen.
 Er is in het atelier nog een 2e PA systeem voorhanden bestaande uit 2 [QSC K10.2](https://www.qsc.com/resource-files/productresources/spk/k.2/q_spk_k2_usermanual.pdf) actieve speakers (Multi-purpose, 2-way active loudspeaker, 2000 Watt Class-D amp, 10inch woofer).    
 **licht**: dimbare TL lampen & puntspot op spreker via schakelaar (Q1)
 
-### Videomontage
+## Videomontage
 
 De Videomontage ruimte is uitgerust met een krachtige Apple computer, een 2e beeldscherm en studiomonitors. Qua software is zowel een videopakket van Adobe met recente versies van Premiere Pro en After Effects geïnstalleerd als Apple Final Cut Pro en DaVinci Resolve van Blackmagic.    
 
@@ -103,7 +103,7 @@ Pro 5700 XT met 16GB Ram  grafische kaart, AZERTY toetsenbord)
 **Tweede scherm**: Sony (type ??)  
 **Geluid**: KRK 6 Rokit studio monitors
 
-### Audio lab
+## Audio lab
 
 De audio werkplaats uitgerust met een Apple iMac computer, [quadrofonisch luidspreker opstelling](https://en.wikipedia.org/wiki/Quadraphonic_sound), een analoge synth van Doepfer. Qua software is er Ableton Live, Adobe Audition, Reaper & Max geïnstalleerd.
 
@@ -115,7 +115,7 @@ De audio werkplaats uitgerust met een Apple iMac computer, [quadrofonisch luidsp
 **Instrumenten**: Doepfer Modulaire synth (type ??), Koma (type ??)  
 **Software licenties**: Max op iLok usb key. Er is geen Ableton Live.
 
-### VR lab
+## VR lab
 
 ! verder uitschrijven    
 Blender, Unity, Unreal, Adobe Premiere Pro en After Effects
@@ -127,29 +127,29 @@ Blender, Unity, Unreal, Adobe Premiere Pro en After Effects
 VR headsets:
 **Geluid**: Adam ?? studio monitors
 
-### Elektronica Lab
+## Elektronica Lab
 
 ! verder uitschrijven    
 ![elektronica lab](elektronics.jpg)
 
 Arduino's, Raspberry Pi's 3B en 400, Pico
 
-### AI
+## AI
 
 ! verder uitschrijven    
 Linux computer met GTX grafische kaart, ...
 
-### keuken
+## keuken
 
 ! verder uitschrijven
 
-### Formlab
+## Formlab
 
 [Formlab](https://www.formlab.schoolofarts.be/) is een werkplaats die inzet op het overbruggen van het digitale naar het fysieke. Centraal staat het 3D-printen en -scannen maar er zijn ook mogelijkheden om te frezen en vacuümvormen.
 
 ![formlab](formlab.jpg)
 
-### Laboratorium
+## Laboratorium
 
 [Laboratorium](http://laboratorium.bio/) is een experimenteel lab voor kunst/design en biotechnologie. Het organiseert workshops, lezingen en participeert in het academisch programma van KASK binnen de thema's als kleuren, biomaterialen, Art+Science en DIYbio.
 
