@@ -7,7 +7,6 @@ visible: true
 ---
 
 # FACILITEITEN
-
 Het atelier mediakunst bevindt zich op de 1e verdieping van de Kunsttoren. De oorspronkelijke functie van het gebouwd was een textielschool, iets dat zich nog nog erg duidelijk laat zien in de architectuur.     
 
 ![atelier mediakunst](uitkijk.jpg)
@@ -78,7 +77,7 @@ Het atelier mediakunst bevindt zich op de 1e verdieping van de Kunsttoren. De oo
     </div>
   </div>
 </div>
-
+! werk-in-uitvoering
 ### Blackbox
 
 De Blackbox is een polyvalente ruimte die gebruikt wordt voor screenings, lezingen, groepsgesprekken en atelier specifieke theorielessen. Studenten kunnen in deze plek ook opstellingen en performances oefenen en brengen, opnames maken, etc.
@@ -106,13 +105,13 @@ Pro 5700 XT met 16GB Ram  grafische kaart, AZERTY toetsenbord)
 
 ### Audio lab
 
-De audio werkplaats uitgerust met een Apple iMac computer, quadrofone luidspreker opstelling, een analoge synth van Doepfer. Qua software is er Ableton Live, Adobe Audition, Reaper & Max geïnstalleerd.
+De audio werkplaats uitgerust met een Apple iMac computer, [quadrofonisch luidspreker opstelling](https://en.wikipedia.org/wiki/Quadraphonic_sound), een analoge synth van Doepfer. Qua software is er Ableton Live, Adobe Audition, Reaper & Max geïnstalleerd.
 
 ![audiolab](audio.jpg)
 
 **Computer**: Apple iMac 27" (AZERTY toetsenbord) + RME Fireface geluidskaart  
 `user: schoolofarts – psw: 1111`  
-**Geluid**: Quadrofoon opstelling met 4 Adam T7V studio monitors, Adam T10 subwoofer, Mackie mixer  
+**Geluid**: Quadrofonische opstelling met 4 Adam T7V studio monitors, Adam T10 subwoofer, Mackie mixer  
 **Instrumenten**: Doepfer Modulaire synth (type ??), Koma (type ??)  
 **Software licenties**: Max op iLok usb key. Er is geen Ableton Live.
 

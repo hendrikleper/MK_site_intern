@@ -31,3 +31,8 @@ Mediakunst docenten, onderzoekers, medewerkers, studenten en bezoekers:
 - Intimidatie is onaanvaardbaar
 
 Er werd door KASK & Conservatorium een kader opgesteld m.b.t. grensoverschrijdend gedrag. Meer info over dit kader, contact gegevens van de ombudspersonen binnen de school en in het werkveld vind je [hier](https://schoolofartsgent.be/nl/over-ons/cultuur-van-zorg/grensoverschrijdend-gedrag/) terug.
+
+Andere **Code of Conduct** voorbeelden:  
+* [varia.zone](https://varia.zone/en/pages/code-of-conduct.html)
+* [P5](https://github.com/processing/p5.js/blob/main/CODE_OF_CONDUCT.md) & [ML5JS](https://github.com/ml5js/Code-of-Conduct)
+*...
