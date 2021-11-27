@@ -21,10 +21,10 @@ Title: Agenda
 |  | wo 24/11 10:30-15:30  | Tussentijdse Jury | Fairuz, Jerry & Hendrik |
 | w10 | di 30/11 9:00-15:30 | [CODELAB AI](../projecten/2021AI) | Jerry |
 |  | wo 1/12 9:00-12:30 | [Workshop Blender](../projecten/2021blender) | Fons Artois |
-|  | wo 1/12 13:30-17:30 | uitstap BXL | Fairuz & Hendrik |
+|  | wo 1/12 13:30-17:30 | begeleiding autonomoon werk | Fairuz & Hendrik |
 | w11 | di 7/12 9:00-15:30 | [CODELAB AI](../projecten/2021AI)  | Jerry |
 |  | wo 8/12 9:00-12:30 | [Workshop Blender](../projecten/2021blender) | Fons Artois |
-|  | wo 8/12 13:30-17:30 | begeleiding autonomoon werk | Fairuz & Hendrik |
+|  | wo 8/12 13:30-17:30 | uitstap BXL | Fairuz & Hendrik |
 | w12 | di 15/12 9:00-15:30 | Axidraw & Plotting / physical computing | Hendrik |
 |  | wo 19/12 9:00-12:30 | begeleiding autonomoon werk | Hendrik |
 | w13 | di 21/12 9:00-12:30 | Open Lab | Jerry & Hendrik |
@@ -64,7 +64,7 @@ Title: Agenda
 #### uitstappen
 |     |       |     |
 | --- | :---: | --- |
-| woensdag 1/12 namiddag | Brussel | Bezoek aan Argos, iMal, ... |
+| woensdag 8/12 namiddag | Brussel | [Bezoek aan Argos & iMal](../trips/2021bxl) |
 
 #### jury's
 |     |       |     |
