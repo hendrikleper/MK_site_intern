@@ -1,5 +1,8 @@
 html {
   font-size: 20px;
+}
+
+body {
   background: linear-gradient(135deg, rgba(3,227,25,0.12) 0%, rgba(0,249,255,0.12) 100%);
 }
 
