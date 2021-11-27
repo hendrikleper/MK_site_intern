@@ -125,6 +125,11 @@ a:visited {
   html {
     font-size: calc(20px + 4 * ((100vw - 480px) / 800));
     }
+  }
+
+@media screen and (min-width: 1280px) { html { font-size: 24px; } }
+
+@media screen and (max-width: 480px) {
   h2::before {
     content: "» ";
     }
@@ -132,5 +137,3 @@ a:visited {
     content: " «";
     }
   }
-
-@media screen and (min-width: 1280px) { html { font-size: 24px; } }

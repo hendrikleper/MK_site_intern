@@ -25,29 +25,6 @@ Jullie moeten hiervoor zelf tickets voorzien.
 Groeten,
 Fairuz en Hendrik
 
-- - - - ENG - - - - - - - - - -
-Hi all,
-
-Fairuz and I would like to invite you to a trip to Brussels on Wednesday, December 8 December (and not 1 as previously announced) to visit iMal and Argos. See below for details and links to the exhibitions.   
-
-We can make the trip happen despite the increased corona regulations. One of the new measures is that we cannot make the journey together (bus, public transport, ...) For that reason we will meet directly at iMal at 14:30. We will conclude at Argos around 18:00.   
-
-The entrance fee for the exhibitions will be paid through the study compensation. You are responsible for the travel expenses.   
-
-We need to limit the group to 20 participants. So please let us know soon if you join us.   
-
-Note: Both exhibitions require a Covid Safe Ticket!
-
-After the visits there are 2 fine options, 1 in Brussels and 1 in Ghent, which are definitely worthwhile.
-BXL option - Beursschouwburg 20h30 film screening PRISM (BE premiere !!) by Eléonore Yameogo, Rosine Mfetgo and An van. Dienderen.
-GNT option - Miry Concert Hall 19h30 concerts by Trio Thielemans, Ambarchi & Charlemagne Palestine / Eric Thielemans & Oren Ambarchi
-You must provide your own tickets for these options.
-
-🤞🏻 let's hope we don't have to cancel this.
-
-Greetings,
-Fairuz and Hendrik
-
 
 ## [iMAL - Swipe Right! Data, Dating, Desire](https://www.imal.org/nl/events/swipe-right-data-dating-desire)
 What does it mean to love in the digital age? How are digital interfaces reshaping our personal relationships? What do new technologies imply for the future of the romantic sphere? How do screens affect our sexual intimacy and our desire for connection?    
