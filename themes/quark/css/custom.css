@@ -1,8 +1,8 @@
-html { font-size: 20px; }
-
-@media screen and (min-width: 480px) { html { font-size: calc(20px + 4 * ((100vw - 480px) / 800)); } }
-
-@media screen and (min-width: 1280px) { html { font-size: 24px; } }
+html {
+  font-size: 20px;
+  background: rgb(3,227,25);
+  background: linear-gradient(135deg, rgba(3,227,25,0.1741071428571429) 0%, rgba(0,249,255,0.18531162464985995) 100%); 
+}
 
 h1, .h1 { font-size: 3rem; }
 
@@ -34,10 +34,10 @@ h1 {
 }
 
 h2::before {
-  content: "•---» ";
+  content: "---» ";
 }
 h2::after {
-  content: " «---•";
+  content: " «---";
 }
 
 h2 {
@@ -121,3 +121,17 @@ a:visited {
 }
 
 .bg-warning-light { background: #fcf8f2  }
+
+@media screen and (min-width: 480px) {
+  html {
+    font-size: calc(20px + 4 * ((100vw - 480px) / 800));
+    }
+  h2::before {
+    content: "» ";
+    }
+  h2::after {
+    content: " «";
+    }
+  }
+
+@media screen and (min-width: 1280px) { html { font-size: 24px; } }

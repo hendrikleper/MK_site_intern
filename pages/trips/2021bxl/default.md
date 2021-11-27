@@ -1,22 +1,52 @@
 ---
 Title: bezoek aan Argos & iMAL
 ---
-# BEZOEK aan ARGOS & iMAL, gesprek met Aay Liparoto
+# BEZOEK aan ARGOS & iMAL
 
 Dag allen,
 
-Fairuz en ik willen jullie graag uitnodigen voor een uitstap naar Brussel op woensdag 1 december voor een bezoek aan iMal en Argos en een gesprek met Aay Liparoto, kunstenaar en oud-student. Zie onderaan.    
+Fairuz en ik willen jullie graag uitnodigen voor een uitstap naar Brussel op woensdag 8 december (en niet 1 zoals eerder aangekondigd) voor een bezoek aan iMal en Argos. Zie onderaan voor details en links naar de tentoonstellingen.
 
-We kunnen de uitstap laten doorgaan ondanks de aangescherpte corona regels. Een van de nieuwe maatregelen is dat we niet samen de reis kunnen maken (bus, openbaar vervoer, ..) Om die reden spreken we rechtsreeks af aan iMal om 14:30. We sluiten af in Argos rond 18:00.    
+We kunnen de uitstap laten doorgaan ondanks de aangescherpte corona regels. Een van de nieuwe maatregelen is dat we niet samen de reis kunnen maken (bus, openbaar vervoer, ..) Om die reden spreken we rechtsreeks af aan iMal om 14:30. We sluiten af in Argos rond 18:00.   
 
-De toegang voor de tentoonstellingen wordt betaald via de bijzondere studiekosten. Jullie staan zelf in voor de verplaatsingsonkosten.    
+De toegang voor de tentoonstellingen wordt betaald via de bijzondere studiekosten. Jullie staan zelf in voor de verplaatsingsonkosten.   
 
-We moeten de groep beperken tot 20 deelnemers. Laat ons dus snel weten indien je mee wil gaan.    
+We moeten de groep beperken tot 20 deelnemers. Laat ons dus snel weten indien je meegaat.
 
 Let op: Voor beide tentoonstellingen is er een Covid Safe Ticket vereist!
 
+Na de bezoeken zijn er nog 2 fijne opties, 1 in Brussel en 1 in Gent, die zeker de moeite zijn.
+BXL optie – Beursschouwburg 20h30 filmscreening PRISM (BE première !!)  van Eléonore Yameogo, Rosine Mfetgo en An van. Dienderen.
+GNT optie – Miry Concertzaal 19h30 concerten van Trio Thielemans, Ambarchi & Charlemagne Palestine / Eric Thielemans & Oren Ambarchi
+Jullie moeten hiervoor zelf tickets voorzien.
+
+🤞🏻Hopelijk moeten we dit niet alsnog annuleren.
+
 Groeten,
 Fairuz en Hendrik
+
+- - - - ENG - - - - - - - - - -
+Hi all,
+
+Fairuz and I would like to invite you to a trip to Brussels on Wednesday, December 8 December (and not 1 as previously announced) to visit iMal and Argos. See below for details and links to the exhibitions.   
+
+We can make the trip happen despite the increased corona regulations. One of the new measures is that we cannot make the journey together (bus, public transport, ...) For that reason we will meet directly at iMal at 14:30. We will conclude at Argos around 18:00.   
+
+The entrance fee for the exhibitions will be paid through the study compensation. You are responsible for the travel expenses.   
+
+We need to limit the group to 20 participants. So please let us know soon if you join us.   
+
+Note: Both exhibitions require a Covid Safe Ticket!
+
+After the visits there are 2 fine options, 1 in Brussels and 1 in Ghent, which are definitely worthwhile.
+BXL option - Beursschouwburg 20h30 film screening PRISM (BE premiere !!) by Eléonore Yameogo, Rosine Mfetgo and An van. Dienderen.
+GNT option - Miry Concert Hall 19h30 concerts by Trio Thielemans, Ambarchi & Charlemagne Palestine / Eric Thielemans & Oren Ambarchi
+You must provide your own tickets for these options.
+
+🤞🏻 let's hope we don't have to cancel this.
+
+Greetings,
+Fairuz and Hendrik
 
 
 ## [iMAL - Swipe Right! Data, Dating, Desire](https://www.imal.org/nl/events/swipe-right-data-dating-desire)
@@ -41,7 +71,7 @@ History of a Tree is shot from roots to spire by one, seemingly continuous, dron
 Brussels-based Korean/Dutch artist Sara Sejin Chang (Sara van der Heide)’s Four Months, Four Million Light Years (2020) presents a shamanic healing journey through space and time. This immersive film installation addresses the colonial narratives behind transnational and transracial adoption, through the historical relations between The Netherlands and Korea.    
 
 [...](https://www.argosarts.org/event/sara-sejin-chang-sara-van-der-heide-four-months-four-million-light-years-1)
-
+<!--
 ## [Aay Liparoto](https://www.aliparoto.com/)
 
 Aay Liparoto  [1987°, USA] was educated in Visual Arts in London and completed a MFA at KASK with a seductive reflection on normative gender performance with the 9 month long daily performance project 'Andrew has His Period' and the movie 'Andrew a Strong Courageous Warrior'.
@@ -51,7 +81,19 @@ Aay Liparoto  [1987°, USA] was educated in Visual Arts in London and completed 
 Aay uses long term performance as a form of research to examine the power in the banal. Their output is predominately video, text and performance, working with accessible technology, personal digital archives and DIY strategies to reflect on the mechanics of everyday life. In both their solo and collaborative practice, they are currently focused on feminist co–authorship as a method for resisting the oversimplification of mainstream narratives of historically marginalised voices.
 
 They are currently in development of 360°cinematic virtual reality work, [Small Acts Of Violence](https://www.aliparoto.com/small-acts-of-violence), which is focused on the entanglement of love and violence in primary relationships, in production with ARGOS.
+-->
+## Beursschouwburg
+20h30 A. Ortsstraat 20-28 1000 Brussels    
+[PRISM van Eléonore Yameogo, Rosine Mfetgo en An van. Dienderen](https://beursschouwburg.be/en/events/rosine-mbakam-eleonore-yameogo-and-an-van-dienderen-prism/) - filmscreening
+In this chain-letter Gesamtkunstwerk, three filmmakers explore the poetic and political significance of light as it relates to skin colour.
+PRISM departs from the perspective that the photographic media are technologically and ideologically biased, favouring Caucasian skin. Its three filmmakers pool their distinctive approaches and experiences to explore the relation between skin colour and cinematography, between white-centric privilege and the photographic media.
 
+## Miry (& Voo?uit)
+19u30 Biezekapelstraat 9, 9000 Gent    
+[RUISKAMER #3: Trio Thielemans, Ambarchi & Charlemagne Palestine / Oren Ambarchi solo](https://miryconcertzaal.be/trio-thielemans-ambarchi-charlemagne-palestine-eric-thielemans-oren-ambarchi/)
+Avant-garde giants pay tribute to Mika Vainio
+The late Finnish artist Mika Vainio was an electronica pioneer and one half of the legendary underground duo Pan Sonic. Going by Ø or simply Mika Vainio, the musician experimented with atmospheric ambient, minimal techno and everything in between. In 2013, Vainio was invited to Les Ateliers Claus in Brussels, where he collaborated and performed with percussionist Eric Theielemans and avant-garde phenomenon Charlemagne Palestine.
+The music they created has been compiled to create a record, released in 2020. To mark the release and pay tribute to the man himself, who passed away in 2017, Thielemans and Palestine are bringing the recordings to life during this RUISKAMER, together with Oren Ambarchi.
 
 
 ## Programma
@@ -63,8 +105,7 @@ They are currently in development of 360°cinematic virtual reality work, [Small
 * 14:30 bezoek iMal
 * 15:50 vertrek naar Argos
 * 16:00 Bezoek Argos
-* 17:15 gesprek met Aay Liparoto
-* 18:00 Einde.
+* 17:30 Einde
 <!--
 Vertrek naar BXL Noord
 * 18:21 Vertrek trein naar Gent SP
