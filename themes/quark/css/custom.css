@@ -1,7 +1,6 @@
 html {
   font-size: 20px;
-  background: rgb(3,227,25);
-  background: linear-gradient(135deg, rgba(3,227,25,0.1741071428571429) 0%, rgba(0,249,255,0.18531162464985995) 100%); 
+  background: linear-gradient(135deg, rgba(3,227,25,0.12) 0%, rgba(0,249,255,0.12) 100%);
 }
 
 h1, .h1 { font-size: 3rem; }
