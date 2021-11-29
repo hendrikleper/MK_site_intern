@@ -15,20 +15,20 @@ Title: Agenda
 | w6 | di 2/11 9:00-15:30   | Geen les |  |
 |  | wo 3/11 9:00-12:30   | Uitzonderlijk geen les |  |
 | w7 | PROJECTWEEK |  |  |
-| w8 | di 16/11  9:00-15:00 | begeleiding autonomoon werk | Hendrik |
+| w8 | di 16/11  9:00-15:00 | begeleiding autonoom werk | Hendrik |
 |  | wo 17/11  9:00-12:30 | initiatie print & lasercut | Hendrik |
-| w9 | di 23/11 9:00-15:00  | begeleiding autonomoon werk | Hendrik |
+| w9 | di 23/11 9:00-15:00  | begeleiding autonoom werk | Hendrik |
 |  | wo 24/11 10:30-15:30  | Tussentijdse Jury | Fairuz, Jerry & Hendrik |
 | w10 | di 30/11 9:00-15:30 | [CODELAB AI](../projecten/2021AI) | Jerry |
 |  | wo 1/12 9:00-12:30 | [Workshop Blender](../projecten/2021blender) | Fons Artois |
-|  | wo 1/12 13:30-17:30 | begeleiding autonomoon werk | Fairuz & Hendrik |
+|  | wo 1/12 13:30-17:30 | begeleiding autonoon werk | Fairuz & Hendrik |
 | w11 | di 7/12 9:00-15:30 | [CODELAB AI](../projecten/2021AI)  | Jerry |
 |  | wo 8/12 9:00-12:30 | [Workshop Blender](../projecten/2021blender) | Fons Artois |
 |  | wo 8/12 13:30-17:30 | uitstap BXL | Fairuz & Hendrik |
-| w12 | di 15/12 9:00-15:30 | Axidraw & Plotting / physical computing | Hendrik |
-|  | wo 19/12 9:00-12:30 | begeleiding autonomoon werk | Hendrik |
-| w13 | di 21/12 9:00-12:30 | Open Lab | Jerry & Hendrik |
-|  | wo 22/12 9:00-12:30 | begeleiding autonomoon werk | Hendrik |
+| w12 | di 14/12 9:00-15:30 | Axidraw & Plotting | Hendrik |
+|  | wo 15/12 9:00-12:30 | begeleiding autonoom werk | Hendrik |
+| w13 | di 21/12 9:00-12:30 | physical computing | Hendrik |
+|  | wo 22/12 9:00-12:30 | begeleiding autonoom werk | Hendrik |
 
 <!--
 |  | 2e semester |  |  |

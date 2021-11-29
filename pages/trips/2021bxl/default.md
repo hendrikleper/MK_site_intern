@@ -72,18 +72,18 @@ Avant-garde giants pay tribute to Mika Vainio
 The late Finnish artist Mika Vainio was an electronica pioneer and one half of the legendary underground duo Pan Sonic. Going by Ø or simply Mika Vainio, the musician experimented with atmospheric ambient, minimal techno and everything in between. In 2013, Vainio was invited to Les Ateliers Claus in Brussels, where he collaborated and performed with percussionist Eric Theielemans and avant-garde phenomenon Charlemagne Palestine.
 The music they created has been compiled to create a record, released in 2020. To mark the release and pay tribute to the man himself, who passed away in 2017, Thielemans and Palestine are bringing the recordings to life during this RUISKAMER, together with Oren Ambarchi.
 
-
-## Programma
 <!--
+## Programma
+
 * 13:10 afspraak Gent SP
 * 13:23 vertrek trein naar BXL Noord
 * 14:04 aankomst trein
--->
+
 * 14:30 bezoek iMal
 * 15:50 vertrek naar Argos
 * 16:00 Bezoek Argos
 * 17:30 Einde
-<!--
+
 Vertrek naar BXL Noord
 * 18:21 Vertrek trein naar Gent SP
 -->
