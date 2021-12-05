@@ -55,22 +55,20 @@ h3 {
 }
 
 a {
-  xcolor: #03e319;
-  color: black;
-  box-shadow: inset 0 -7px 0 #fce771;
+  color: #03e319;
 }
 
 a:focus, a:hover, a:active, a.active {
-  xcolor: #4be303;
+  color: #4be303;
   -webkit-transition: color 200ms ease-in-out;
--moz-transition: color 200ms ease-in-out;
--ms-transition: color 200ms ease-in-out;
--o-transition: color 200ms ease-in-out;
-transition: color 200ms ease-in-out;
+  -moz-transition: color 200ms ease-in-out;
+  -ms-transition: color 200ms ease-in-out;
+  -o-transition: color 200ms ease-in-out;
+  transition: color 200ms ease-in-out;
 }
 
 a:visited {
-  xcolor: #07cb1a;
+  color: #07cb1a;
   -webkit-transition: color 200ms ease-in-out;
 -moz-transition: color 200ms ease-in-out;
 -ms-transition: color 200ms ease-in-out;
