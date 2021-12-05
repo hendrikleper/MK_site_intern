@@ -37,7 +37,8 @@ title: 'Praktische Info'
 ### Internet & webtools
 
 ☞ [Belnet FileSender](https://filesender.belnet.be/index.php?s=upload), verzend veilig en gemakkelijk grote bestanden (tot 5TB!!) naar andere gebruikers     
-☞ [Hogent IT helpdesk](https://servicedesk.hogent.be/)
+☞ [Hogent IT helpdesk](https://www.hogent.be/helpdesk/)
+
 
 ## Draadloos netwerk
 
