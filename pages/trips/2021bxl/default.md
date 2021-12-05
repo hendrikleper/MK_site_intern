@@ -2,36 +2,18 @@
 Title: bezoek aan Argos & iMAL
 ---
 # BEZOEK aan ARGOS & iMAL
+#### woensdag 8 december
+!! Voor beide tentoonstellingen is er een Covid Safe Ticket vereist!
 
-Dag allen,
-
-Fairuz en ik willen jullie graag uitnodigen voor een uitstap naar Brussel op woensdag 8 december (en niet 1 zoals eerder aangekondigd) voor een bezoek aan iMal en Argos. Zie onderaan voor details en links naar de tentoonstellingen.
-
-We kunnen de uitstap laten doorgaan ondanks de aangescherpte corona regels. Een van de nieuwe maatregelen is dat we niet samen de reis kunnen maken (bus, openbaar vervoer, ..) Om die reden spreken we rechtsreeks af aan iMal om 14:30. We sluiten af in Argos rond 18:00.   
-
-De toegang voor de tentoonstellingen wordt betaald via de bijzondere studiekosten. Jullie staan zelf in voor de verplaatsingsonkosten.   
-
-We moeten de groep beperken tot 20 deelnemers. Laat ons dus snel weten indien je meegaat.
-
-Let op: Voor beide tentoonstellingen is er een Covid Safe Ticket vereist!
-
-Na de bezoeken zijn er nog 2 fijne opties, 1 in Brussel en 1 in Gent, die zeker de moeite zijn.
-BXL optie – Beursschouwburg 20h30 filmscreening PRISM (BE première !!)  van Eléonore Yameogo, Rosine Mfetgo en An van. Dienderen.
-GNT optie – Miry Concertzaal 19h30 concerten van Trio Thielemans, Ambarchi & Charlemagne Palestine / Eric Thielemans & Oren Ambarchi
-Jullie moeten hiervoor zelf tickets voorzien.
-
-🤞🏻Hopelijk moeten we dit niet alsnog annuleren.
-
-Groeten,
-Fairuz en Hendrik
-
-
-## [iMAL - Swipe Right! Data, Dating, Desire](https://www.imal.org/nl/events/swipe-right-data-dating-desire)
+## [iMAL](https://www.imal.org/)
+#### 14:30 Koolmijnkaai 30 1080 BXL
+### [iMAL - Swipe Right! Data, Dating, Desire](https://www.imal.org/nl/events/swipe-right-data-dating-desire)
 What does it mean to love in the digital age? How are digital interfaces reshaping our personal relationships? What do new technologies imply for the future of the romantic sphere? How do screens affect our sexual intimacy and our desire for connection?    
 
 [...](https://www.imal.org/en/events/swipe-right-data-dating-desire)
 
 ## [ARGOS](https://www.argosarts.org/)
+#### 16:00 Werfstraat 13, 1000
 ### [Hamza Halloubi: You left me my lips, and they shape words, even in silence](https://www.argosarts.org/event/hamza-halloubi-you-left-me-my-lips-and-they-shape-words-even-in-silence-1)
 Born in Morocco in 1982, Hamza Halloubi has lived and worked in Brussels for many years. In his work, Halloubi observes reality through a precise yet poetic gaze.
 
@@ -60,14 +42,14 @@ Aay uses long term performance as a form of research to examine the power in the
 They are currently in development of 360°cinematic virtual reality work, [Small Acts Of Violence](https://www.aliparoto.com/small-acts-of-violence), which is focused on the entanglement of love and violence in primary relationships, in production with ARGOS.
 -->
 ## Beursschouwburg
-20h30 A. Ortsstraat 20-28 1000 Brussels    
-[PRISM van Eléonore Yameogo, Rosine Mfetgo en An van. Dienderen](https://beursschouwburg.be/en/events/rosine-mbakam-eleonore-yameogo-and-an-van-dienderen-prism/) - filmscreening
+20:30 A. Ortsstraat 20-28 1000 Brussels    
+### [PRISM van Eléonore Yameogo, Rosine Mfetgo en An van. Dienderen](https://beursschouwburg.be/en/events/rosine-mbakam-eleonore-yameogo-and-an-van-dienderen-prism/) - filmscreening
 In this chain-letter Gesamtkunstwerk, three filmmakers explore the poetic and political significance of light as it relates to skin colour.
 PRISM departs from the perspective that the photographic media are technologically and ideologically biased, favouring Caucasian skin. Its three filmmakers pool their distinctive approaches and experiences to explore the relation between skin colour and cinematography, between white-centric privilege and the photographic media.
 
 ## Miry (& Voo?uit)
-19u30 Biezekapelstraat 9, 9000 Gent    
-[RUISKAMER #3: Trio Thielemans, Ambarchi & Charlemagne Palestine / Oren Ambarchi solo](https://miryconcertzaal.be/trio-thielemans-ambarchi-charlemagne-palestine-eric-thielemans-oren-ambarchi/)
+19:30 Biezekapelstraat 9, 9000 Gent    
+### [RUISKAMER #3: Trio Thielemans, Ambarchi & Charlemagne Palestine / Oren Ambarchi solo](https://miryconcertzaal.be/trio-thielemans-ambarchi-charlemagne-palestine-eric-thielemans-oren-ambarchi/)
 Avant-garde giants pay tribute to Mika Vainio
 The late Finnish artist Mika Vainio was an electronica pioneer and one half of the legendary underground duo Pan Sonic. Going by Ø or simply Mika Vainio, the musician experimented with atmospheric ambient, minimal techno and everything in between. In 2013, Vainio was invited to Les Ateliers Claus in Brussels, where he collaborated and performed with percussionist Eric Theielemans and avant-garde phenomenon Charlemagne Palestine.
 The music they created has been compiled to create a record, released in 2020. To mark the release and pay tribute to the man himself, who passed away in 2017, Thielemans and Palestine are bringing the recordings to life during this RUISKAMER, together with Oren Ambarchi.
