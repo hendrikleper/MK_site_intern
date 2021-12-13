@@ -25,7 +25,7 @@ Title: Agenda
 | w11 | di 7/12 9:00-15:30 | [CODELAB AI](../projecten/2021AI)  | Jerry |
 |  | wo 8/12 9:00-12:30 | [Workshop Blender](../projecten/2021blender) | Fons Artois |
 |  | wo 8/12 13:30-17:30 | uitstap BXL | Fairuz & Hendrik |
-| w12 | di 14/12 10:30-15:00 | Axidraw & Plotting | Hendrik |
+| w12 | di 14/12 10:30-15:00 | [Axidraw & Plotting](../projecten/2021penplotterfun) | Hendrik |
 |  | wo 15/12 9:00-12:30 | begeleiding autonoom werk | Hendrik |
 | w13 | di 21/12 9:00-12:30 | physical computing | Hendrik |
 |  | wo 22/12 9:00-12:30 | begeleiding autonoom werk | Hendrik |
