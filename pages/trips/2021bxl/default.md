@@ -68,4 +68,20 @@ The music they created has been compiled to create a record, released in 2020. T
 
 Vertrek naar BXL Noord
 * 18:21 Vertrek trein naar Gent SP
+
+## Deelnemers
+Suzanne Cleerdin
+Vincent Van Asten
+Gaja Petrauskaite
+Boris Daems
+Sophia Vielma Fleischhacker
+Noah Heylen
+Jennifer Izere
+Boris Deben
+Tsigane Van Audenhove
+Thibault Legein
+June Rausenberger
+Justin Meulebrouck
+Nathan Castelain
+Merisa Llukaj
 -->
