@@ -3,7 +3,8 @@ Title: PEN PLOTTER FUN
 ---
 
 # PEN PLOTTER FUN
-**with [AxiDraw V3/A3](https://AxiDraw.com/) – an A3 pen plotter from Evil Mad Scientist**    
+**with [AxiDraw V3/A4 & A3](https://AxiDraw.com/) – an A3 pen plotter from Evil Mad Scientist**    
+![](axidraw.jpg)    
 
 A pen plotter is a type of simple robot. It guides a pen (or other implement mounted in the pen holder) along the set of vector lines, curves, and paths that you (through a computer) ask it to follow.
 This is much like using a traditional printer, except that you need to take care that your documents are made of paths, rather than pixels.
@@ -14,24 +15,28 @@ This is much like using a traditional printer, except that you need to take care
 ## Using AxiDraw with Inkscape
 #### ☞ [Software Installation](https://wiki.evilmadscientist.com/AxiDraw_Software_Installation)
 #### ☞ Quick Setup
-1. Move the AxiDraw to its Home Corner.
-2. Plug in power and USB cables.
-3. Add the pen to the plotter.
-4. Position your paper with its upper-left corner below the pen tip.
-5. In Inkscape
-  1. Set pagesize to A3 Landscape in File -> Document Properties.
-  2. Select the drawing or text and select Path -> Object to path.
+1. Check which AxiDraw plotter you have. Is it an A4 or an A4 model? Based on that, you need to do some settings differently.
+2. Move the AxiDraw to its Home Corner.
+3. Plug in power and USB cables.
+4. Add the pen to the plotter.
+5. Position your paper with its upper-left corner below the pen tip.
+6. In Inkscape
+  1. Set pagesize to **A4** or **A3** Landscape in File -> Document Properties.
+  2. Select the drawing or text and select Path -> Object to path (possibly optional).
   3. Extensions -> AxiDraw Control. Go to tab setup. Click the Toggle pen between UP, DOWN option. Click apply to toggle the pen down and back up to check the correct vertical movement.
     1. Adjust the pen's height
     2. Try to keep the range of movement to a minimum. This will draw faster and is better for the servo motor.
-  4. Extensions -> Options -> Config. Choose AxiDraw V3/A3 or SE/A3 to select the right plotter.
+  4. Select the right plotter. Extensions -> Options -> Config. For the A4 model choose **AxiDraw V2 or V3**. For the A3 model choose **AxiDraw V3/A3 or SE/A3**.
   5. Extensions -> AxiDraw Control. Go to tab Plot and click Apply to start plotting. Each visible layer will print.
 
-*Vertical documents in Inkscape will be rotated left 90° on the AxiDraw:*
+#### Additions
+1. **Vertical documents** in Inkscape will be rotated left 90° on the AxiDraw:    
 ![](axidraw-left-turn.jpg)
-
-*For single line fonts, check Inkscape Extensions -> text -> Hershey text*
-
+For **single line fonts**, check Inkscape Extensions -> text -> Hershey text. [More info here](https://cdn.evilmadscientist.com/dl/ad/public/HersheyText_v30r5.pdf)    
+![](hersheytext.png)    
+![](hersheyfonts.png)    
+To **fill shapes** with lines or hatches, check Inkscape Extensions -> text -> Hatch Fill. [More info](https://wiki.evilmadscientist.com/Hatch_fill).    
+![](hatchfill.png)
 ## Using AxiDraw without Inkscape
 * [AxiDraw Python API](https://AxiDraw.com/doc/py_api/) for plotting files and XY movement commands
 * [Driving the AxiDraw from within Processing](https://github.com/evil-mad/AxiDraw-Processing)
