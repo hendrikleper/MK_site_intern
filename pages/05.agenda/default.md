@@ -7,6 +7,7 @@ Title: Agenda
 
 | | 1e semester |       |     |
 |:---|:---|:---:|---:|
+<!--
 | w1 | di 28/09 9:00-15:30 | **CODE AS A CREATIVE MEDIUM** & [CFA](../projecten/2021CFA) | Elias, Jerry & Hendrik |
 | w2 | di 5/10 9:00-15:30   | [CODELAB NETART Webdev](../projecten/2021netartwebdev)  | Hendrik |
 | w3 | di 12/10 9:00-15:30  | [CODELAB NETART Webdev](../projecten/2021netartwebdev) | Hendrik |
@@ -29,23 +30,23 @@ Title: Agenda
 |  | wo 15/12 9:00-12:30 | begeleiding autonoom werk | Hendrik |
 | w13 | di 21/12 9:00-12:30 | physical computing | Hendrik |
 |  | wo 22/12 9:00-12:30 | begeleiding autonoom werk | Hendrik |
+-->
 
-<!--
 |  | 2e semester |  |  |
 | -	| - | :-:	|-	|
-| w1 	| 	| 	| 	|
+| w1 	| di 1/2 9:00-12:30	| max & physical computing	| Hendrik	|
 | 	| 	| 	| 	|
-| w2 	| 	| 	| 	|
+| w2 	| di 8/2 9:00-12:30	| After Effects (prt 1)	| Quirijn	|
+| 	| wo 9/2 14:00-16:00 	| notgames (werktitel) presentatie	| Quinten & Lewi	|
+| w3 	| di 15/2 9:00-12:30	| After Effects (prt 2)	| Quirijn	|
 | 	| 	| 	| 	|
-| w3 	| 	| 	| 	|
+| w4 	| di 22/2 9:00-12:30	| P5JS	| Hendrik	|
 | 	| 	| 	| 	|
-| w4 	| 	| 	| 	|
+| w5 	| di 1/3 9:00-12:30	| P5JS	| Hendrik	|
 | 	| 	| 	| 	|
-| w5 	| 	| 	| 	|
+| w6 	| di 8/2 9:00-12:30	| 	| 	|
 | 	| 	| 	| 	|
-| w6 	| 	| 	| 	|
-| 	| 	| 	| 	|
-| w7 	| 	|  	| 	|
+| w7 	| di 15/2 9:00-12:30	|  	| 	|
 | 	| 	| 	| 	|
 | w8 	| PROJECTWEEK	| 	| 	|
 | 	| 	| 	| 	|
@@ -65,12 +66,16 @@ Title: Agenda
 |     |       |     |
 | --- | :---: | --- |
 | woensdag 8/12 namiddag | Brussel | [Bezoek aan Argos & iMal](../trips/2021bxl) |
+| woensdag 9/2 | Brussel | [Elephy "Talking, Reading, and Watching Collectively" @ Harlan Levey & Beursschouwburg](https://www.beursschouwburg.be/en/events/talking-reading-watching-collectively/) |
+| eind april  | 2 daagse Rotterdam (o.v) |     |
+
+
 
 #### jury's
 |     |       |     |
 | --- | :---: | --- |
 | wo 24/11 10:30-16:00 | **tussentijdse jury** | juryleden: Fairuz, Jerry & Hendrik |
-| di 25/01 10:30-17:30 (o.v.)| **tussentijdse jury** | juryleden: Fairuz, Jerry & Hendrik |
+| di 25/01 10:30-17:30 | **tussentijdse jury** | juryleden: Fairuz, Jerry & Hendrik |
 | wo 20/04 10:30-17:30 (o.v.)| **tussentijdse jury** | juryleden: Fairuz, Hendrik, Jerry &  Pieter-Paul (o.v.) |
 | wo 15/06 10:30-17:30 (o.v.)| **eindjury** | juryleden: Fairuz, Hendrik, Jasper, Jerry, Joost (o.v.) |
 
@@ -80,7 +85,7 @@ Title: Agenda
 |     |       |     |
 | --- | :---: | --- |
 | do 25/11 9:00-17:30 | **tussentijdse jury** | juryleden: Joost, Anouk & Hendrik |
-| do 27/01 9:00-17:30 (o.v.)| **tussentijdse jury** | juryleden: Joost, Fairuz & Pieter-Paul (o.v.) |
+| do 27/01 9:00-17:30 | **tussentijdse jury** | juryleden: Joost, Fairuz, Pieter-Paul & Benny Nemer |
 | do 21/04 9:00-17:30 (o.v.)| **tussentijdse jury** | juryleden: Joost, Jasper & Anouk (o.v.) |
 | vr 17/06 9:00-17:30 (o.v.)| **eindjury** | juryleden: Joost, Jerry, Dirk Zoete, Anouk  (o.v.) |
 
@@ -90,9 +95,9 @@ Title: Agenda
 |     |       |     |
 | --- | :---: | --- |
 | vr 26/11 10:30-17:30 | **tussentijdse jury** | juryleden: Jerry, Jasper & Anouk |
-| wo 26/01 10:30-17:30 (o.v.)| **tussentijdse jury** | juryleden: Jerry, Pieter-Paul, Jelena & Hendrik (o.v.) |
+| wo 26/01 10:30-17:30 | **tussentijdse jury** | juryleden: Jerry, Pieter-Paul, Jelena & Hendrik |
 | wo 27/04 10:30-17:30 (o.v.)| **tussentijdse jury** | juryleden: Jerry, Fairuz, Anouk & Mekhitar (o.v.) |
-| vr 25/06 10:30-17:30 (o.v.)| **eindjury** | juryleden: Jerry, Anouk, Pieter-Paul, 1 (of 2) externen (o.v.) |
+| vr 24/06 10:30-17:30 (o.v.)| **eindjury** | juryleden: Jerry, Anouk, Pieter-Paul, 1 (of 2) externen (o.v.) |
 
 <!--
 ### transversaal atelier
