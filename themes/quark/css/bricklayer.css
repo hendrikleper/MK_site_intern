@@ -21,21 +21,27 @@
     display: none;
 }
 
-@media screen and (min-width: 640px) {
+@media screen and (min-width: 500px) {
     .bricklayer-column-sizer {
         width: 100%;
     }
 }
 
-@media screen and (min-width: 980px) {
+@media screen and (min-width: 800px) {
     .bricklayer-column-sizer {
         width: 50%;
     }
 }
 
-@media screen and (min-width: 1300px) {
+@media screen and (min-width: 1100px) {
     .bricklayer-column-sizer {
         width: 33.33333%;
+    }
+}
+
+@media screen and (min-width: 1400px) {
+    .bricklayer-column-sizer {
+        width: 25%;
     }
 }
 
