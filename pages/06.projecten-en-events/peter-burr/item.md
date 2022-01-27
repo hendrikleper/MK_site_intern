@@ -1,7 +1,6 @@
 ---
 title: 'Peter Burr'
 date: '04-02-2022 10:30'
-publish_date: '27-01-2022 21:19'
     tag:
         - lecture
 media_order: 'peterBurr.jpg,peterBurr_dirscraper.jpg'
