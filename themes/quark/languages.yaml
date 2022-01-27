@@ -5,8 +5,8 @@ en:
     BLOG:
       ITEM:
         CONTINUE_READING: Continue reading...
-        NEXT_POST: Next Post
-        PREV_POST: Previous Post
+        NEXT_POST: Next
+        PREV_POST: Previous
     SIDEBAR:
       SIMPLE_SEARCH:
         HEADLINE: Search

@@ -7,14 +7,14 @@ taxonomy:
         - workshop
 media_order: 'netart.jpg'
 ---
-# &lt;!--net.art web.dev--&gt;
-### Web literacy for artists HTML, CSS (en Javascript)
-
-> ”The single most important thing you need in order to have a career in the arts is persistence. The second most important thing you need is talent. The third most important thing is a grounding in how the online world works. Its that Important” Cory Doctorow from Information Doesn't Want to Be Free: Laws for the Internet Age. 2014
+# net.art web.dev
+## Web literacy for artists HTML, CSS (en Javascript)
+> ”The single most important thing you need in order to have a career in the arts is persistence. The second most important thing you need is talent. The third most important thing is a grounding in how the online world works. Its that Important”    
+<sup>Cory Doctorow from Information Doesn't Want to Be Free: Laws for the Internet Age. 2014</sup>
 
 Het internet biedt ongebreidelde mogelijkheden voor kunstenaars, het kan tegelijkertijd een onderwerp, een werkplaats, een canvas, een tentoonstellings-, reflectie- of publiciteitsplatform zijn. Tijdens deze korte workshop gaan we kort in op het historisch en hedendaags perspectief van zowel de technologie als het artistiek potentieel. En we gaan ook zelf aan de slag met verschillende web-technologieën.
 
-![netart](netart.jpg)
+![netart](netart.jpg)    
 
 ## NET.ART histories
 
