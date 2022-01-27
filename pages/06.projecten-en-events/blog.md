@@ -3,7 +3,7 @@ title: 'Projecten & Events'
 content:
     items:
         - '@self.children'
-    limit: 12
+    limit: 8
     order:
         by: date
         dir: desc
