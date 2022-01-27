@@ -1,12 +1,13 @@
 ---
-Title: X-RAY met PAULINE CURNIER JARDIN
+Title: 'X-RAY met PAULINE CURNIER JARDIN'
 date: '10-11-2021 15:30'
 publish_date: '27-01-2022 21:42'
 taxonomy:
     tag:
         - lecture
-media_order: 'paulinecurnierjardin.png'
+media_order: paulinecurnierjardin.png
 ---
+
 # X-RAY met PAULINE CURNIER JARDIN
 #### Unfolding the Practice & Screening
 #### @ KASKcinema
