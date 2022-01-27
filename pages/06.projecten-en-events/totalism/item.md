@@ -1,12 +1,13 @@
 ---
-Title: lecture CHT/TOTALISM.ORG
+Title: 'lecture CHT/TOTALISM.ORG'
 date: '06-10-2021 18:00'
 publish_date: '27-01-2022 21:49'
 taxonomy:
     tag:
         - lecture
-media_order: 'lectureTotalism.jpg'
+media_order: lectureTotalism.jpg
 ---
+
 # CHT/TOTALISM.ORG
 #### David Potocnik & Elisabeth De Laet
 #### atelier MEDIAKUNST / KASK
