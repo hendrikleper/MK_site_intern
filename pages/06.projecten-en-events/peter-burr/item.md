@@ -7,6 +7,7 @@ taxonomy:
         - lecture
     tag:
         - lecture
+media_order: peterBurr_dirscraper.jpg
 ---
 
 Peter Burr
