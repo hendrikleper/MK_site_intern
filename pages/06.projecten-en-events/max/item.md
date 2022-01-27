@@ -1,10 +1,10 @@
 ---
 Title: MAX CODELAB
 date: '19-10-2021 9:00'
-taxonomy:
-        - workshop
+publish_date: '27-01-2022 21:41'
     tag:
         - workshop
+media_order: 'c74-max8_v2.png'
 ---
 # MAX CODELAB
 ![MAX](c74-max8_v2.png)    

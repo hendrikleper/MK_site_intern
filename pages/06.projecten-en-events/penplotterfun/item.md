@@ -1,9 +1,11 @@
 ---
 Title: PEN PLOTTER FUN
 date: '14-12-2021 09:00'
+publish_date: '27-01-2022 21:43'
 taxonomy:
     tag:
         - workshop
+media_order: 'axidraw.jpg,axidraw-left-turn.jpg,hersheytext.png,hersheyfonts.png,hatchfill.png'
 ---
 
 # PEN PLOTTER FUN

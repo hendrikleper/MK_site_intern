@@ -1,9 +1,11 @@
 ---
 Title: AI CODELAB
 date: '30-11-2021 09:00'
+publish_date: '27-01-2022 21:48'
 taxonomy:
     tag:
         - workshop
+media_order: ''
 ---
 # AI CODELAB
 

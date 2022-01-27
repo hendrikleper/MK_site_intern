@@ -1,9 +1,11 @@
 ---
 Title: <!--net.art web.dev-->
 date: '05-10-2021 9:00'
+publish_date: '27-01-2022 21:41'
 taxonomy:
     tag:
         - workshop
+media_order: 'netart.jpg'
 ---
 # &lt;!--net.art web.dev--&gt;
 ##Web literacy for artists HTML, CSS (en Javascript)

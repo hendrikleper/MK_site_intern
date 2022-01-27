@@ -1,9 +1,11 @@
 ---
 Title: geluid in de kunst / sound in the arts
 date: '08-11-2021 10:00'
+publish_date: '27-01-2022 21:45'
 taxonomy:
     tag:
         - workshop
+media_order: 'liew.jpg'
 ---
 
 # GELUID IN DE KUNST / SOUND IN THE ARTS
@@ -46,7 +48,7 @@ Inschrijven kan je via mail naar hendrik.leper-at-hogent.be. De workshop staat o
 
 ## Liew Niyomkarn
 
-![LIEW NIYOMKARN](2021_liew.jpg)
+![LIEW NIYOMKARN](liew.jpg)
 
 [Liew Niyomkarn](https://liewniyomkarn.com/) is geluidskunstenaar en muzikant. Ze woont en werkt in Antwerpen. Haar werkdomein bevindt zich binnen de elektronische muziek, performance, geluidskunst en klank voor bewegend beeld. Haar werk werpt een kritische blik op de historische wortels van de geografie en verwijst vaak naar rituelen, overlevingstechnieken en akoestische ecologie. Ze maakt gebruik van gevonden objecten, field recordings, code, video, tekst, spoken word, … Deze elementen combineert ze met een rijk klankenpalet waarbij de fysieke eigenschappen van geluid zelf geïntegreerd worden.    
 

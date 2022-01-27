@@ -1,16 +1,17 @@
 ---
 Title: X-RAY met PAULINE CURNIER JARDIN
 date: '10-11-2021 15:30'
+publish_date: '27-01-2022 21:42'
 taxonomy:
     tag:
         - lecture
+media_order: 'paulinecurnierjardin.png'
 ---
 # X-RAY met PAULINE CURNIER JARDIN
 ### Unfolding the Practice & Screening
 ### @ KASKcinema
 ### woensdag 10 november, 2021, 20:30
-<!--https://www.kaskcinema.be/kaskcinema/vertoning/x_ray_pauline_curnier_jardin-->
-![](2021_paulinecurnierjardin.png)
+![](paulinecurnierjardin.png)
 
 [Pauline Curnier Jardin](http://paulinecurnierjardin.com/) (geboren 1980, Marseille, Frankrijk) is een beeldend kunstenaar. Ze werkt voornamelijk met film, installatie, performance en tekenen. Ze woont in Rome en Berlijn.    
 

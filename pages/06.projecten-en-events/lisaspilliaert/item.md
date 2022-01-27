@@ -1,16 +1,18 @@
 ---
 Title: lecture LISA SPILLIAERT
 date: '20-10-2021 16:00'
+publish_date: '27-01-2022 21:40'
 taxonomy:
     tag:
         - lecture
+media_order: 'lisaspilliaert.jpg'
 ---
 # LISA SPILLIAERT
 ### ARTIST PRESENTATION
 ### KASK CIRQUE
 ### woensdag 20 oktober, 2021, 16:00
 
-![](2021_lisaspilliaert.jpg)
+![](lisaspilliaert.jpg)
 
 [Lisa Spilliaert](https://www.lisaspilliaert.com), geboren uit een Japanse moeder en een Belgische vader, werd in 1990 in Tokio geboren en groeide daar op, maar verhuisde op haar zeventiende naar Brugge om haar opleiding in België verder te zetten. In 2013 behaalde ze een master in de fotografie aan KASK in Gent, de stad waar ze vandaag nog steeds woont en werkt. Ze gebruikt de zoeker van haar fototoestel en videocamera om een afstand te overbruggen, de persoonlijke dialoog tussen twee culturen vormt een rode draad doorheen haar fotografisch werk en haar films.
 
