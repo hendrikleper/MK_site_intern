@@ -9,9 +9,9 @@ content:
         dir: desc
     pagination: true
     url_taxonomy_filters: true
-show_sidebar: true
-show_breadcrumbs: true
-show_pagination: true
+show_sidebar: false
+show_breadcrumbs: false
+show_pagination: false
 ---
 
 # Projecten & Events
