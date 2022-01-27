@@ -36,15 +36,15 @@ Title: Agenda
 | -	| - | :-:	|-	|
 | w1 	| di 1/2 9:00-12:30	| max & physical computing	| Hendrik	|
 | 	| 	| 	| 	|
-| w2 	| di 8/2 9:00-12:30	| After Effects (prt 1)	| Quirijn	|
+| w2 	| di 8/2 9:00-12:30	| max & physical computing	| Hendrik	|
 | 	| wo 9/2 14:00-16:00 	| notgames (werktitel) presentatie	| Quinten & Lewi	|
-| w3 	| di 15/2 9:00-12:30	| After Effects (prt 2)	| Quirijn	|
+| w3 	| di 15/2 9:00-12:30	| After Effects (prt 1)	| Quirijn	|
 | 	| 	| 	| 	|
-| w4 	| di 22/2 9:00-12:30	| P5JS	| Hendrik	|
+| w4 	| di 22/2 9:00-12:30	| After Effects (prt 2)	| Quirijn	|
 | 	| 	| 	| 	|
 | w5 	| di 1/3 9:00-12:30	| P5JS	| Hendrik	|
 | 	| 	| 	| 	|
-| w6 	| di 8/2 9:00-12:30	| 	| 	|
+| w6 	| di 8/2 9:00-12:30	| P5JS	| Hendrik	|
 | 	| 	| 	| 	|
 | w7 	| di 15/2 9:00-12:30	|  	| 	|
 | 	| 	| 	| 	|
