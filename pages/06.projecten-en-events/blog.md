@@ -11,7 +11,7 @@ content:
     url_taxonomy_filters: true
 show_sidebar: true
 show_breadcrumbs: true
-show_pagination: false
+show_pagination: true
 ---
 
 # Projecten & Events
