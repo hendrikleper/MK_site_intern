@@ -106,24 +106,24 @@ Long Short Term Memory networks  run a model pre-trained on a body of text to ge
 [Interview with an AI](https://jerrygalle.com/projects/interview-with-an-ai/), Jerry Galle     
 This project consists of multiple interviews with an artificial intelligence software. The interview software was trained with a large database consisting of texts related to dystopia, apocalypse, the post-human, post-catastrophe survival techniques, artificial intelligence and CIA interviewing techniques.  
 
-   
+
 ![](%assets_url%/2021_ai_lecture_images/image7.png)  
 [im here to learn so :))))))](https://zachblas.info/works/im-here-to-learn-so), Zach Blas &amp; Jemima Wyman
 This work is a four-channel video installation that resurrects [Tay](https://en.wikipedia.org/wiki/Tay_(bot)), an artificial intelligence chatbot created by Microsoft in 2016, to consider the politics of pattern recognition and machine learning. Designed as a 19-year-old American female millennial, Tay’s abilities to learn and imitate language were aggressively trolled on social media platforms like Twitter, and within hours of her release, she became genocidal, homophobic, misogynist, racist, and a neo-Nazi. Tay was terminated after only a single day of existence.  
 
-   
 
-### Sentiment analysis 
+
+### Sentiment analysis
 a model trained to predict the sentiment of any given text.  
 
 ![](%assets_url%/2021_ai_lecture_images/image24.png)  
 [Lauren Lee McCarthy, Vibe Check.](https://lauren-mccarthy.com/Vibe-Check)    
 As tracking and surveillance lead us through our  pandemic crisis, we enact another control system through the passive observation of our neighbors. Are they a threat, or essential to retaining our feeling of humanness? We notice our heightened sense of interdependence. Vibe Check extends throughout the gallery and appropriates common surveillance tools including face recognition and expression analysis to catalog the emotional effect exhibition visitors have on one another. Some are identified as evoking expressions of happiness, disgust, sadness, surprise, or boredom. Upon entering the exhibition, visitors are playfully alerted to who these people are, and as they leave, they may find they’ve earned this distinction themselves.  
 
-### Word2vec 
+### Word2vec
 is a group of related models that are used to produce [word embeddings](https://en.wikipedia.org/wiki/Word2vec). This method allows you to perform vector operations on a given set of input vectors.  
 
-    
+
 # Political and social impacts of AI. Data, surveillance capitalism, …  
 
 Surveillance capitalist industry found a novel way of disrupting social conditions and of revolutionizing production: AI. The spectre of synthetic AI automation is an effective disruptive agent. Capitalism traditionally favours replacing standard norms with proliferations of unstable agents and orientations. AI is the perfect new candidate for such a proliferation. This  novel disruptive agent even perversely accentuates the current TINA (‘there is no alternative’), because the only realistic alternative is synthetic in nature. Fictitious commodities are made, even without any human intervention, they simply follow or are a result of the AI algorithmic ideology. This synthetic nature plays well into another capitalist prime adagio: see to it that the basic structures of domination will remain the same.   
@@ -135,14 +135,14 @@ Bertillonage, also called the Bertillon system or judicial anthropometry, is a f
 The return of physiognomy in the form of psychometric AI’s? Facial recognition study says it can identify criminals from looks alone. Note that the non-criminal ones all wear white collars. Black boxed, because we don’t know exactly how the AI came up with its criminal classification. Could be that it simply selected pix with white collars.     
 [https://arxiv.org/abs/1611.04135](https://arxiv.org/abs/1611.04135)  
 
-   
+
 ![](%assets_url%/2021_ai_lecture_images/image14.png)  
 
 ![](%assets_url%/2021_ai_lecture_images/image26.png)  
 
 ![](%assets_url%/2021_ai_lecture_images/image5.png)  
 
-   
+
 More psychometry: the so-called gaydar. [Michal Kosinski claimed in a study to have invented an A.I. “gaydar”](https://www.nytimes.com/2017/10/09/science/stanford-sexual-orientation-study.html) that could, when presented with pictures of gay and straight men, determine which ones were gay with 81 percent accuracy. The portraits on the left are supposed to be straight.  
 
 ![](%assets_url%/2021_ai_lecture_images/image6.png)  
@@ -150,7 +150,7 @@ More psychometry: the so-called gaydar. [Michal Kosinski claimed in a study to h
 ![](%assets_url%/2021_ai_lecture_images/image10.jpg)              
 Pages from “Vaught’s Practical Character Reader,” a phrenology book published in 1902.  
 
-![](%assets_url%/2021_ai_lecture_images/image18.jpg) 
+![](%assets_url%/2021_ai_lecture_images/image18.jpg)
 [False Positives](https://estherhovers.com/False-Positives), Esther Hovers    
 The project False Positives is about intelligent surveillance systems. These are camera’s that are said to be able to detect deviant behaviour within public space. False Positives is set around the question of normative behaviour. It aims to raise this question by basing the project on eight different ‘anomalies’.    
 These so called anomalies are sign in body-language and movement that could indicate criminal intent. It is through these anomalies the algorithms are built and cameras are able to detect deviant behaviour. The eight different anomalies were pointed out to me by several intelligent surveillance experts with whom I collaborated for this project.  
@@ -159,7 +159,7 @@ These so called anomalies are sign in body-language and movement that could indi
 ![](%assets_url%/2021_ai_lecture_images/image22.png )  
 fake AI-id with [https://www.thispersondoesnotexist.com/](https://www.thispersondoesnotexist.com/)  
 
-  
+
 
 ![](%assets_url%/2021_ai_lecture_images/image4.png )
 [Adam Harvey](https://ahprojects.com/projects/) with the exhibition Face First: Researchers Gone Wild.
@@ -176,7 +176,7 @@ The lulz: South Park creators:
 ![](%assets_url%/2021_ai_lecture_images/image13.png)      
 ![](%assets_url%/2021_ai_lecture_images/image19.png)  
 
-    
+
 ## 1. Deapfake spoofing   
 - the possibility of [getting fooled](https://hub.packtpub.com/terrifyingly-realistic-deepfake-video-of-bill-hader-transforming-into-tom-cruise-is-going-viral-on-youtube/) with voice or picture-based deepfakes  
 - [deepfake video](https://hub.packtpub.com/mark-zuckerberg-just-became-the-target-of-the-worlds-first-high-profile-white-hat-deepfake-op-can-facebook-come-out-unscathed/) of something that would hurt someone’s reputation — for instance, a deepfake video of a politician “admitting” to illegal activities, like accepting a bribe.  
@@ -193,7 +193,7 @@ The lulz: South Park creators:
 ## 2. Cheap fakes/shallow fakes  
 
 - fake videos can also be rendered through Photoshop, lookalikes, re-contextualizing footage, speeding, or slowing. This form of AV manipulation are cheap fakes. The researchers have coined the term stating they rely on cheap, accessible software, or no software at all.  
- 
+
 ## 3. Truth poisoning/data poisoning  
 - [https://littlesis.org/](https://littlesis.org/) free database of who-knows-who at the heights of business and government  
 
@@ -203,13 +203,13 @@ The lulz: South Park creators:
 ![](%assets_url%/2021_ai_lecture_images/image3.png)  
 
 -  [https://exiftool.org/](https://exiftool.org/) for reading, writing and editing meta information in a    [ ](https://www.google.com/url?q=https://exiftool.org/%23supported&sa=D&ust=1611913867542000&usg=AOvVaw3wJyOTALaJzL02D92m4xTJ)   [wide variety of files](https://exiftool.org/#supported)  
- 
+
 - [https://github.com/ninoseki/mitaka](https://github.com/ninoseki/mitaka) search txt &amp; emails for osint  
 
 -  [https://apkpure.com/yomapic/com.yomapic](https://apkpure.com/yomapic/com.yomapic) find geolocated pix select point on the map and you could start exploring interesting people and places around  
 
 -   Debunk fakes    [https://defake.app/](https://defake.app/)    
-  
+
 -   Check if AI or not: [https://www.whichfaceisreal.com](https://www.whichfaceisreal.com/)      
 
 ## 4.   Deepfake cyber threats  
@@ -218,7 +218,7 @@ The lulz: South Park creators:
 -  Cheap way of generating data to train AI’s, synthetically generating training data  
 
 -   Fake profiles, made easy: [https://thispersondoesnotexist.com/](https://thispersondoesnotexist.com/) or more coding:    [https://github.com/iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab)  
-    
+
 -  Plug in deepfakes for video conferencing  
 
 -  Extortion and manipulation  
@@ -230,14 +230,14 @@ The lulz: South Park creators:
 -  Create synthetic network traffic  
 
 -   Deep learning software: [https://github.com/13o-bbr-bbq/machine_learning_security/tree/master/DeepExploit](https://github.com/13o-bbr-bbq/machine_learning_security/tree/master/DeepExploit)     
- 
+
 -   Future: look for other ways of setting up the net and sharing data: [https://solid.mit.edu/](https://solid.mit.edu/)      
 
 [Zizi &amp; me](https://www.jakeelwes.com/project-zizi-and-me.html)
 
 <hr>
-United Intelligence Lab, [https://caim.app/](https://caim.app/) 
-  
+United Intelligence Lab, [https://caim.app/](https://caim.app/)
+
 ![](%assets_url%/2021_ai_lecture_images/image16.png)  
 
 **Let's wind up the nursery tale of AI.**  
@@ -257,10 +257,8 @@ On 08.05.2021 KIOSK hosts the Critical AI Manifestation:
  Explore the C.AI.M app and create your own manifesto  
 3. Act &amp; Contribute on the Dashboard.  
 [https://kiosk.art/critical-ai-manifestation](https://kiosk.art/critical-ai-manifestation)    
-   
+
 <hr>
 ![](%assets_url%/2021_ai_lecture_images/image25.png)
 
 Zach Blas [The Doors](https://zachblas.info/works/the-doors/) is a multimedia installation exploring psychedelia, drug use, and artificial intelligence. A sequel to   <span class="c3 c16">Contra-Internet: Jubilee 2033    —a film that follows author Ayn Rand on an acid trip, in which she bears witness to a dystopian future of the internet — The Doors    is the first installment in a trilogy of queer science fiction works that takes on the fantasies, beliefs, and Californian histories that influence Silicon Valley and the tech industry today.  
-
- 

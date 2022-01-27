@@ -8,7 +8,6 @@ taxonomy:
 media_order: ''
 ---
 # AI CODELAB
-
 <iframe src="https://www.thispersondoesnotexist.com/" width="100%" height="400" style="border:none; background-color:#FFF;"></iframe>
 <sub>fake AI-id met https://www.thispersondoesnotexist.com/</sub>
 
