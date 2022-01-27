@@ -1,12 +1,13 @@
 ---
-Title: lecture LISA SPILLIAERT
+Title: 'Lisa Spilliaert'
 date: '20-10-2021 16:00'
 publish_date: '27-01-2022 21:40'
 taxonomy:
     tag:
         - lecture
-media_order: 'lisaspilliaert.jpg'
+media_order: lisaspilliaert.jpg
 ---
+
 # LISA SPILLIAERT
 #### Artist Presentation
 #### Cirque KASK
