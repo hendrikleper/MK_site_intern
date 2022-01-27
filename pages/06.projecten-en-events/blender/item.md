@@ -15,7 +15,7 @@ taxonomy:
 Blender is een krachtig, gratis en open source, 3D-modeling software pakket dat wordt gebruikt voor animatie, video games, data visualisaties of het ontwerpen van objecten voor digitale fabricage.
 
 Tijdens deze praktijk gerichte workshop zal Fons Artois je een inleiding geven in de basisprincipes en de mogelijkheden van Blender!
-===
+
 De workshop is bedoeld voor zowel beginners als ervaren gebruikers. De eerste 3uur van elke workshop sessie zijn steeds op instap niveau en volgen op elkaar. Het vierde uur van elke sessie is er individuele begeleiding en kunnen ook de meer gevorderden hun projecten en eventuele issues voorleggen. ​​
 
 ![](https://docs.blender.org/manual/en/latest/_images/modeling_meshes_primitives_all.png)
@@ -28,9 +28,9 @@ De workshop kan in het Engels gegeven worden.
 
 
 ## PROGRAMMA
-### woensdag 1/12/21 9:00-12:30, Atelier Mediakunst   
+#### woensdag 1/12/21 9:00-12:30, Atelier Mediakunst   
 User Interface +  modeling 3D + sculpting
-### woensdag 8/12/21 9:00-12:30, Atelier Mediakunst   
+#### woensdag 8/12/21 9:00-12:30, Atelier Mediakunst   
 sculpting, shading + rendering
 
 
