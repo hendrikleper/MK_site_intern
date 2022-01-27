@@ -1,6 +1,7 @@
 ---
 Title: Programma
 ---
+
 # PROGRAMMA / CURRICULA
 
 ## Curricula Mediakunst
