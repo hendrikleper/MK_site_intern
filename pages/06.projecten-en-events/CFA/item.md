@@ -2,6 +2,7 @@
 Title: 'the Art of Code • Context Free Art'
 date: '28-09-2021 09:00'
 taxonomy:
+        - workshop
     tag:
         - workshop
 ---
