@@ -5,9 +5,7 @@ publish_date: '27-01-2022 21:48'
 taxonomy:
     tag:
         - workshop
-media_order: ''
 ---
-
 # AI CODELAB
 <iframe src="https://www.thispersondoesnotexist.com/" width="100%" height="400" style="border:none; background-color:#FFF;"></iframe>
 <sub>fake AI-id met https://www.thispersondoesnotexist.com/</sub>

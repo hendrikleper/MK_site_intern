@@ -8,9 +8,8 @@ taxonomy:
 media_order: ''
 ---
 # CONTEXT FREE ART
-
 Deze eerste workshop is een korte eerste kennismaking met het schijven van computer-code. We gebruiken hiervoor het programma [Context Free](https://www.contextfreeart.org/). De tutorial & files vind je [hier](https://github.com/theBlackBoxSociety/CodeCrashCourses/blob/master/CFA.md).
-===
+
 👀 The Art of Code lecture by [Dylan Beattie](https://dylanbeattie.net/)
 > Hi there. I'm Dylan.    
 I do interesting things with computers, code, comedy, music and video – then I travel all over the world and tell people about it. ....

@@ -8,15 +8,13 @@ taxonomy:
 media_order: 'liew.jpg'
 ---
 # GELUID IN DE KUNST / SOUND IN THE ARTS
-
 Tijdens deze workshop met [Liew Niyomkarn](https://liewniyomkarn.com/) maak je kennis met het domein van geluidskunst en krijg je een hands-on introductie tot klank opname- en montagetechnieken.    
-===
+
 De workshop wordt in het Engels gegeven.     
 
 Deelnemers zorgen zelf voor een geluidsopname toestel (eventueel te verkrijgen via de uitleendiensten), voldoende batterijen, de beste koptelefoon die je kan bemachtigen en een computer met [Reaper](https://www.reaper.fm/) geïnstalleerd.     
 
 Inschrijven kan je via mail naar hendrik.leper-at-hogent.be. De workshop staat ook open voor studenten van andere opleidingen maar studenten mediakunst krijgen voorrang.
-
 
 ## Programma
 #### Maandag 8 november 2021 van 10.00 - 17.00 uur

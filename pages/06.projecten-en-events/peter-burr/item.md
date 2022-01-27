@@ -18,9 +18,9 @@ His pieces have been presented internationally by various institutions including
 
 Peter has been to Belgium on several occasions including visits to the Beursschouwburg during KRAAK Festival 2018 and Cinema Nova in 2010 & 2013. His work [Dirtscraper](https://vimeo.com/298436234) was selected for the international competition [New Technological Art Award](https://www.zebrastraat.be/ntaa) (NTAA) 2022 in Zebrastraat.
 
-### Friday, 4 February 2022
-### Mediakunst Studio Kunsttoren
-### 10:30-12:00	Artist Presentation
+#### Friday, 4 February 2022
+#### Mediakunst Studio Kunsttoren
+#### 10:30-12:00	Artist Presentation
 For an hour and a half, Peter takes us on a journey through his artistic career, themes, processes, and ideals.
-### 13:30-17:00	Studiovisits
+#### 13:30-17:00	Studiovisits
 Engage with Peter in a one-on-one conversation about your work. Sign up through [this doodle](https://doodle.com/poll/6w7daini46iyw75v?utm_source=poll&utm_medium=link).

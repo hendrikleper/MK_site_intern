@@ -12,7 +12,7 @@ media_order: 'axidraw.jpg,axidraw-left-turn.jpg,hersheytext.png,hersheyfonts.png
 
 A pen plotter is a type of simple robot. It guides a pen (or other implement mounted in the pen holder) along the set of vector lines, curves, and paths that you (through a computer) ask it to follow.
 This is much like using a traditional printer, except that you need to take care that your documents are made of paths, rather than pixels.
-===
+
 ![](axidraw.jpg)    
 
 ## AxiDraw User Guide
