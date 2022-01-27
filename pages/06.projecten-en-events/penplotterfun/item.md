@@ -7,13 +7,13 @@ taxonomy:
         - workshop
 media_order: 'axidraw.jpg,axidraw-left-turn.jpg,hersheytext.png,hersheyfonts.png,hatchfill.png'
 ---
-
 # PEN PLOTTER FUN
-**with [AxiDraw V3/A4 & A3](https://AxiDraw.com/) – an A3 pen plotter from Evil Mad Scientist**    
-![](axidraw.jpg)    
+#### with [AxiDraw V3/A4 & A3](https://AxiDraw.com/) – an A3 pen plotter from Evil Mad Scientist
 
 A pen plotter is a type of simple robot. It guides a pen (or other implement mounted in the pen holder) along the set of vector lines, curves, and paths that you (through a computer) ask it to follow.
 This is much like using a traditional printer, except that you need to take care that your documents are made of paths, rather than pixels.
+===
+![](axidraw.jpg)    
 
 ## AxiDraw User Guide
 [pdf user guide for the AxiDraw V3 family](https://cdn.evilmadscientist.com/dl/ad/public/AxiDraw_Guide_v501b.pdf)

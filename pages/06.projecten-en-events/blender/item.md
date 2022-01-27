@@ -7,12 +7,12 @@ taxonomy:
 
 ---
 # WORKSHOP BLENDER
-##3D modeling, sculpting, shading & rendering
+## 3D modeling, sculpting, shading & rendering
 
 Blender is een krachtig, gratis en open source, 3D-modeling software pakket dat wordt gebruikt voor animatie, video games, data visualisaties of het ontwerpen van objecten voor digitale fabricage.
 
 Tijdens deze praktijk gerichte workshop zal Fons Artois je een inleiding geven in de basisprincipes en de mogelijkheden van Blender!
-
+===
 De workshop is bedoeld voor zowel beginners als ervaren gebruikers. De eerste 3uur van elke workshop sessie zijn steeds op instap niveau en volgen op elkaar. Het vierde uur van elke sessie is er individuele begeleiding en kunnen ook de meer gevorderden hun projecten en eventuele issues voorleggen. ​​
 
 ![](https://docs.blender.org/manual/en/latest/_images/modeling_meshes_primitives_all.png)
