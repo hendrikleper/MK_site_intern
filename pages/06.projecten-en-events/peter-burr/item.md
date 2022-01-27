@@ -4,7 +4,7 @@ date: '04-02-2022 10:30'
 publish_date: '27-01-2022 21:19'
     tag:
         - lecture
-media_order: 'PeperBurr.jpg,peterBurr_dirscraper.jpg'
+media_order: 'peterBurr.jpg,peterBurr_dirscraper.jpg'
 ---
 # Peter Burr
 [Peter Burr](http://peterburr.org/) is a digital and new media artist based in Brooklyn, NY. His practice often engages with tools of the video game industry in the form of immersive cinematic artworks, primarily through animation, installation and performance.
