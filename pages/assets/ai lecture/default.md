@@ -5,22 +5,22 @@ Jerry Galle, Jan. 2021
 ## IS THIS THE FUTURE? ☞ [Chinese social credit system](https://www.youtube.com/watch?v=0cGB8dCDf3c&ab_channel=NBCNews)
 
 
-![](%assets_url%/2021_ai_lecture_images/image17.png)
+![](image17.png)
 <sup>[Deepfake puppets South Park creators](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DWjmmP1rE_3A&sa=D&ust=1611913867496000&usg=AOvVaw3Irl5xDvORpuIWgelo6BuQ)</sup>
 
 
-![](%assets_url%/2021_ai_lecture_images/image8.png)
+![](image8.png)
 <sup>**Book of Ingenious Mechanical Devices** by Al Jazari, musical puppet robots.</sup>
 
 
-![](%assets_url%/2021_ai_lecture_images/image27.png)    
+![](image27.png)    
 <sup>Wolfgang von Kempelen's speaking machine is a manually operated speech synthesizer that began development in 1769, by [Wolfgang von Kempelen](https://en.wikipedia.org/wiki/Wolfgang_von_Kempelen). It was in this same year that he completed his far more infamous contribution to history: [The Turk](https://en.wikipedia.org/wiki/The_Turk), a chess playing [automaton](https://en.wikipedia.org/wiki/Automaton), later revealed to be a very far-reaching and elaborate hoax due to the chess-playing human-being inside the contraption.</sup>
 
 
 Artificial Intelligence, art and ‘entertainment’ have always been entwined with each other. This mad dance already began in antiquity, with myths, stories and rumors of artificial beings endowed with intelligence or consciousness by master craftsmen. The seeds of modern AI were planted by classical philosophers who attempted to describe the process of human thinking as the mechanical manipulation of symbols.
 
 
-![](%assets_url%/2021_ai_lecture_images/image20.png)    
+![](image20.png)    
 <sup>A brazen head, brass, or bronze head was a legendary automaton in the early modern period whose ownership was ascribed to late medieval scholars such as Roger Bacon who had developed a reputation as wizards. Made of brass or bronze, the male head was variously mechanical or magical.</sup>
 
 
@@ -53,19 +53,19 @@ You can use neural networks to recognize the content of images. With sometimes s
 
 My own project [AI object recog, infrathin](https://jerrygalle.com/projects/ai-object-recognition) plays with such AI capabilities.
 
-![](%assets_url%/2021_ai_lecture_images/image11.png)
-![](%assets_url%/2021_ai_lecture_images/image28.png)
+![](image11.png)
+![](image28.png)
 
 ### Real-time Human Pose Estimation
 PoseNet can be used to estimate either a single pose or multiple poses, meaning there is a version of the algorithm that can detect only one person in an image/video and one version that can detect multiple persons in an image/video. It is used a lot in games and more specifically interactive sports games
 
-![](%assets_url%/2021_ai_lecture_images/image21.png)
+![](image21.png)
 [https://teachablemachine.withgoogle.com/train](https://teachablemachine.withgoogle.com/train)
 
 ### Object detection/recognition
 ### BigGAN, generate similar images based on input images
 
-![](%assets_url%/2021_ai_lecture_images/image15.png)
+![](image15.png)
 Hito Steyerl, [Power Plants](https://www.youtube.com/watch?v=1v08U5-BKnE)
 
 [Machine Learning Porn](https://vimeo.com/213923669) is a 12 minute looped film that records the AI’s pornographic fantasies by [Jake Elwes](https://www.jakeelwes.com/project-MLPorn.html).    
@@ -74,14 +74,14 @@ A convolutional neural network was trained using Yahoo’s explicit content mode
 ### Text to Image
 
 ### StyleGAN, stylize image resembling another one
-![](%assets_url%/2021_ai_lecture_images/image1.png)     
+![](image1.png)     
 [Snowden.ppt](https://www.plummerfernandez.com/works/snowden-ppt/), M.P. Fernandez    
 Machine Learning style transfer used to create portraits of Snowden in the styles of the leaked NSA powerpoint slides. The leaked presentations also revealed that Machine Learning was being used by the NSA to automate mass surveillance.  
 
 ### Transfer learning   
 leveraging the knowledge learned in one model for the training of another model  
 
-![](%assets_url%/2021_ai_lecture_images/image9.png)
+![](image9.png)
 [Animal Classifier](http://ssbkyh.com/works/animal_classifier/) by Shinseungback Kimyonghun is an AI trained to divide animals into the 14 categories.  
 
 
@@ -90,7 +90,7 @@ leveraging the knowledge learned in one model for the training of another model
 ### Sound classification
 allows you to classify audio. With the right pre-trained models, you can detect whether a certain noise was made (e.g. a clapping sound or a whistle) or a certain word was said (e.g. Up, Down, Yes, No).  
 
-![](%assets_url%/2021_ai_lecture_images/image2.png)  
+![](image2.png)  
 [Kyle McDonald](https://kylemcdonald.net/), [Bird sounds](https://experiments.withgoogle.com/ai/bird-sounds/view/).    
 This experiment uses machine learning to organize thousands of bird sounds. The computer wasn’t given tags or the birds’ names – only the audio. Using a technique called t-SNE, the computer created this map, where similar sounds are placed closer together.  
 
@@ -102,12 +102,12 @@ a way of estimating the pitch or fundamental frequency of an audio signal.
 ### RNN/LSTMs    
 Long Short Term Memory networks  run a model pre-trained on a body of text to generate new text.  
 
-![](%assets_url%/2021_ai_lecture_images/image12.png)  
+![](image12.png)  
 [Interview with an AI](https://jerrygalle.com/projects/interview-with-an-ai/), Jerry Galle     
 This project consists of multiple interviews with an artificial intelligence software. The interview software was trained with a large database consisting of texts related to dystopia, apocalypse, the post-human, post-catastrophe survival techniques, artificial intelligence and CIA interviewing techniques.  
 
 
-![](%assets_url%/2021_ai_lecture_images/image7.png)  
+![](image7.png)  
 [im here to learn so :))))))](https://zachblas.info/works/im-here-to-learn-so), Zach Blas &amp; Jemima Wyman
 This work is a four-channel video installation that resurrects [Tay](https://en.wikipedia.org/wiki/Tay_(bot)), an artificial intelligence chatbot created by Microsoft in 2016, to consider the politics of pattern recognition and machine learning. Designed as a 19-year-old American female millennial, Tay’s abilities to learn and imitate language were aggressively trolled on social media platforms like Twitter, and within hours of her release, she became genocidal, homophobic, misogynist, racist, and a neo-Nazi. Tay was terminated after only a single day of existence.  
 
@@ -116,7 +116,7 @@ This work is a four-channel video installation that resurrects [Tay](https://en.
 ### Sentiment analysis
 a model trained to predict the sentiment of any given text.  
 
-![](%assets_url%/2021_ai_lecture_images/image24.png)  
+![](image24.png)  
 [Lauren Lee McCarthy, Vibe Check.](https://lauren-mccarthy.com/Vibe-Check)    
 As tracking and surveillance lead us through our  pandemic crisis, we enact another control system through the passive observation of our neighbors. Are they a threat, or essential to retaining our feeling of humanness? We notice our heightened sense of interdependence. Vibe Check extends throughout the gallery and appropriates common surveillance tools including face recognition and expression analysis to catalog the emotional effect exhibition visitors have on one another. Some are identified as evoking expressions of happiness, disgust, sadness, surprise, or boredom. Upon entering the exhibition, visitors are playfully alerted to who these people are, and as they leave, they may find they’ve earned this distinction themselves.  
 
@@ -128,7 +128,7 @@ is a group of related models that are used to produce [word embeddings](https://
 
 Surveillance capitalist industry found a novel way of disrupting social conditions and of revolutionizing production: AI. The spectre of synthetic AI automation is an effective disruptive agent. Capitalism traditionally favours replacing standard norms with proliferations of unstable agents and orientations. AI is the perfect new candidate for such a proliferation. This  novel disruptive agent even perversely accentuates the current TINA (‘there is no alternative’), because the only realistic alternative is synthetic in nature. Fictitious commodities are made, even without any human intervention, they simply follow or are a result of the AI algorithmic ideology. This synthetic nature plays well into another capitalist prime adagio: see to it that the basic structures of domination will remain the same.   
 
-![](%assets_url%/2021_ai_lecture_images/image23.png)  
+![](image23.png)  
 Bertillonage, also called the Bertillon system or judicial anthropometry, is a forensic technique developed by the Frenchman Alphonse Bertillon in 1879. The technique is based on biometric analysis (identification system based on specific measurements) accompanied by face photographs. and in profile.    
 [https://www.nytimes.com/2019/07/10/opinion/facial-recognition-race.html](https://www.nytimes.com/2019/07/10/opinion/facial-recognition-race.html)      
 
@@ -136,32 +136,32 @@ The return of physiognomy in the form of psychometric AI’s? Facial recognition
 [https://arxiv.org/abs/1611.04135](https://arxiv.org/abs/1611.04135)  
 
 
-![](%assets_url%/2021_ai_lecture_images/image14.png)  
+![](image14.png)  
 
-![](%assets_url%/2021_ai_lecture_images/image26.png)  
+![](image26.png)  
 
-![](%assets_url%/2021_ai_lecture_images/image5.png)  
+![](image5.png)  
 
 
 More psychometry: the so-called gaydar. [Michal Kosinski claimed in a study to have invented an A.I. “gaydar”](https://www.nytimes.com/2017/10/09/science/stanford-sexual-orientation-study.html) that could, when presented with pictures of gay and straight men, determine which ones were gay with 81 percent accuracy. The portraits on the left are supposed to be straight.  
 
-![](%assets_url%/2021_ai_lecture_images/image6.png)  
+![](image6.png)  
 
-![](%assets_url%/2021_ai_lecture_images/image10.jpg)              
+![](image10.jpg)              
 Pages from “Vaught’s Practical Character Reader,” a phrenology book published in 1902.  
 
-![](%assets_url%/2021_ai_lecture_images/image18.jpg)
+![](image18.jpg)
 [False Positives](https://estherhovers.com/False-Positives), Esther Hovers    
 The project False Positives is about intelligent surveillance systems. These are camera’s that are said to be able to detect deviant behaviour within public space. False Positives is set around the question of normative behaviour. It aims to raise this question by basing the project on eight different ‘anomalies’.    
 These so called anomalies are sign in body-language and movement that could indicate criminal intent. It is through these anomalies the algorithms are built and cameras are able to detect deviant behaviour. The eight different anomalies were pointed out to me by several intelligent surveillance experts with whom I collaborated for this project.  
 
 
-![](%assets_url%/2021_ai_lecture_images/image22.png )  
+![](image22.png )  
 fake AI-id with [https://www.thispersondoesnotexist.com/](https://www.thispersondoesnotexist.com/)  
 
 
 
-![](%assets_url%/2021_ai_lecture_images/image4.png )
+![](image4.png )
 [Adam Harvey](https://ahprojects.com/projects/) with the exhibition Face First: Researchers Gone Wild.
 This exhibition looks at the use of unconstrained and non-consensual data sources in Artificial Intelligence systems. Beginning in 2007 with the "Labeled Faces in the Wild" dataset and continuing throughout 2020, the practice of collecting images "in the wild" has become normalized, but is still largely unregulated and often problematic. Today, dozens of image training datasets with millions of images and identities feed into industrial facial recognition systems with little oversight. The works presented in Researchers Gone Wild showcase discoveries made during the multi-year research project [MegaPixels](https://megapixels.cc/) that investigates image training datasets created "in the wild".  
 
@@ -173,8 +173,8 @@ The lulz: South Park creators:
 [https://www.youtube.com/watch?v=WjmmP1rE_3A](https://www.youtube.com/watch?v=WjmmP1rE_3A)      
 [https://www.youtube.com/watch?v=E4jQe9h5v5E](https://www.youtube.com/watch?v=E4jQe9h5v5E)      
 
-![](%assets_url%/2021_ai_lecture_images/image13.png)      
-![](%assets_url%/2021_ai_lecture_images/image19.png)  
+![](image13.png)      
+![](image19.png)  
 
 
 ## 1. Deapfake spoofing   
@@ -200,7 +200,7 @@ The lulz: South Park creators:
 - [https://tineye.com/](https://tineye.com/)    reverse image search, if the img is deepfake it won’t pop up. Or trace the image online  
 
 - [https://citizenevidence.amnestyusa.org/](https://citizenevidence.amnestyusa.org/) Check youtube data  
-![](%assets_url%/2021_ai_lecture_images/image3.png)  
+![](image3.png)  
 
 -  [https://exiftool.org/](https://exiftool.org/) for reading, writing and editing meta information in a    [ ](https://www.google.com/url?q=https://exiftool.org/%23supported&sa=D&ust=1611913867542000&usg=AOvVaw3wJyOTALaJzL02D92m4xTJ)   [wide variety of files](https://exiftool.org/#supported)  
 
@@ -238,7 +238,7 @@ The lulz: South Park creators:
 <hr>
 United Intelligence Lab, [https://caim.app/](https://caim.app/)
 
-![](%assets_url%/2021_ai_lecture_images/image16.png)  
+![](image16.png)  
 
 **Let's wind up the nursery tale of AI.**  
 
@@ -259,6 +259,6 @@ On 08.05.2021 KIOSK hosts the Critical AI Manifestation:
 [https://kiosk.art/critical-ai-manifestation](https://kiosk.art/critical-ai-manifestation)    
 
 <hr>
-![](%assets_url%/2021_ai_lecture_images/image25.png)
+![](image25.png)
 
 Zach Blas [The Doors](https://zachblas.info/works/the-doors/) is a multimedia installation exploring psychedelia, drug use, and artificial intelligence. A sequel to   <span class="c3 c16">Contra-Internet: Jubilee 2033    —a film that follows author Ayn Rand on an acid trip, in which she bears witness to a dystopian future of the internet — The Doors    is the first installment in a trilogy of queer science fiction works that takes on the fantasies, beliefs, and Californian histories that influence Silicon Valley and the tech industry today.  
