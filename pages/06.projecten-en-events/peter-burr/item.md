@@ -9,8 +9,8 @@ taxonomy:
 media_order: 'peterBurr.jpg,peterBurr_dirscraper.jpg'
 ---
 # PETER BURR
-#### Artist Presentation & Studiovisits
-#### Mediakunst Studio Kunsttoren
+#### artist presentation & studiovisits
+#### atelier MEDIAKUNST / KASK
 #### vrijdag, 4 februari 2022, 10:30
 
 [Peter Burr](http://peterburr.org/) is a digital and new media artist based in Brooklyn, NY. His practice often engages with tools of the video game industry in the form of immersive cinematic artworks, primarily through animation, installation and performance.
