@@ -1,0 +1,32 @@
+enabled: true
+folders:
+  - pages
+  - themes
+SyncNotice: null
+sync:
+  on_save: true
+  on_delete: true
+  on_media: true
+  cron_enable: false
+  cron_at: '0 12,23 * * *'
+local_repository: null
+repository: 'https://github.com/hendrikleper/MK_site_intern.git'
+no_user: '0'
+user: hendrikleper
+password: gitsync-def50200a5e42a2531b156cb5a985ab823b79697bfd13700955c1613067889b0f735aec78472a3f435ae160b2ce3b9d7102cbdc15a772c1e5f6f67a4dd4e235bc018b4688fcc18fcc8734949f23e51d2dcbf847e0c154e090e4470d5aea11148998ca9f112d023260a4e9a08dc3fe1857e3bd6958a900a040bcfdc74
+webhook: /_git-sync-d99a705e2e5c
+webhook_enabled: '1'
+webhook_secret: 713d4f42e7d29c9dedfb1793f925df861f9e4cddcc0e95da
+branch: main
+remote:
+  name: origin
+  branch: main
+git:
+  author: gituser
+  message: '(Grav GitSync) Automatic Commit'
+  name: GitSync
+  email: git-sync@trilby.media
+  bin: git
+  ignore: null
+  private_key: null
+logging: false
