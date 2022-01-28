@@ -7,7 +7,6 @@ taxonomy:
         - lecture
 media_order: lectureTotalism.jpg
 ---
-
 # CHT/TOTALISM.ORG
 #### David Potocnik & Elisabeth De Laet
 #### atelier MEDIAKUNST / KASK

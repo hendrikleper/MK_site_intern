@@ -1,5 +1,5 @@
 ---
-Title: 'the Art of Code • Context Free Art'
+Title: 'Context Free Art • the Art of Code'
 date: '28-09-2021 09:00'
 publish_date: '27-01-2022 21:35'
 taxonomy:

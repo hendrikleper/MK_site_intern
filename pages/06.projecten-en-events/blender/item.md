@@ -1,12 +1,11 @@
 ---
-Title: 'WORKSHOP BLENDER'
+Title: 'BLENDER'
 date: '01-12-2021 09:00'
 taxonomy:
     tag:
         - workshop
 ---
-
-# WORKSHOP BLENDER
+# BLENDER
 ### 3D modeling, sculpting, shading & rendering
 Blender is een krachtig, gratis en open source, 3D-modeling software pakket dat wordt gebruikt voor animatie, video games, data visualisaties of het ontwerpen van objecten voor digitale fabricage.
 

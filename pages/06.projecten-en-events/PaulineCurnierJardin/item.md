@@ -8,7 +8,6 @@ taxonomy:
         - x-ray
 media_order: paulinecurnierjardin.png
 ---
-
 # X-RAY met PAULINE CURNIER JARDIN
 #### Unfolding the Practice & Screening
 #### KASKcinema

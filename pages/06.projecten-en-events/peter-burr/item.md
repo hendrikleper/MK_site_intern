@@ -8,8 +8,7 @@ taxonomy:
         - 'studio visits'
 media_order: 'peterBurr.jpg,peterBurr_dirscraper.jpg'
 ---
-
-# Peter Burr
+# PETER BURR
 #### Artist Presentation & Studiovisits
 #### Mediakunst Studio Kunsttoren
 #### vrijdag, 4 februari 2022, 10:30
