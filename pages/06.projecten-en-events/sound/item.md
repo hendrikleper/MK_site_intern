@@ -1,13 +1,14 @@
 ---
-Title: geluid in de kunst / sound in the arts
+Title: 'geluid in de kunst / sound in the arts'
 date: '08-11-2021 10:00'
 publish_date: '27-01-2022 21:45'
 taxonomy:
     tag:
         - workshop
-media_order: 'liew.jpg'
+media_order: liew.jpg
 ---
-# GELUID IN DE KUNST / SOUND IN THE ARTS
+
+# GELUID IN DE KUNST
 Tijdens deze workshop met [Liew Niyomkarn](https://liewniyomkarn.com/) maak je kennis met het domein van geluidskunst en krijg je een hands-on introductie tot klank opname- en montagetechnieken.    
 
 De workshop wordt in het Engels gegeven.     
