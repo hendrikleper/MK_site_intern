@@ -9,7 +9,7 @@ content:
         dir: desc
     dateRange:
         start: 01-09-2020
-        end: 1-1-2100
+        end: 01-01-2100
     pagination: true
 show_sidebar: false
 show_breadcrumbs: false
