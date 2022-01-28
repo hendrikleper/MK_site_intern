@@ -30,6 +30,7 @@ Title: Agenda
 |  | wo 15/12 9:00-12:30 | begeleiding autonoom werk | Hendrik |
 | w13 | di 21/12 9:00-12:30 | physical computing | Hendrik |
 |  | wo 22/12 9:00-12:30 | begeleiding autonoom werk | Hendrik |
+
 -->
 
 |  | 2e semester |  |  |
@@ -61,7 +62,7 @@ Title: Agenda
 | w13 	|  	|  	| 	|
 | 	| 	| 	| 	|
 
--->
+
 #### uitstappen
 |     |       |     |
 | --- | :---: | --- |
