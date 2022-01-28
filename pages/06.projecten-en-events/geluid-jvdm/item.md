@@ -1,14 +1,14 @@
 ---
 Title: Klank in Ruimte
-Description: This description will go in the meta description tag
-Author: Hendrik 
-Date: 2021/01/12
-Robots: noindex,nofollow
-Template: index
+date: 12-02-2021 10:00
+publish_date: 12-02-2021 10:00
+taxonomy:
+    tag:
+        - workshop
+media_order: audio2020.png
 ---
-
 # KLANK IN RUIMTE
-
+#### vrijdag, 12 & 26 feb. 2021
 >Wie heeft nog nooit in de badkamer gezongen?    
 Wie heeft nog nooit 'halo!' geroepen in de bergen of een tunnel?    
 **Klank, ruimte en emotie zijn in een permanente wisselwerking.**
@@ -21,10 +21,10 @@ Er is ruim de mogelijkheid om je vragen en ideeën hierover te bespreken.
 
 Johan Vandermaelen werkt als geluidsscenograaf en werkt sedert geruime tijd samen met tal van Belgische en buitenlandse kunstenaars.
 
+![acoustics](audio_jvdm2020.jpg)
 
 ## Programma
-
-### Dag 1: GELUIDSWANDELING / GELUID & EMOTIE / GOLVEN & AKOESTIEK / SOUND AS A POT - SOUND AS FIELD
+#### Dag 1: GELUIDSWANDELING / GELUID & EMOTIE / GOLVEN & AKOESTIEK / SOUND AS A POT - SOUND AS FIELD
 vrijdag 12/02/21 10:00-17:00, atelier Mediakunst
 <!--
 10u	inleiding
@@ -40,7 +40,7 @@ vrijdag 12/02/21 10:00-17:00, atelier Mediakunst
 16u30 	vraag en antwoord: cases van studenten
 
 -->
-### DAG 2: GESCHIEDENIS VD LUIDSPREKER / LUIDSPREKERS BOUWEN / TYPES / TUNING 
+#### DAG 2: GESCHIEDENIS VD LUIDSPREKER / LUIDSPREKERS BOUWEN / TYPES / TUNING
 vrijdag 26/02/21 10:00-17:00, atelier Mediakunst
 <!--
 10u 	korte geschiedenis van de luidspreker
@@ -54,21 +54,6 @@ vrijdag 26/02/21 10:00-17:00, atelier Mediakunst
 
 13u30	bouwen dipool / closed.
 14u30 	plaatsing 4 dipool / 4 closed.
-15u45	tuning 
+15u45	tuning
 16u30	vraag en antwoord
 -->
-
-![acoustics](%assets_url%/audio_jvdm2020.jpg)
-
-## Deelnemers
-1. Miro Bollen
-2. Quinten Vanagt
-3. Kenan Van Looveren
-4. Sam Steaert
-5. Suzanne Cleerdin
-6. Aurélie Bayad
-7. Ugis Albins
-8. Manon Leneveu
-9. Kristyna Gajdosova
-10. Thibault Legein
-11. Jeanne Gilbert

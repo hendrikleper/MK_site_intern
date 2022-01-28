@@ -1,7 +1,4 @@
 
-- rewrite projecten en events naar modulaire pages (blog)
-  - oude projecten compatibel maken en aanvullen
-  -
 
 - extra pages:
 1/ atelier : uitleg over het atelier en de verschillende ruimtes (met oa. wat je mag, kan en moet doen).
