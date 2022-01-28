@@ -3,10 +3,10 @@ title: 'Projecten & Events'
 content:
     items:
         - '@self.children'
-    limit: 12
+    limit: 16
     dateRange:
-        start: 01-09-2021
-        end: 01-09-2022
+        start: 01-09-2022
+        end: 01-09-2021
     order:
         by: date
         dir: desc
