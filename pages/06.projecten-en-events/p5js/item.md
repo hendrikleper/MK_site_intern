@@ -1,6 +1,6 @@
 ---
 Title: P5.JS CODELAB
-date: '01-03-2022 09:00'
+date: '1-03-2022 09:00'
 publish_date: '28-01-2022 11:36'
 taxonomy:
     tag:

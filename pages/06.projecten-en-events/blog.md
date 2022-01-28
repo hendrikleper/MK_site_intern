@@ -4,6 +4,9 @@ content:
     items:
         - '@self.children'
     limit: 12
+    dateRange:
+        start: 1-9-2021
+        end: 31-08-2022
     order:
         by: date
         dir: desc
