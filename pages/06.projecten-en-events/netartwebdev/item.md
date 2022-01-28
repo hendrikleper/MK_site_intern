@@ -1,7 +1,7 @@
 ---
 Title: 'net.art web.dev codelab'
-date: '05-10-2021 9:00'
-publish_date: '05-10-2021 9:00'
+date: 05-10-2021 9:00
+publish_date: 05-10-2021 9:00
 taxonomy:
     tag:
         - workshop

@@ -1,7 +1,7 @@
 ---
 Title: P5.JS CODELAB
-date: '01-03-2022 09:00'
-publish_date: '01-03-2022 09:00'
+date: 01-03-2022 09:00
+publish_date: 01-03-2022 09:00
 taxonomy:
     tag:
         - workshop

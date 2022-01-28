@@ -1,7 +1,7 @@
 ---
 Title: MAX & Physical computing CODELAB
-date: '01-02-2022 09:00'
-publish_date: '01-02-2022 09:00'
+date: 01-02-2022 09:00
+publish_date: 01-02-2022 09:00
 taxonomy:
     tag:
         - workshop

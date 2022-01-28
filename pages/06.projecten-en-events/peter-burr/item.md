@@ -1,7 +1,7 @@
 ---
 title: 'Peter Burr'
-date: '04-02-2022 10:30'
-publish_date: '04-02-2022 10:30'
+date: 04-02-2022 10:30
+publish_date: 04-02-2022 10:30
 taxonomy:
     tag:
         - lecture
