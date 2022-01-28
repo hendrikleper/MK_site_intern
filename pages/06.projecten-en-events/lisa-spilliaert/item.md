@@ -1,7 +1,7 @@
 ---
 Title: 'Lisa Spilliaert'
 date: '20-10-2021 16:00'
-publish_date: '27-01-2022 21:40'
+publish_date: '20-10-2021 16:00'
 taxonomy:
     tag:
         - lecture

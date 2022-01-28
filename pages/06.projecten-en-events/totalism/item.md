@@ -1,7 +1,7 @@
 ---
 Title: CHT/TOTALISM.ORG
 date: '06-10-2021 18:00'
-publish_date: '27-01-2022 21:49'
+publish_date: '06-10-2021 18:00'
 taxonomy:
     tag:
         - lecture

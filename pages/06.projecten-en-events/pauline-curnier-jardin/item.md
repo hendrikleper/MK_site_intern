@@ -1,7 +1,7 @@
 ---
 Title: 'X-RAY met PAULINE CURNIER JARDIN'
 date: '10-11-2021 15:30'
-publish_date: '27-01-2022 21:42'
+publish_date: '10-11-2021 15:30'
 taxonomy:
     tag:
         - lecture

@@ -1,7 +1,7 @@
 ---
 Title: 'MAX codelab'
 date: '19-10-2021 9:00'
-publish_date: '27-01-2022 21:41'
+publish_date: '19-10-2021 9:00'
 taxonomy:
     tag:
         - workshop

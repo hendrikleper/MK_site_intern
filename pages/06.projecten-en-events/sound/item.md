@@ -1,7 +1,7 @@
 ---
 Title: 'geluid in de kunst'
 date: '08-11-2021 10:00'
-publish_date: '27-01-2022 21:45'
+publish_date: '08-11-2021 10:00'
 taxonomy:
     tag:
         - workshop
