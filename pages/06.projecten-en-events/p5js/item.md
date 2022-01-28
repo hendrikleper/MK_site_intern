@@ -17,9 +17,9 @@ Dit codelab is een beknopte kennismaking met het potentieel van code voor beelde
 ### WAT IS P5.JS?
 > "With p5.js, you can think of your entire Web browser as your canvas for sketching with code!"
 
-![p5js](p5js.jpg)    
-
 [p5.js](https://p5js.org/) is een JavaScript bibliotheek dat via code audio-visuele media op het web toegankelijk maakt. Het is een herinterpretatie van [Processing](https://processing.org/) voor het web en onderschrijft dezelfde doelen: een laagdrempelige instap tot programmeren voor beginners en tevens alle opties openhouden voor zeer krachtige en uitgebreide toepassingen. De ontwikkeling werd in 2013 gestart door Lauren McCarthy en groeide sindsdien in samenwerking met een grote gemeenschap onder de hoede van de Processing Foundation.
+
+![p5js](p5js.jpg)    
 
 ### WAAROM P5.JS?
 1. Het is gratis, open source en cross-platform.
