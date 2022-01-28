@@ -5,10 +5,9 @@ Title: Agenda
 # AGENDA
 ## 1e BACHELOR
 #### initiaties en codelabs
-
+<!--
 | | 1e semester |       |     |
 |:---|:---|:---:|---:|
-<!--
 | w1 | di 28/09 9:00-15:30 | **CODE AS A CREATIVE MEDIUM** & [CFA](../projecten/2021CFA) | Elias, Jerry & Hendrik |
 | w2 | di 5/10 9:00-15:30   | [CODELAB NETART Webdev](../projecten/2021netartwebdev)  | Hendrik |
 | w3 | di 12/10 9:00-15:30  | [CODELAB NETART Webdev](../projecten/2021netartwebdev) | Hendrik |
@@ -35,17 +34,17 @@ Title: Agenda
 
 |  | 2e semester |  |  |
 | -	| - | :-:	|-	|
-| w1 	| di 1/2 9:00-12:30	| max & physical computing	| Hendrik	|
+| w1 	| di 1/2 9:00-12:30	| [max & physical computing](../06.projecten-en-events/max-physical/)	| Hendrik	|
 | 	| 	| 	| 	|
-| w2 	| di 8/2 9:00-12:30	| max & physical computing	| Hendrik	|
+| w2 	| di 8/2 9:00-12:30	| [max & physical computing](../06.projecten-en-events/max-physical/)	| Hendrik	|
 | 	| wo 9/2 14:00-16:00 	| notgames (werktitel) presentatie	| Quinten & Lewi	|
 | w3 	| di 15/2 9:00-12:30	| After Effects	| Quirijn	|
 | 	| 	| 	| 	|
 | w4 	| di 22/2 9:00-12:30	| After Effects	| Quirijn	|
 | 	| 	| 	| 	|
-| w5 	| di 1/3 9:00-12:30	| P5JS	| Hendrik	|
+| w5 	| di 1/3 9:00-12:30	| [P5JS](../06.projecten-en-events/p5js)	| Hendrik	|
 | 	| 	| 	| 	|
-| w6 	| di 8/2 9:00-12:30	| P5JS	| Hendrik	|
+| w6 	| di 8/2 9:00-12:30	| [P5JS](../06.projecten-en-events/p5js)	| Jerry	|
 | 	| 	| 	| 	|
 | w7 	| di 15/2 9:00-12:30	|  	| 	|
 | 	| 	| 	| 	|
