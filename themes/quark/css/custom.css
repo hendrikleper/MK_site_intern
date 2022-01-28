@@ -136,6 +136,15 @@ transition: color 200ms ease-in-out;
 
 .bg-warning-light { background: #fcf8f2  }
 
+.card-body a {
+  text-decoration: none;
+}
+
+.card-body:hover {
+  background-color: rgba(138, 180, 84, 0.49)
+}
+
+
 @media screen and (min-width: 480px) {
   html {
     font-size: calc(20px + 4 * ((100vw - 480px) / 800));
