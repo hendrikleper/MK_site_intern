@@ -6,6 +6,7 @@ taxonomy:
     tag:
         - workshop
         - codelab
+media_order: ''
 ---
 # AI CODELAB
 Artificiële Intelligentie is een van de meest transformerende technologieën van onze tijd die mede vormgeeft aan de manier waarop we met elkaar omgaan, creëren en denken.
