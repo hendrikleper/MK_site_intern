@@ -15,4 +15,3 @@ Ofwel interactieve elektronica & visueel programmeren. Tijdens deze workshop mak
 Denk bijvoorbeeld aan elektronische kunst, kinetische beeldhouwkunst, interactieve installaties, geluidssculpturen, audiovisuele performances, animatronics, scenografie voor theater en dans, poppenspel, …
 
 ## [TUTORIAL](https://github.com/theBlackBoxSociety/CodeCrashCourses/blob/master/MaxArduinoDMX.md)
-👉 https://github.com/theBlackBoxSociety/CodeCrashCourses/blob/master/MaxArduinoDMX.md 👈
