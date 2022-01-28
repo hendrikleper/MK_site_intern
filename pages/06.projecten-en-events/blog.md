@@ -5,7 +5,7 @@ content:
         - '@self.children'
     limit: 8
     order:
-        by: header.simple-events.start
+        by: date
         dir: desc
     pagination: true
     url_taxonomy_filters: true
