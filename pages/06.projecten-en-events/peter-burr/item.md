@@ -5,6 +5,7 @@ publish_date: '27-01-2022 21:19'
 taxonomy:
     tag:
         - lecture
+        - 'studio visits'
 media_order: 'peterBurr.jpg,peterBurr_dirscraper.jpg'
 ---
 
