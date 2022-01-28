@@ -5,10 +5,15 @@ publish_date: '27-01-2022 21:19'
 taxonomy:
     tag:
         - lecture
+        - lecture
 summary:
     enabled: '1'
     format: short
 media_order: 'peterBurr.jpg,peterBurr_dirscraper.jpg'
+simple-events:
+    start: '2022-02-04'
+    end: '2022-02-04'
+    location: 'Atelier Mediakunst'
 ---
 
 # Peter Burr
