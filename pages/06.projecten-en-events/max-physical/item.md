@@ -8,10 +8,10 @@ taxonomy:
         - codelab
 media_order: ''
 ---
-# MAX & Physical Computing
-Ofwel interactieve elektronica & visueel programmeren. Tijdens deze workshop zien we voorbeelden hoe we sensoren kunnen verbinden met digitale processen in MAX maar ook hoe we vanuit Max  de fusieke ruimte kunnen beinvloeden met licht, motoren, …
+# MAX & PHYSICAL COMPUTING
+Ofwel interactieve elektronica & visueel programmeren. Tijdens deze workshop maken we de brug tussen MAX en de fysische wereld. We zien voorbeelden hoe we sensoren kunnen verbinden met audiovisuele processen in MAX maar ook hoe we vanuit Max de fysieke ruimte kunnen beïnvloeden met licht, motoren, …
 
-Denk bijvoorbeeld aan elektronische kunst, kinetische beeldhouwkunst, interactieve installaties, geluidssculpturen, audiovisuele performances, animatronics, theater en dans scenografie, poppenspel, …
+Denk bijvoorbeeld aan elektronische kunst, kinetische beeldhouwkunst, interactieve installaties, geluidssculpturen, audiovisuele performances, animatronics, scenografie voor theater en dans, poppenspel, …
 
 ## TUTORIAL
 👉 [P5.JS tutorial](https://github.com/theBlackBoxSociety/CodeCrashCourses/blob/master/MaxArduinoDMX.md) 👈

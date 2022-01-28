@@ -7,6 +7,6 @@ taxonomy:
         - workshop
 media_order: ''
 ---
-# After Effects
+# AFTER EFFECTS
 
 **binnenkort meer info**
