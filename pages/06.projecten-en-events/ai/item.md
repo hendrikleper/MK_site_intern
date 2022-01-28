@@ -7,12 +7,12 @@ taxonomy:
         - workshop
 ---
 # AI CODELAB
+Artificiële Intelligentie is een van de meest transformerende technologieën van onze tijd die mede vormgeeft aan de manier waarop we met elkaar omgaan, creëren en denken.
+
 <iframe src="https://www.thispersondoesnotexist.com/" width="100%" height="400" style="border:none; background-color:#FFF;"></iframe>
 <sub>fake AI-id met https://www.thispersondoesnotexist.com/</sub>
 
-Artificiële Intelligentie is een van de meest transformerende technologieën van onze tijd die mede vormgeeft aan de manier waarop we met elkaar omgaan, creëren en denken.
-
-Tijdens deze codelabs willen we AI bestuderen en exploiteren.
+Tijdens dit codelab willen we AI bestuderen en exploiteren.
 We gebruiken hiervoor voornamelijk deze 2 tools: [ML5js](https://ml5js.org/) en [RunwayML](https://runwayml.com/).     
 Bij wijze van intro bekijken we ook https://teachablemachine.withgoogle.com/
 
