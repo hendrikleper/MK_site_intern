@@ -9,6 +9,7 @@ media_order: 'blender2021.jpeg'
 ---
 # BLENDER
 ### 3D modeling, sculpting, shading & rendering
+#### woensdag, 1 & 8 dec 2021, 9:00 - 12:30
 Blender is een krachtig, gratis en open source, 3D-modeling software pakket dat wordt gebruikt voor animatie, video games, data visualisaties of het ontwerpen van objecten voor digitale fabricage.
 
 Tijdens deze praktijk gerichte workshop zal Fons Artois je een inleiding geven in de basisprincipes en de mogelijkheden van Blender!

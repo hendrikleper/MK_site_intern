@@ -8,5 +8,5 @@ taxonomy:
 media_order: ''
 ---
 # AFTER EFFECTS
-
+#### dinsdag, 15 & 22 februari 2022, 9:00 - 12:30
 **binnenkort meer info**

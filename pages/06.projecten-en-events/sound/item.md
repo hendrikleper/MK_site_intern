@@ -5,9 +5,11 @@ publish_date: 08-11-2021 10:00
 taxonomy:
     tag:
         - workshop
+        - projectweek
 media_order: liew.jpg
 ---
 # GELUID IN DE KUNST
+#### dinsdag, 8 - 10 nov 2021, 10:00 - 17:00
 Tijdens deze workshop met [Liew Niyomkarn](https://liewniyomkarn.com/) maak je kennis met het domein van geluidskunst en krijg je een hands-on introductie tot klank opname- en montagetechnieken.    
 
 De workshop wordt in het Engels gegeven.     
@@ -26,14 +28,14 @@ Inschrijven kan je via mail naar hendrik.leper-at-hogent.be. De workshop staat o
 - Opnametechnieken
 - Soundscape opdracht
 
-#### Dinsdag 9 november 2021 van 10u - 17u
+#### Dinsdag 9 november 2021 van 10.00 - 17.00 uur
 **10 uur - 12.30 uur @ atelier mediakunst**
 - Inleiding Editing & mixing basics met Reaper.
 **14.00 - 17.00 uur @ atelier mediakunst**
 - Concepten van interactieve geluidsinstallaties, acoustemologie, deep listening, live performance
 - Werksessie soundscape (stuk van 5á8 minuten)
 
-#### Woensdag 10 november 2021 van 10u - 17u
+#### Woensdag 10 november 2021 van 10.00 - 17.00 uur
 **10u - 12.30u @ atelier mediakunst**
 - werk- en luistersessies
 **14 - 15 uur @ atelier mediakunst**

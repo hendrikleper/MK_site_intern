@@ -9,6 +9,7 @@ taxonomy:
 media_order: ''
 ---
 # CONTEXT FREE ART
+#### dinsdag, 28 sept. 2021, 9:00 - 15:30
 Deze eerste workshop is een korte eerste kennismaking met het schijven van computer-code. We gebruiken hiervoor het programma [Context Free](https://www.contextfreeart.org/). De tutorial & files vind je [hier](https://github.com/theBlackBoxSociety/CodeCrashCourses/blob/master/CFA.md).
 
 👀 The Art of Code lecture by [Dylan Beattie](https://dylanbeattie.net/)

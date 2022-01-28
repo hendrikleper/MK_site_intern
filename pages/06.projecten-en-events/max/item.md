@@ -9,6 +9,7 @@ taxonomy:
 media_order: 'c74-max8_v2.png'
 ---
 # MAX CODELAB
+#### dinsdag, 19 & 26 okt 2021, 9:00 - 15:30
 [MAX](https://cycling74.com/products/max) is [een visuele programmeer-omgeving](https://en.wikipedia.org/wiki/Visual_programming_language). Het programmeren gebeurt adhv visuele uitdrukkingen of ruimtelijke ordeningen van tekst en grafische elementen. Het programmeren in MAX heet **“patchen“**, visuele elementen of **“object boxes”** worden verbonden met draadjes of **“patchcords“**. Deze diagrammen laten zien hoe de data door het programma 'stroomt'. Met Max kan je onmiddellijk de resultaten zien en horen bij elke verandering die je maakt. Het is een heel intuitieve manier van programmeren waarin doen en denken kan samengaan.
 ![MAX](c74-max8_v2.png)    
 MAX groeide over de jaren heen, het is onstaan midden de jaren 80, uit tot een erg uitgebreid en krachtig platform. Het wordt voornamelijk gebruikt door artiesten, componisten, wetenschappers, docenten, studenten en softwareontwerpers. Het voorziet in tools om te werken met midi, data, geluid en muziek **“msp~”**, bitmap beelden, video en 3D **“jitter”**, interactiviteit en connectiviteit met andere toepassingen en hardware ...

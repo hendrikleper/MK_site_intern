@@ -9,6 +9,7 @@ taxonomy:
 media_order: ''
 ---
 # AI CODELAB
+#### dinsdag, 30 okt. & 7 dec. 2021, 9:00 - 15:30
 Artificiële Intelligentie is een van de meest transformerende technologieën van onze tijd die mede vormgeeft aan de manier waarop we met elkaar omgaan, creëren en denken.
 
 <iframe src="https://www.thispersondoesnotexist.com/" width="100%" height="400" style="border:none; background-color:#FFF;"></iframe>

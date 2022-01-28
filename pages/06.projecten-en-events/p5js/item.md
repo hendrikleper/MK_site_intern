@@ -9,6 +9,7 @@ taxonomy:
 media_order: 'p5js.jpg'
 ---
 # P5.JS CODELAB
+#### dinsdag, 1 & 8 maart 2022, 9:00 - 12:30
 <!--
 Software beïnvloedt alle aspecten van de hedendaagse beeldcultuur. Veel gevestigde kunstenaars hebben software geïntegreerd in hun proces. Ze gebruiken niet alleen software maar ze maken ook vaak software op maat om hun ideeën te realiseren.
 
