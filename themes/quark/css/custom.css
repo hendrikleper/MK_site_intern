@@ -141,11 +141,11 @@ transition: color 200ms ease-in-out;
 }
 
 .card:hover{
-  background: linear-gradient(rgba(245, 233, 173, 0.5), rgba(200, 90, 90, 0.71));
-  box-shadow: 0 5px 15px rgba(180, 80, 80, 0.6);
+  background: linear-gradient(rgba(245, 233, 173, 0.1), rgba(200, 90, 90, 0.2));
+  box-shadow: 0 5px 15px rgba(180, 80, 80, 0.3);
 }
 
-.card-image:hover .image {
+.card-image:hover {
   opacity: 0.1;
 }
 
