@@ -5,8 +5,10 @@ publish_date: '27-01-2022 21:42'
 taxonomy:
     tag:
         - lecture
+        - x-ray
 media_order: paulinecurnierjardin.png
 ---
+
 # X-RAY met PAULINE CURNIER JARDIN
 #### Unfolding the Practice & Screening
 #### KASKcinema
