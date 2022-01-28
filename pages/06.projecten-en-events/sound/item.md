@@ -1,6 +1,6 @@
 ---
 Title: 'geluid in de kunst'
-date: '8-11-2021 10:00'
+date: '08-11-2021 10:00'
 publish_date: '27-01-2022 21:45'
 taxonomy:
     tag:

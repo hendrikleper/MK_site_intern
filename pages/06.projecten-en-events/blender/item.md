@@ -1,6 +1,6 @@
 ---
 Title: 'BLENDER'
-date: '1-12-2021 09:00'
+date: '01-12-2021 09:00'
 taxonomy:
     tag:
         - workshop

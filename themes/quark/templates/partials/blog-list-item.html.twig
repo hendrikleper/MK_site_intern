@@ -15,14 +15,14 @@
         </div>
         -->
     </div>
-    <div class="card-body">
+    <div class="card-body"><!-- link added by HL -->
     <a href="{{ page.url }}">
         {% if page.summary != page.content %}
             {{ page.summary|raw }}
         {% else %}
             {{ page.content|raw }}
         {% endif %}
-    </a>
+    </a><!-- added by HL -->
     </div>
     <div class="card-footer">
         {% include 'partials/blog/taxonomy.html.twig' %}

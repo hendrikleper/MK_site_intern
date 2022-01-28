@@ -5,7 +5,7 @@ content:
         - '@self.children'
     limit: 12
     dateRange:
-        start: 1-9-2021
+        start: 01-09-2021
         end: 31-08-2022
     order:
         by: date
