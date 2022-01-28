@@ -5,6 +5,7 @@ publish_date: '27-01-2022 21:41'
 taxonomy:
     tag:
         - workshop
+        - codelab
 media_order: 'c74-max8_v2.png'
 ---
 # MAX CODELAB

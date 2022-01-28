@@ -5,6 +5,7 @@ publish_date: '27-01-2022 21:41'
 taxonomy:
     tag:
         - workshop
+        - codelab
 media_order: 'netart.jpg'
 ---
 # net.art web.dev
