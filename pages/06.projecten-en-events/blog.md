@@ -6,7 +6,7 @@ content:
     limit: 16
     dateRange:
         start: 01-09-2020
-        end: today
+        end: 1-1-2100
     order:
         by: date
         dir: desc
