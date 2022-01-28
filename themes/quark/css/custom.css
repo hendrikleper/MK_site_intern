@@ -140,8 +140,9 @@ transition: color 200ms ease-in-out;
   text-decoration: none;
 }
 
-.card-body:hover {
-  background-color: rgba(138, 180, 84, 0.49)
+.card-body:hover, .card-image:hover, .card-header:hover {
+  background-color: rgba(255, 255, 255, 0.59);
+  box-shadow: 0 5px 15px rgba(233, 224, 159, 0.4);
 }
 
 
