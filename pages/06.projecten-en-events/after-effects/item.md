@@ -1,7 +1,7 @@
 ---
 Title: After Effects
-date: '15-02-2022 09:00'
-publish_date: '15-02-2022 09:00'
+date: 15-02-2022 09:00
+publish_date: 15-02-2022 09:00
 taxonomy:
     tag:
         - workshop
