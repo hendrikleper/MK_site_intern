@@ -103,6 +103,10 @@ transition: color 200ms ease-in-out;
   margin-bottom: 0.5rem;
 }
 
+#header {
+  border-bottom: 0px solid rgba($gray-color, 0.2);
+}
+
 #navigation a.github-link {
     font-size: inherit!important;
     display: -ms-flexbox;
