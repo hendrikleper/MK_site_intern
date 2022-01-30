@@ -14,13 +14,13 @@ Title: Programma
 
 **Overzichtsrooster 1e bachelor**
 
-![1e bachelor](rooster2122sem2mk1.png)
+![1e bachelor 2e semester](rooster2122sem2mk1.png)
 **Overzichtsrooster 2e bachelor**
 
-![2e bachelor](rooster2122sem2mk2.png)
+![2e bachelor 2e semester](rooster2122sem2mk2.png)
 **Overzichtsrooster 3e bachelor**
 
-![3e bachelor](rooster2122sem2mk3.png)
+![3e bachelor 2e semester](rooster2122sem2mk3.png)
 
 ## Atelierrooster
 of een rooster met de aanwezigheid van docenten doorheen de week.    
