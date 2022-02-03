@@ -13,8 +13,7 @@ media_order: 'Rebootedcontinuum.png,rebootedcontinuum2.png'
 #### woensdag, 9/02/2022 15:00-16:30
 
 [Quinten Vanagt](https://www.instagram.com/quinten2nite/) en [Lewi Moors](https://www.instagram.com/puss_99bb/) zijn master student Mediakunst / Vrije Kunsten. [Lars Boelaerts](https://www.instagram.com/larpiebabyomg/) passeerde hier ook even. Quinten, Lewi en Lars geven gedurende een uur en half een inkijk in hun artistieke praktijk, hun werkmethodes en de technieken en tools die het werk mogelijk maken. Vaak zijn dat tools die hun oorsprong kennen en gebruik hebben in de videogame industrie. We hebben het hier onder andere over Blender, Oculus, Quixel en misschien nog het meest [Unreal Engine](https://www.unrealengine.com/), of UE, een erg populaire game engine ontwikkeld door de Epic Games studio.
-
-Deze game engine is misschien het meest bekend als platform voor 1st person shooter games maar het biedt ook erg veel mogelijkheden voor een vrijer gebruik in o.a. film en animatiefilm, interactieve 3D scènes, worldbuilding, live visuals, ...
+Deze game engine is misschien het meest bekend als platform voor 1st person shooter games maar het biedt ook erg veel mogelijkheden voor toepassingen in film en animatiefilm, interactieve 3D scènes, worldbuilding, live visuals, ...
 
 ![](rebootedcontinuum.png)    
 
