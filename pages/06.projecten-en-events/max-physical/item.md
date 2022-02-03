@@ -1,13 +1,14 @@
 ---
-Title: MAX & Physical computing CODELAB
-date: 01-02-2022 09:00
-publish_date: 28-01-2022 9:00
+Title: 'MAX & Physical computing CODELAB'
+date: '01-02-2022 09:00'
+publish_date: '28-01-2022 9:00'
 taxonomy:
     tag:
         - workshop
         - codelab
-media_order: ''
+body_classes: header-animated
 ---
+
 # MAX & PHYSICAL COMPUTING
 #### dinsdag, 1 & 8 februari 2022, 9:00 - 12:30
 Ofwel interactieve elektronica & visueel programmeren. Tijdens deze workshop maken we de brug tussen MAX en de fysische wereld. We zien voorbeelden hoe we sensoren kunnen verbinden met audiovisuele processen in MAX maar ook hoe we vanuit Max de fysieke ruimte kunnen beïnvloeden met licht, motoren, …
