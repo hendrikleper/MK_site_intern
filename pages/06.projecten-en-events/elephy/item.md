@@ -9,7 +9,7 @@ taxonomy:
 media_order: 'elephy.png,elephy2.png,elephy3.jpg'
 ---
 # ELEPHY
-#### masterclass
+#### MASTERCLASS
 #### atelier Mediakunst + Harlan Levey Projects 1080 Brussels
 #### Thursday, 10/02/2022 10:00-18:00 + Friday, 11/02/2022, 10:00-13:00
 
