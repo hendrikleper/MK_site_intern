@@ -6,7 +6,7 @@ taxonomy:
     tag:
         - workshop
         - codelab
-body_classes: 'header-animated sticky-footer header-dark'
+body_classes: sticky-footer
 ---
 
 # MAX & PHYSICAL COMPUTING
