@@ -1,5 +1,5 @@
 ---
-title: 'Nongames: Quinten Vanagt, Lewi Moors & Lars Boelaerts'
+title: 'Unreal Engine for non game purposes'
 date: 9-02-2022 15:00
 publish_date: 03-02-2022 13:00
 taxonomy:
