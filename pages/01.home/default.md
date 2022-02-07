@@ -1,7 +1,6 @@
 ---
 title: Welkom
 visible: false
-body_classes: hero
 ---
 
 # WELKOM
