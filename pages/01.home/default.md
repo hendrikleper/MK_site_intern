@@ -1,6 +1,7 @@
 ---
 title: Welkom
 visible: false
+body_classes: header-dark
 ---
 
 # WELKOM
