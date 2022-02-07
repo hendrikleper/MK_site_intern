@@ -18,6 +18,7 @@ Vica studied Art at La Esmeralda in México City before graduating from Villa Ar
 
 In 2020 Vica Pacheco released her debut album [Symplegmata](https://kraak.bandcamp.com/album/symplegmata) on Kraak, about which one can read:
 > It transposes a exploration of unearthed sound narratives of a fully-fleshed mythology to unfurl biological fusions, hermaphrodite sexuality, the amalgamation of distinct beings into fully-realized entities using synthesized field recordings and manipulated vocals.
+
 The successor [Fibre-Fusion](https://wabi-sabi-tapes.bandcamp.com/album/fibre-fusion) was released on cassette by wabi-sabi tapes (Lyon) in 2021. It continues her work on mutation and the energies that are released from new forms of life.
 
 
