@@ -16,7 +16,7 @@ media_order: 'eva-claus1.png,eva-claus2.png'
 
 Claus was educated at the Friedl Kubelka School for independent film in Vienna, Austria and she obtained her MFA at KASK in Ghent. Her films have been shown at festivals such as Light Field San Francisco, International Film Festival Rotterdam, Moscow International Film Festival, Process Film Festival Riga, Harkat Festival Mumbai, Rencontre International Paris / Berlin and Istanbul International Film Festival, amongst others.
 
-![](eva-claus1.png)
+![](eva-claus1.jpg)
 
 #### 10:30-12:00	Artist Presentation
 Eva will start the presentation by showing some of her films on 16mm. Afterwards, she will take us through her artistic evolution, working methods and elaborate on working with analogue film as a filmmaker, projectionist and restorer for Robert Beavers.
@@ -24,5 +24,4 @@ Eva will start the presentation by showing some of her films on 16mm. Afterwards
 #### 13:30-17:00	Studiovisits
 Engage with Eva in a one-on-one conversation about your work. Sign up through [this doodle](https://doodle.com/poll/umhvzu2a5sq4u585?utm_source=poll&utm_medium=link).
 
-The
-![](eva-claus2.png)
+![](eva-claus2.jpg)
