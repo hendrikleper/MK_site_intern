@@ -15,5 +15,3 @@ show_sidebar: false
 show_breadcrumbs: false
 show_pagination: true
 ---
-
-# Projecten & Events
