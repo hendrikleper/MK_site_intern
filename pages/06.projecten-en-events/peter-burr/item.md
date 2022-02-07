@@ -24,4 +24,4 @@ Peter has been to Belgium on several occasions including visits to the Beursscho
 #### 10:30-12:00	Artist Presentation
 For an hour and a half, Peter takes us on a journey through his artistic career, themes, processes, and ideals.
 #### 13:30-17:00	Studiovisits
-Engage with Peter in a one-on-one conversation about your work. Sign up through [this doodle](https://doodle.com/poll/6w7daini46iyw75v?utm_source=poll&utm_medium=link).
+Engage with Peter in a one-on-one conversation about your work. Sign up through [this doodle]().
