@@ -9,7 +9,7 @@ taxonomy:
 ---
 
 # MAX & PHYSICAL COMPUTING
-#### dinsdag, 1 & 8 februari 2022, 9:00 - 12:30
+#### dinsdag, 8 februari 2022, 9:00 - 12:30
 Ofwel interactieve elektronica & visueel programmeren. Tijdens deze workshop maken we de brug tussen MAX en de fysische wereld. We zien voorbeelden hoe we sensoren kunnen verbinden met audiovisuele processen in MAX maar ook hoe we vanuit Max de fysieke ruimte kunnen beïnvloeden met licht, motoren, …
 
 Denk bijvoorbeeld aan elektronische kunst, kinetische beeldhouwkunst, interactieve installaties, geluidssculpturen, audiovisuele performances, animatronics, scenografie voor theater en dans, poppenspel, …
