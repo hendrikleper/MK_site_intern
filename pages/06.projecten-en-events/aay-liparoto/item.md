@@ -29,4 +29,4 @@ For an hour and a half, Aay takes us on a journey through their artistic practic
 #### 13:30-17:00	Studiovisits
 Engage with Aay in a one-on-one conversation about your work. Sign up through [this doodle](https://doodle.com/poll/qe86r4hh5xxysw9z?utm_source=poll&utm_medium=link).
 
-![](Aay-liparoto4.jpg)
+![](Aay-liparoto8.jpg)
