@@ -14,11 +14,11 @@ media_order: ''
 Tijdens de workshop zullen zowel de basisprincipes als de algemene workflow van het programma worden behandeld. Deze kennis is toepasbaar in het gebied van digitale animatie, videomontage en post-productie.
 
 De workshop zal in grote lijnen gaan over:
-– De algemene workflow en interface van AE
-– Compositing
-– Animatie (2D en 2,5D)
-– Video-editing en effecten
-– Organisatie en opzet van een project in AE
+* De algemene workflow en interface van AE
+* Compositing
+* Animatie (2D en 2,5D)
+* Video-editing en effecten
+* Organisatie en opzet van een project in AE
 
 Naast een uitleg over deze onderwerpen, zullen de deelnemers ook actief kunnen participeren aan de hand van kleine opdrachtjes.
 
