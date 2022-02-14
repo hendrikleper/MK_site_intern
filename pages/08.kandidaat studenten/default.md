@@ -66,7 +66,7 @@ Theorieproef, Praktijkproef & Interview: 31/08 – 02/09/22
 ### Orientation test
 For access to the master programmes there is an annual selection procedure in spring, and one in summer. You can find all the details in the application guidelines of the various programmes.
 
-see [this page](https://schoolofartsgent.be/2021/onderwijs/toelatings-en-orienteringsproeven/master/?lang=en)
+see [this page](https://schoolofartsgent.be/en/onderwijs/toelatings-en-orienteringsproeven/)
 
 #### Session 1
 submission deadline: 25/03/2022 – 16:00    
@@ -85,4 +85,4 @@ interview: 29/08/2022
 
 
 ### MENTORS
-[list with available mentors 2021-2022](http://docs.schoolofarts.be/documenten/Master/Mentorengids%202021-2022.pdf)
+[List with available mentors 2021-2022](http://docs.schoolofarts.be/documenten/Master/Mentorengids%202021-2022.pdf)
