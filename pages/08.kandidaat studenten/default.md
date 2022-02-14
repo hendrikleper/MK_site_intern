@@ -81,8 +81,8 @@ interview: 29/08/2022
 ### PROGRAM
 [PDF of the studiewijzer / studieguide](https://schoolofartsgent.be/wp-content/uploads/2021/12/2223_Studiewijzer.pdf) with the program of the bachelor & master Media Art / Fine Arts on page 82 & 86    
 
-[Master seminars](http://docs.schoolofarts.be/documenten/Master/Infobundel%20Masterseminaries-%20information%20Master%20Seminars%202021-2022.pdf)
+[Master seminars 2021-2022](http://docs.schoolofarts.be/documenten/Master/Infobundel%20Masterseminaries-%20information%20Master%20Seminars%202021-2022.pdf)
 
 
 ### MENTORS
-[list with available mentors 2020-2021](http://docs.schoolofarts.be/documenten/Master/Mentorengids%202021-2022.pdf)
+[list with available mentors 2021-2022](http://docs.schoolofarts.be/documenten/Master/Mentorengids%202021-2022.pdf)
