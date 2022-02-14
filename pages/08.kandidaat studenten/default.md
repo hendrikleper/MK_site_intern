@@ -31,7 +31,7 @@ Theorieproef, Praktijkproef & Interview: 31/08 – 02/09/22
 [PDF van de studiewijzer](https://schoolofartsgent.be/wp-content/uploads/2021/12/2223_Studiewijzer.pdf) met o.a. het programma van de bachelor Mediakunst op pagina 82
 
 ### Minors
-[Infobundel Minors 2021-2022](http://docs.schoolofarts.be/documenten/Minors%20en%20keuzevakken/Informatiebundel%20Minors%202021-2022.doc)
+[Infobundel Minors 2021-2022](http://docs.schoolofarts.be/documenten/Minors%20en%20keuzevakken/Informatiebundel%20Minors%202021-2022.doc)    
 [Minors presentatie](http://www.docs.schoolofarts.be/documenten/Minors%20en%20keuzevakken/Infosessie%20minor%20keuzepakket%202021-2022_met%20audio.pptx)
 
 ### Studiefiches
@@ -60,7 +60,7 @@ Theorieproef, Praktijkproef & Interview: 31/08 – 02/09/22
 ## MASTER
 
 ### Guide
-☞ [Mastergids](http://www.docs.schoolofarts.be/documenten/Master/Mastergids%202122.pdf) (Nederlande versie)
+☞ [Mastergids](http://www.docs.schoolofarts.be/documenten/Master/Mastergids%202122.pdf) (Nederlande versie)    
 ☞ [Masterguide](http://docs.schoolofarts.be/documenten/Master/Master%20Guidelines%20Visual%20and%20Audiovisual%20Arts%202122.pdf) (English version)
 
 ### Orientation test
@@ -79,7 +79,7 @@ interview: 29/08/2022
 [Read the Application Guidelines](http://docs.schoolofarts.be/documenten/INFO%20EN%20HANDLEIDINGEN/Admission_procedures_masters/AGL_VAVD.pdf)
 
 ### PROGRAM
-[PDF of the studiewijzer / studieguide](https://schoolofartsgent.be/wp-content/uploads/2021/12/2223_Studiewijzer.pdf) with the program of the bachelor & master Media Art / Fine Arts on page 82 & 86
+[PDF of the studiewijzer / studieguide](https://schoolofartsgent.be/wp-content/uploads/2021/12/2223_Studiewijzer.pdf) with the program of the bachelor & master Media Art / Fine Arts on page 82 & 86    
 
 [Master seminars](http://docs.schoolofarts.be/documenten/Master/Infobundel%20Masterseminaries-%20information%20Master%20Seminars%202021-2022.pdf)
 
