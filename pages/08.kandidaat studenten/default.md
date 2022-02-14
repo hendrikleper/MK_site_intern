@@ -15,25 +15,23 @@ Alle kandidaten moeten de artistieke toelatingsproef afleggen, ook zij die reeds
 
 Alle kandidaten die wensen deel te nemen aan de toelatingsproef dienen zich te registreren via [webreg.hogent.be](https://webreg.hogent.be/)
 
-[Algemene info toelatingsproef](https://schoolofartsgent.be/2021/onderwijs/toelatings-en-orienteringsproeven/)
+[Algemene info toelatingsproef](https://schoolofartsgent.be/nl/onderwijs/toelatings-en-orienteringsproeven/)
 
 ### sessie 1
-Deadline dossier (portfolio + motivatiebrief): ~~02 juli om 12u00~~    
-Theorieproef & Praktijkproef: ~~05 juli~~    
-Interview: ~~06, 07 of 08 juli~~
+Deadline om te registratie + dossier: 01/07     
+Theorieproef, Praktijkproef & Interview: 04/07 – 06/07/22    
 
 ### sessie 2
-Deadline dossier (portfolio + motivatiebrief): ~~20 aug. om 12u00~~    
-Theorieproef & Praktijkproef: ~~24 aug.~~    
-Interview: ~~25, 26 of 27 aug.~~
+Deadline om te registratie + dossier: 26/08     
+Theorieproef, Praktijkproef & Interview: 31/08 – 02/09/22    
 
-[info toelatingsproef Vrije Kunsten](https://schoolofartsgent.be/2021/onderwijs/toelatings-en-orienteringsproeven/academische-bachelor/beeldende-kunsten/vrije-kunsten/)
+[info toelatingsproef Vrije Kunsten](https://schoolofartsgent.be/nl/onderwijs/toelatings-en-orienteringsproeven/academische-bachelor/vrije-kunsten/)
 
 ## Curricula Mediakunst
-[PDF met de curricula van de bachelor & master Mediakunst](http://docs.schoolofarts.be/documenten/Curricula%20beeldende%20kunsten/mediakunst.pdf)
+[PDF van de studiewijzer](https://schoolofartsgent.be/wp-content/uploads/2021/12/2223_Studiewijzer.pdf) met o.a. het programma van de bachelor Mediakunst op pagina 82
 
 ## Minors
-[Infobundel Minors 2021-2022](http://www.docs.schoolofarts.be/documenten/Minors%20en%20keuzevakken/Informatiebundel%20Minors%202021-2022.doc)
+[Infobundel Minors 2021-2022](http://docs.schoolofarts.be/documenten/Minors%20en%20keuzevakken/Informatiebundel%20Minors%202021-2022.doc)
 [Minors presentatie](http://www.docs.schoolofarts.be/documenten/Minors%20en%20keuzevakken/Infosessie%20minor%20keuzepakket%202021-2022_met%20audio.pptx)
 
 ## Studiefiches
@@ -62,7 +60,8 @@ Interview: ~~25, 26 of 27 aug.~~
 # MASTER
 
 ## Guide
-☞ [Masterguide / Masergids](http://www.docs.schoolofarts.be/documenten/Master/Mastergids%202122.pdf)
+☞ [Mastergids](http://www.docs.schoolofarts.be/documenten/Master/Mastergids%202122.pdf) (Nl)
+☞ [Masterguide](http://docs.schoolofarts.be/documenten/Master/Master%20Guidelines%20Visual%20and%20Audiovisual%20Arts%202122.pdf)
 
 ## Orientation test
 For access to the master programmes there is an annual selection procedure in spring, and one in summer. You can find all the details in the application guidelines of the various programmes.
@@ -70,20 +69,20 @@ For access to the master programmes there is an annual selection procedure in sp
 see [this page](https://schoolofartsgent.be/2021/onderwijs/toelatings-en-orienteringsproeven/master/?lang=en)
 
 ### Session 1
-submission deadline: ~~19.03.2021 / 16:00~~    
-interview: ~~26.04.21~~
+submission deadline: 25/03/2022 – 16:00    
+interview: 25/04/2022
 
 ### Session 2
-submission deadline: ~~25.06.2021 / 16:00~~    
-interview: ~~30.08.2021~~
+submission deadline: 01/07/2022 – 16:00    
+interview: 29/08/2022
 
 [Read the Application Guidelines](http://docs.schoolofarts.be/documenten/INFO%20EN%20HANDLEIDINGEN/Admission_procedures_masters/AGL_VAVD.pdf)
 
 ## PROGRAM
-[PDF with the program of the bachelor & master Media Art](http://docs.schoolofarts.be/documenten/Curricula%20beeldende%20kunsten/mediakunst.pdf)
+[PDF of the studiewijzer / studieguide](https://schoolofartsgent.be/wp-content/uploads/2021/12/2223_Studiewijzer.pdf) with the program of the bachelor & master Media Art / Fine Arts on page 82 & 86
 
-[Master seminars](https://schoolofartsgent.be/2021/wp-content/uploads/2021/09/DOC_SeminariesMaster2122.pdf)
+[Master seminars](http://docs.schoolofarts.be/documenten/Master/Infobundel%20Masterseminaries-%20information%20Master%20Seminars%202021-2022.pdf)
 
 
 ## MENTORS
-[list with available mentors 2020-2021](http://www.docs.schoolofarts.be/documenten/Master/Mentoren20202021.pdf)
+[list with available mentors 2020-2021](http://docs.schoolofarts.be/documenten/Master/Mentorengids%202021-2022.pdf)
