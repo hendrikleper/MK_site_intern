@@ -28,7 +28,7 @@ The successor [Fibre-Fusion](https://wabi-sabi-tapes.bandcamp.com/album/fibre-fu
 ![](vica.jpg)
 
 #### 10:30-12:00	Artist Presentation
-For an hour and a half, Vica takes us on a journey through het artistic practice, themes, processes, and ideals.
+For an hour and a half, Vica takes us on a journey through her artistic practice, themes, processes, and ideals.
 #### 13:30-17:00	Studiovisits
 Engage with Vica in a one-on-one conversation about your work. Sign up through [this doodle](https://doodle.com/poll/hxgsmci7567rv5zv?utm_source=poll&utm_medium=link).
 
