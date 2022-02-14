@@ -9,7 +9,7 @@ taxonomy:
 media_order: 'ejtech.jpg,ejtech2.jpg'
 ---
 # SOFT RESONANCE
-#### masterclass & workshop with EJ TECH
+#### Artist Presentation & workshop with EJ TECH
 #### KASKcinema & FILM studio
 #### 21/03/22 20:00, 22 & 23/03/2022 10:00 - 18:00
 Under the label [EJTECH](https://ejtech.studio/), Esteban de la Torre and Judit Eszter Kárpáti combine their know-how. Esteban de la Torre is a media artist, sound artist. Judit Eszter Kárpáti is an interdisciplinary artist, textile artist and material researcher.
