@@ -1,7 +1,7 @@
 ---
 title: 'EJ Tech'
 date: 21-03-2022 20:00
-publish_date: 15-02-2022 12:00
+publish_date: 14-02-2022 22:00
 taxonomy:
     tag:
         - lecture
@@ -35,3 +35,5 @@ We will be working under concepts inspired by [Bernhard Leitner](https://www.ber
 workshop: 40 euro for kask students. Sent an email to raf.enckels[at]hogent.be & hendrik.leper[at]]hogent.be to register.
 
 ![](ejtech2.jpg)
+
+In collaboration with [Overtoon](https://www.overtoon.org/) & [EPAS](https://www.epasound.org/)
