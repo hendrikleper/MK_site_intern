@@ -32,7 +32,7 @@ Participants will gain knowledge of the anatomy of a soft speaker vs a regular s
 
 We will be working under concepts inspired by [Bernhard Leitner](https://www.bernhardleitner.at/en)’s sound/body/space works, participants are invited to think of space as a fundamental building block in a sonic experience.
 
-workshop: 40 euro for kask students. Sent an email to raf.enckels[at]hogent.be & hendrik.leper[at]]hogent.be to register.
+workshop: 40€ for kask students (possibly payed by the studio). Sent an email to raf.enckels[at]hogent.be & hendrik.leper[at]]hogent.be to register.
 
 ![](ejtech2.jpg)
 
