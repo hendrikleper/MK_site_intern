@@ -24,11 +24,11 @@ A reoccurring focus to much of Marcus Bergner’s artworks and related research 
 Eva will start the presentation by showing some of her films on 16mm. Afterwards, she will take us through her artistic evolution, working methods and elaborate on working with analogue film as a filmmaker, projectionist and restorer for Robert Beavers.    
 ![](eva-claus1.jpg)    
 
-Marcus will show 2 movies:    
-*Musical Four Letters* (16mm, 6mins, colour, sound, 1989)    
+Marcus will show us two movies:    
+**Musical Four Letters** (16mm, 6mins, colour, sound, 1989)    
 Every conceivable word with four-letters that has anything to do with music (including melodious bodily functions and swear words) has been written directly onto the surface of a 1940s Mexican musical film. Words reveal an innately fictive capacity for abstraction and offer an escape route for memory.     
-*Angledozer* (16mm, 16mins, sound, colour, 1996)    
-A film collage using an optical printer and various different film stocks to compose a metamorphosis of found imagery within architectural space. The soundtrack includes a live performance by Marisa Stirpe on jaw harp. Distributed by Light Cone, Paris and German Film Archives, Berlin.
+**Angledozer** (16mm, 16mins, sound, colour, 1996)    
+A film collage using an optical printer and various different film stocks to compose a metamorphosis of found imagery within architectural space. The soundtrack includes a live performance by Marisa Stirpe on jaw harp. Distributed by Light Cone, Paris and German Film Archives, Berlin.    
 ![](marcus-bergner.jpg)    
 
 #### 13:30-17:00	Studiovisits
