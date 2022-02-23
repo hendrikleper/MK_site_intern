@@ -3,12 +3,12 @@ Title: ROTTERDAM reis
 ---
 # ROTTERDAM
 
-## Verplaatsingen
+### Verplaatsingen
 Samen met de trein of elk boekt zijn eigen vervoer?
 
 
-## Overnachting
-### 28 en 29 april in [Hostel Room](https://www.roomrotterdam.nl/)
+### Overnachting
+#### 28 en 29 april in [Hostel Room](https://www.roomrotterdam.nl/)
 * 1 x 8-persoonskamer
 * 1 x 4-persoonsfamiliekamer
 
@@ -17,9 +17,9 @@ Samen met de trein of elk boekt zijn eigen vervoer?
   0031 10 282 72 77    
   www.roomrotterdam.nl
 
-## Programma
+### Programma
 voorstel 1 - kans is klein dat dit het wordt
-### Donderdag 28 april
+#### Donderdag 28 april
 * 08:27 - Vertrek Gent Sint-Pieters - Amsterdam Centraal (IC geen Thalys)
 * 11:32 - Aankomst Amsterdam Centraal
 * 12:00 - Bezoek [Hito Steyerl in Stedelijk Amsterdam](https://www.stedelijk.nl/nl/tentoonstellingen/hito-steyerl)
@@ -30,7 +30,7 @@ lijkt me niet boekbaar !!
 * 17:00 - Bezoek [Tent](https://www.tentrotterdam.nl) (sluit 18u)
 * 18:30 - Diner
 * 20:00 - Avondprogramma, bijv. concert in [Roodkapje](https://roodkapje.org/)
-### Vrijdag 29 april
+#### Vrijdag 29 april
 * 09:00 - Ontbijt
 * 10:30 - Bezoek [Varia](https://varia.zone/)
 * 12:30 - Lunch
@@ -39,7 +39,7 @@ lijkt me niet boekbaar !!
 * 18:00 - [Kunstblock avond](https://kunstblock.nl/) (tour of vrij) interessant want overal gratis toegang)
 * 21:00 - Late diner / Avondprogramma
 
-### Zaterdag 30 april
+#### Zaterdag 30 april
 * 09:00 - Ontbijt
 * 10:36 - Vertrek Rotterdam Centraal - Den Haag (Moerwijk)
 * 10:57 - Aankomst Den Haag Moerwijk
@@ -48,9 +48,9 @@ lijkt me niet boekbaar !!
 * 15:22 - Vertrek Den Haag Moerwijk
 * 18:33 - Aankomst Gent Sint-Pieters
 
-## Programma
+### Programma
 voorstel 2 - meest haalbaar wegens reservatie-beleid Stedelijk !!
-### Donderdag 28 april
+#### Donderdag 28 april
 * 08:27 - Vertrek Gent Sint-Pieters - Den Haag (Moerwijk)
 * 11:16 - Den Haag (Moerwijk)    
 10min wandeling naar iii
@@ -67,7 +67,7 @@ treinen elke ±15min
 * 19:00 - Diner
 * 20:00 - Avondprogramma, bijv. concert in [Roodkapje](https://roodkapje.org/)
 
-### Vrijdag 29 april
+#### Vrijdag 29 april
 * 09:00 - Ontbijt
 * 10:30 - Bezoek [Varia](https://varia.zone/)
 * 12:30 - Lunch
@@ -76,7 +76,7 @@ treinen elke ±15min
 * 18:00 - [Kunstblock avond](https://kunstblock.nl/) (tour of vrij) interessant want overal gratis toegang
 * 21:00 - Late diner / Avondprogramma
 
-### Zaterdag 30 april
+#### Zaterdag 30 april
 * 09:00 - Ontbijt
 * 10:05 - Vertrek Rotterdam Centraal - Amsterdam Centraal
 * 11:15 - Aankomst Amsterdam Centraal
@@ -85,7 +85,7 @@ boek https://reserveringen.stedelijk.nl/Exhibitions/Register?id=958982cd-56d2-ea
 * 15:28 - Vertrek naar Gent SP / BXL
 * 18:33 - Aankomst Gent SP
 
-## kosten
+### kosten
 * trein Gent SP - Amsterdam: 30,00€
 * trein Amsterdam - Rotterdam: 16,90€
 * trein Rotterdam - Den Haag: 5,00€
@@ -106,7 +106,7 @@ extra:
 * Bezoek V2, iii, Varia en Rib: ? (via ateliergeld?)
 
 
-## Deelnemers
+### Deelnemers
 
 * Merisa Llukaj
 * June Rausenberger
