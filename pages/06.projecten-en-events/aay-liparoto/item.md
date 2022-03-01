@@ -10,8 +10,8 @@ media_order: 'Aay-liparoto.jpg'
 ---
 # AAY LIPAROTO
 #### artist presentation & studiovisits
-#### atelier MEDIAKUNST / KASK
-#### vrijdag, 18 februari 2022, 10:30
+#### MEDIAKUNST studio
+#### Friday, 18 February 2022, 10:30
 A. Liparoto (1987, USA) was educated in Visual Arts in London and completed a MFA at KASK Ghent in 2015.
 
 ![](Aay-liparoto3.jpg)    

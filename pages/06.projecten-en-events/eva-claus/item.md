@@ -10,8 +10,8 @@ media_order: 'eva-marcus.jpg'
 ---
 # EVA CLAUS & MARCUS BERGNER
 #### artist presentations, screenings & studiovisits
-#### atelier MEDIAKUNST / KASK
-#### vrijdag, 25 februari 2022, 10:30
+#### MEDIAKUNST studio
+#### Friday, 25 February 2022, 10:30
 [Eva Claus](https://www.evaclaus.com/) (1992 Brussels) is an audio-visual artist working primarily with 16mm film. Her practice is driven by observations of (un)expected encounters with landscapes and people, natural habitats, circularity and means of film itself. Eva´s films exhibit a contemplative form of watching. In her recent films she uses an intuitive method of filmmaking in which she shares her interest in minimal narration.
 Eva was educated at the Friedl Kubelka School for independent film in Vienna, Austria and she obtained her MFA at KASK in Ghent. Her films have been shown at festivals such as Light Field San Francisco, International Film Festival Rotterdam, Moscow International Film Festival, Process Film Festival Riga, Harkat Festival Mumbai, Rencontre International Paris / Berlin and Istanbul International Film Festival, amongst others.    
 

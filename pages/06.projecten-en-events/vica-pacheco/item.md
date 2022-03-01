@@ -11,8 +11,8 @@ media_order: vica.jpg
 
 # VICA PACHECO
 #### artist presentation & studiovisits
-#### atelier MEDIAKUNST / KASK
-#### ~~vrijdag, 4 maart 2022, 10:30~~
+#### MEDIAKUNST studio
+#### ~~Friday, 4 March 2022, 10:30~~ postponed to ?
 Ana Victoria aka Vica Pacheco was born in Oaxaca, southern Mexico in 1993. She lives and works in Brussels.
 
 Vica studied Art at La Esmeralda in México City before graduating from Villa Arson in 2017. Her artistic work is above all eclectic and energetic, regardless of her sources of inspiration and her concerns for mythological crossbreeding and sincretism, she likes to arrange the most heterogeneous or hazardous elements between them, to produce sound performances and installations . She has a practice rooted in music and sound art, but also a plastic practice going through ceramics and 3d animation.

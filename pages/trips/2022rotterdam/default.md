@@ -1,7 +1,7 @@
 ---
 Title: ROTTERDAM reis
 ---
-# ROTTERDAM
+# ROTTERDAM 28-30 April
 
 ### Verplaatsingen
 Samen met de trein of elk boekt zijn eigen vervoer?
@@ -18,38 +18,7 @@ Samen met de trein of elk boekt zijn eigen vervoer?
   www.roomrotterdam.nl
 
 ### Programma
-voorstel 1 - kans is klein dat dit het wordt
-#### Donderdag 28 april
-* 08:27 - Vertrek Gent Sint-Pieters - Amsterdam Centraal (IC geen Thalys)
-* 11:32 - Aankomst Amsterdam Centraal
-* 12:00 - Bezoek [Hito Steyerl in Stedelijk Amsterdam](https://www.stedelijk.nl/nl/tentoonstellingen/hito-steyerl)
-lijkt me niet boekbaar !!
-* 15:08 - Amsterdam Centraal - Rotterdam Centraal
-* 15:49 - Aankomst Rotterdam Centraal
-* 16:30 - Bezoek [Kunstinstituut Melly](https://www.kunstinstituutmelly.nl/)
-* 17:00 - Bezoek [Tent](https://www.tentrotterdam.nl) (sluit 18u)
-* 18:30 - Diner
-* 20:00 - Avondprogramma, bijv. concert in [Roodkapje](https://roodkapje.org/)
-#### Vrijdag 29 april
-* 09:00 - Ontbijt
-* 10:30 - Bezoek [Varia](https://varia.zone/)
-* 12:30 - Lunch
-* 13:30 - Bezoek [Rib](https://www.ribrib.nl/)
-* 14:30 - Bezoek [V2_](https://v2.nl/)
-* 18:00 - [Kunstblock avond](https://kunstblock.nl/) (tour of vrij) interessant want overal gratis toegang)
-* 21:00 - Late diner / Avondprogramma
-
-#### Zaterdag 30 april
-* 09:00 - Ontbijt
-* 10:36 - Vertrek Rotterdam Centraal - Den Haag (Moerwijk)
-* 10:57 - Aankomst Den Haag Moerwijk
-* 11:20 - Bezoek [iii](https://instrumentinventors.org) (Den Haag) bvb rondleiding id voormiddag + showcase i/d namiddag - https://instrumentinventors.org
-* 13:00 - Lunch bij iii?
-* 15:22 - Vertrek Den Haag Moerwijk
-* 18:33 - Aankomst Gent Sint-Pieters
-
-### Programma
-voorstel 2 - meest haalbaar wegens reservatie-beleid Stedelijk !!
+voorstel - meest haalbaar wegens reservatie-beleid Stedelijk !!
 #### Donderdag 28 april
 * 08:27 - Vertrek Gent Sint-Pieters - Den Haag (Moerwijk)
 * 11:16 - Den Haag (Moerwijk)    
