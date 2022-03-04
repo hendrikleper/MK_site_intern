@@ -115,6 +115,7 @@ boek https://reserveringen.stedelijk.nl/Exhibitions/Register?id=958982cd-56d2-ea
 
 ### Begeleiders
 16. Hendrik leper
+17. Frederic Van de Velde
 *nog niet zeker of deels*
 * Jerry Galle (vrijdag & zaterdag ??)
 * Fairuz Ghammam (??)
