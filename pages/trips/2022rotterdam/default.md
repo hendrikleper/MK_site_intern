@@ -62,26 +62,26 @@ nog in overleg: iii, Varia, Rib & Roodkapje
 
 ### kosten
 #### Gedeelde kosten te betalen via factuur van KASK
-**verblijf**
+##### verblijf
 * Hostel: 72,00€
 * Ontbijt: 10,00€   
 = subtotaal: 82,00€   
-**bezoeken**
+##### bezoeken
 * Bezoek Hito Steyerl: 10,00€
 * Bezoek Melly & Tent: 4,50€
 * extra (varia, rib, ...): 13,50€    
 = subtotaal: 28,00€    
-**= totaal: 110€**
+##### = totaal: 110€
 
 #### kosten op eigen rekening
-**verplaatsingen**
+##### verplaatsingen
 * trein Gent SP - Amsterdam: 30,00€
 * trein Amsterdam - Rotterdam: 16,90€
 * trein Rotterdam - Den Haag: 5,00€
 * trein Den Haag - Gent SP: 34,50€     
 = totaal: 86,40€    
 of via eigen vervoer
-
+##### extra
 * verplaatsingen ter plaatse (tram / bus / metro): 9,00€/dag
 * Food & drinks: 80,00 à 120,00€
 * Bezoek Boijmans deport of nieuwe Instituut: 10€ à 15€
