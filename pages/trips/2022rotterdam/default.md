@@ -15,8 +15,8 @@ kostprijs trein ±86,40€
 
 > [Hostel ROOM Rotterdam    
   Van Vollenhovenstraat 62 3016 BK Rotterdam    
-  0031 10 282 72 77](www.roomrotterdam.nl)    
-  www.roomrotterdam.nl
+  0031 10 282 72 77    
+  www.roomrotterdam.nl](www.roomrotterdam.nl)
 
 ### Programma
 voorstel - meest haalbaar wegens reservatie-beleid Stedelijk !!    
