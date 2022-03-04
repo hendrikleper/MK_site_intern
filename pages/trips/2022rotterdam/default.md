@@ -66,6 +66,7 @@ nog in overleg: iii, Varia, Rib & Roodkapje
 * Hostel: 72,00€
 * Ontbijt: 10,00€   
 = subtotaal: 82,00€   
+
 ##### bezoeken
 * Bezoek Hito Steyerl: 10,00€
 * Bezoek Melly & Tent: 4,50€
@@ -81,6 +82,7 @@ nog in overleg: iii, Varia, Rib & Roodkapje
 * trein Den Haag - Gent SP: 34,50€     
 = totaal: 86,40€    
 of via eigen vervoer
+
 ##### extra
 * verplaatsingen ter plaatse (tram / bus / metro): 9,00€/dag
 * Food & drinks: 80,00 à 120,00€
