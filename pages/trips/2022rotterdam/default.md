@@ -59,50 +59,62 @@ boek https://reserveringen.stedelijk.nl/Exhibitions/Register?id=958982cd-56d2-ea
 * 18:33 - Aankomst Gent SP
 
 ### kosten
+#### Gedeelde kosten te betalen via factuur van KASK
+*verblijf*
 * Hostel: 72,00€
 * Ontbijt: 10,00€
-* = totaal: 82,00€
+* = subtotaal: 82,00€
+*bezoeken*
 * Bezoek Hito Steyerl: 10,00€
-* Bezoek Melly & Tent: 9,00€
-* Bezoek Boijmans deport: 10€
-* extra (varia, rib, ...): 9€
-* = totaal = 38,00€
-> = 120€ te betalen via factuur van KASK
+* Bezoek Melly & Tent: 4,50€
+* extra (varia, rib, ...): 13,50€
+* = subtotaal: 28,00€
+*= totaal: 110€*
 
-extra:
-* verplaatsingen
+#### kosten op eigen rekening
+*verplaatsingen*
 * trein Gent SP - Amsterdam: 30,00€
 * trein Amsterdam - Rotterdam: 16,90€
 * trein Rotterdam - Den Haag: 5,00€
 * trein Den Haag - Gent SP: 34,50€
-* = totaal = 86,40€
-* tram / bus / metro: 9,00€/dag
-* Food & drinks: 80,00 à 120€€
-* Bezoek iii, Varia en Rib: 9€/student + ... bijdrage via ateliergeld
+* = totaal: 86,40€
+* of via eigen vervoer
+
+* verplaatsingen ter plaatse (tram / bus / metro): 9,00€/dag
+* Food & drinks: 80,00 à 120,00€
+* Bezoek Boijmans deport of nieuwe Instituut: 10€ à 15€
+
+#### kosten ateliergeld
+* Bezoek iii, Varia en Rib: 19€/student + ... bijdrage via ateliergeld
 
 
 ### Deelnemers
+1. Merisa Llukaj
+2. June Rausenberger
+3. Milla van der Graaf
+4. Sophia Vielma (2 dagen, moet op 29/4 avond thuis zijn)
 
-* Merisa Llukaj
-* June Rausenberger
-* Milla van der Graaf
+5. Martijn Naetens
+6. Boris Daems
+7. Arne Mees
+8. Vincent Van Asten
+9. Boris Deben
+10. Justin Meulebrouck
+11. Nicolas Peeters
+12. Anthony Chang
 
+*komen mee zonder overnachting*
+13. Hannah Van der Haegen
+14. Noah Heylen
+15. Nina Paesmans
 
-* Martijn Naetens
-* Boris Daems
-* Arne Mees
-* Vincent Van Asten
-* Boris Deben
-* Justin Meulebrouck
-* Nicolas Peeters
-* Anthony Chang
+*nog niet zeker*
+* Sam Steyaert
+* Tristan Feyaerts
+* Vasil Ivanou (gaat vermoedelijk maar 1 dag mee nr Hito Steyerl)
 
-
-* Sam Steyaert (nog niet zeker)
-* Tristan Feyaerts (nog niet zeker)
-
-* Sophia Vielma (misschien deels, moet op 29/4 avond thuis zijn)
-
-* Hannah Van der Haegen (komt mee maar wil geen overnachtingen)
-* Vasil Ivanou (geen overnachtingen - gaat vermoedelijk maar 1 dag mee nr Hito Steyerl)
-* Noah Heylen (komt mee maar wil geen overnachtingen)
+### Begeleiders
+16. Hendrik leper
+*nog niet zeker of deels*
+* Jerry Galle (vrijdag & zaterdag ??)
+* Fairuz Ghammam (??)
