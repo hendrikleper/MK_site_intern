@@ -72,6 +72,7 @@ nog in overleg: iii, Varia, Rib & Roodkapje
 * Bezoek Melly & Tent: 4,50€
 * extra (varia, rib, ...): 13,50€    
 = subtotaal: 28,00€    
+
 ##### = totaal: 110€
 
 #### kosten op eigen rekening
