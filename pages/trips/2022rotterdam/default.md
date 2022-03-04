@@ -5,6 +5,7 @@ Title: 'ROTTERDAM reis'
 # ROTTERDAM 28-30 April
 
 ### Verplaatsingen
+#### huis > Den Haag > Rotterdam > Amsterdam > huis    
 elk boekt of zorgt voor eigen vervoer!     
 kostprijs trein ±86,40€
 
@@ -23,12 +24,12 @@ voorstel - meest haalbaar wegens reservatie-beleid Stedelijk !!
 gereserveerd: bezoeken Melly en Stedelijk    
 nog in overleg: iii, Varia, Rib & Roodkapje
 #### Donderdag 28 april
-* 08:27 - Vertrek Gent Sint-Pieters - Den Haag (Moerwijk)
+* 08:27 - Vertrek Gent Sint-Pieters > Den Haag (Moerwijk)
 * 11:16 - Den Haag (Moerwijk)    
 *--- 10min wandeling naar iii*
 * 11:30 - Bezoek [iii](https://instrumentinventors.org) (Den Haag) bvb rondleiding id voormiddag + lunch + showcase i/d namiddag
 *--- treinen elke ±15min*
-* 14:32 - Den Haag (Moerwijk) - Rotterdam Centraal
+* 14:32 - Den Haag (Moerwijk) > Rotterdam Centraal
 * 14:53 - Aankomst Rotterdam Centraal    
 *--- 10min wandeling naar Witte de W-straat*
 * 15:00 - Bezoek [Kunstinstituut Melly](https://www.kunstinstituutmelly.nl/)
@@ -45,15 +46,15 @@ nog in overleg: iii, Varia, Rib & Roodkapje
 * 12:30 - Lunch
 * 13:30 - Bezoek [Rib](https://www.ribrib.nl/)    
 *--- 40' wandelen*
-* 16:00 - Bezoek [Boijmans depot](https://www.boijmans.nl/)
-* en/of - Bezoek [Het Nieuwe Instituut](https://hetnieuweinstituut.nl/) (heeft een fijn terras)    
-*-> keuze aan de studenten laten (kopen zelf een ticket)*
+* 16:00 - Bezoek (optioneel) [Boijmans depot](https://www.boijmans.nl/)
+* en/of - Bezoek (optioneel) [Het Nieuwe Instituut](https://hetnieuweinstituut.nl/) (heeft een fijn terras)    
+*-> keuze aan de studenten zelf (er zijn geen tickets gekocht)*
 * 18:00 - [Kunstblock avond](https://kunstblock.nl/) (tour of vrij) interessant want overal gratis toegang (o.a. [V2_](https://v2.nl/), ...)
 * 21:00 - Late diner / Avondprogramma
 
 #### Zaterdag 30 april
 * 09:00 - Ontbijt
-* 10:05 - Vertrek Rotterdam Centraal - Amsterdam Centraal
+* 10:05 - Vertrek Rotterdam Centraal > Amsterdam Centraal
 * 11:15 - Aankomst Amsterdam Centraal
 * 12:00 - Bezoek [Hito Steyerl in Stedelijk Amsterdam](https://www.stedelijk.nl/nl/tentoonstellingen/hito-steyerl)
 * 15:28 - Vertrek naar Gent SP / BXL
@@ -61,23 +62,23 @@ nog in overleg: iii, Varia, Rib & Roodkapje
 
 ### kosten
 #### Gedeelde kosten te betalen via factuur van KASK
-*verblijf*
+**verblijf**
 * Hostel: 72,00€
 * Ontbijt: 10,00€
 = subtotaal: 82,00€
-*bezoeken*
+**bezoeken**
 * Bezoek Hito Steyerl: 10,00€
 * Bezoek Melly & Tent: 4,50€
-* extra (varia, rib, ...): 13,50€
+* extra (varia, rib, ...): 13,50€    
 = subtotaal: 28,00€    
-*= totaal: 110€*
+**= totaal: 110€**
 
 #### kosten op eigen rekening
-*verplaatsingen*
+**verplaatsingen**
 * trein Gent SP - Amsterdam: 30,00€
 * trein Amsterdam - Rotterdam: 16,90€
 * trein Rotterdam - Den Haag: 5,00€
-* trein Den Haag - Gent SP: 34,50€
+* trein Den Haag - Gent SP: 34,50€     
 = totaal: 86,40€    
 of via eigen vervoer
 
@@ -86,7 +87,7 @@ of via eigen vervoer
 * Bezoek Boijmans deport of nieuwe Instituut: 10€ à 15€
 
 #### kosten ateliergeld
-* Bezoek iii, Varia en Rib: 19€/student + ... bijdrage via ateliergeld
+* Bezoek iii, Varia en Rib: 19€/student + ... (?) bijdrage via ateliergeld
 
 
 ### Deelnemers
