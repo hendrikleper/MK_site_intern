@@ -89,7 +89,7 @@ of via eigen vervoer
 * Food & drinks: 80,00 à 120,00€
 * Bezoek Boijmans deport of nieuwe Instituut: 10€ à 15€
 
-#### kosten ateliergeld
+#### kosten gedragen door ateliergeld
 * Bezoek iii, Varia en Rib: 19€/student + ... (?) bijdrage via ateliergeld
 
 
