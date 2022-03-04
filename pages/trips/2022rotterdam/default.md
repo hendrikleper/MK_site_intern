@@ -27,7 +27,7 @@ nog in overleg: iii, Varia, Rib & Roodkapje
 * 08:27 - Vertrek Gent Sint-Pieters > Den Haag (Moerwijk)
 * 11:16 - Den Haag (Moerwijk)    
 *--- 10min wandeling naar iii*
-* 11:30 - Bezoek [iii](https://instrumentinventors.org) (Den Haag) bvb rondleiding id voormiddag + lunch + showcase i/d namiddag
+* 11:30 - Bezoek [iii](https://instrumentinventors.org) (Den Haag) bvb rondleiding id voormiddag + lunch + showcase i/d namiddag   
 *--- treinen elke ±15min*
 * 14:32 - Den Haag (Moerwijk) > Rotterdam Centraal
 * 14:53 - Aankomst Rotterdam Centraal    
