@@ -76,7 +76,7 @@ nog in overleg: iii, Varia, Rib & Roodkapje
 ##### = totaal: 110€
 
 #### kosten op eigen rekening
-##### verplaatsingen
+##### verplaatsingen met de trein
 * trein Gent SP - Amsterdam: 30,00€
 * trein Amsterdam - Rotterdam: 16,90€
 * trein Rotterdam - Den Haag: 5,00€
