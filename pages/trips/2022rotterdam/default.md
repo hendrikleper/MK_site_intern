@@ -64,7 +64,7 @@ nog in overleg: iii, Varia, Rib & Roodkapje
 #### Gedeelde kosten te betalen via factuur van KASK
 **verblijf**
 * Hostel: 72,00€
-* Ontbijt: 10,00€
+* Ontbijt: 10,00€   
 = subtotaal: 82,00€   
 **bezoeken**
 * Bezoek Hito Steyerl: 10,00€
