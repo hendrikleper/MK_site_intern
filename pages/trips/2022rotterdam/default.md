@@ -20,17 +20,17 @@ kostprijs trein ±86,40€
 
 ### Programma
 voorstel - meest haalbaar wegens reservatie-beleid Stedelijk !!    
-bevestigd: bezoeken Melly en stedelijk    
+gereserveerd: bezoeken Melly en Stedelijk    
 nog in overleg: iii, Varia, Rib & Roodkapje
 #### Donderdag 28 april
 * 08:27 - Vertrek Gent Sint-Pieters - Den Haag (Moerwijk)
 * 11:16 - Den Haag (Moerwijk)    
-**--- 10min wandeling naar iii**
+*--- 10min wandeling naar iii*
 * 11:30 - Bezoek [iii](https://instrumentinventors.org) (Den Haag) bvb rondleiding id voormiddag + lunch + showcase i/d namiddag
-**--- treinen elke ±15min**
+*--- treinen elke ±15min*
 * 14:32 - Den Haag (Moerwijk) - Rotterdam Centraal
 * 14:53 - Aankomst Rotterdam Centraal    
-**--- 10min wandeling naar Witte de W-straat**
+*--- 10min wandeling naar Witte de W-straat*
 * 15:00 - Bezoek [Kunstinstituut Melly](https://www.kunstinstituutmelly.nl/)
 & [Tent](https://www.tentrotterdam.nl) (sluit 18u)
 * 18:00 - inchecken Room
@@ -40,14 +40,14 @@ nog in overleg: iii, Varia, Rib & Roodkapje
 
 #### Vrijdag 29 april
 * 09:00 - Ontbijt    
-**--- 35' wandelen**
+*--- 35' wandelen*
 * 10:30 - Bezoek [Varia](https://varia.zone/)
 * 12:30 - Lunch
 * 13:30 - Bezoek [Rib](https://www.ribrib.nl/)    
-**--- 40' wandelen**
+*--- 40' wandelen*
 * 16:00 - Bezoek [Boijmans depot](https://www.boijmans.nl/)
 * en/of - Bezoek [Het Nieuwe Instituut](https://hetnieuweinstituut.nl/) (heeft een fijn terras)    
-**-> keuze aan de studenten laten (kopen zelf een ticket)**
+*-> keuze aan de studenten laten (kopen zelf een ticket)*
 * 18:00 - [Kunstblock avond](https://kunstblock.nl/) (tour of vrij) interessant want overal gratis toegang (o.a. [V2_](https://v2.nl/), ...)
 * 21:00 - Late diner / Avondprogramma
 
@@ -64,12 +64,12 @@ nog in overleg: iii, Varia, Rib & Roodkapje
 *verblijf*
 * Hostel: 72,00€
 * Ontbijt: 10,00€
-* = subtotaal: 82,00€
+= subtotaal: 82,00€
 *bezoeken*
 * Bezoek Hito Steyerl: 10,00€
 * Bezoek Melly & Tent: 4,50€
 * extra (varia, rib, ...): 13,50€
-* = subtotaal: 28,00€
+= subtotaal: 28,00€    
 *= totaal: 110€*
 
 #### kosten op eigen rekening
@@ -78,8 +78,8 @@ nog in overleg: iii, Varia, Rib & Roodkapje
 * trein Amsterdam - Rotterdam: 16,90€
 * trein Rotterdam - Den Haag: 5,00€
 * trein Den Haag - Gent SP: 34,50€
-* = totaal: 86,40€
-* of via eigen vervoer
+= totaal: 86,40€    
+of via eigen vervoer
 
 * verplaatsingen ter plaatse (tram / bus / metro): 9,00€/dag
 * Food & drinks: 80,00 à 120,00€
@@ -104,19 +104,19 @@ nog in overleg: iii, Varia, Rib & Roodkapje
 11. Nicolas Peeters
 12. Anthony Chang
 
-*komen mee zonder overnachting*
+**komen mee zonder overnachting**
 13. Hannah Van der Haegen
 14. Noah Heylen
 15. Nina Paesmans
 
-*nog niet zeker*
+**nog niet zeker**
 * Sam Steyaert
 * Tristan Feyaerts
 * Vasil Ivanou (gaat vermoedelijk maar 1 dag mee nr Hito Steyerl)
 
 ### Begeleiders
 16. Hendrik leper
-17. Frederic Van de Velde
-*nog niet zeker of deels*
+17. Frederic Van de Velde (geen verblijf)
+**nog niet zeker**
 * Jerry Galle (vrijdag & zaterdag ??)
 * Fairuz Ghammam (??)
