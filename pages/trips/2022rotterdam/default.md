@@ -98,7 +98,6 @@ of via eigen vervoer
 2. June Rausenberger
 3. Milla van der Graaf
 4. Sophia Vielma (2 dagen, moet op 29/4 avond thuis zijn)
-
 5. Martijn Naetens
 6. Boris Daems
 7. Arne Mees
@@ -121,6 +120,7 @@ of via eigen vervoer
 ### Begeleiders
 16. Hendrik leper
 17. Frederic Van de Velde (geen verblijf)
+   
 **nog niet zeker**
 * Jerry Galle (vrijdag & zaterdag ??)
 * Fairuz Ghammam (??)
