@@ -5,8 +5,8 @@ Title: 'ROTTERDAM reis'
 # ROTTERDAM 28-30 April
 
 ### Verplaatsingen
-elk boekt of zorgt voor eigen vervoer!
-kostprijs trein = ±86,40€
+elk boekt of zorgt voor eigen vervoer!     
+kostprijs trein ±86,40€
 
 ### Overnachting
 #### 28 en 29 april in [Hostel Room](https://www.roomrotterdam.nl/)
