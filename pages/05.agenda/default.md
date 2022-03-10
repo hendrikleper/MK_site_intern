@@ -43,9 +43,9 @@ Title: Agenda
 | 	| 	| 	| 	|
 | w4 	| di 22/2 9:00-12:30	| After Effects	| Quirijn	|
 | 	| 	| 	| 	|
-| w5 	| di 1/3 9:00-12:30	| [P5JS](../06.projecten-en-events/p5js)	| Hendrik	|
+| w5 	| di 1/3 9:00-12:30	| 	| 	|
 | 	| 	| 	| 	|
-| w6 	| di 8/2 9:00-12:30	| [P5JS](../06.projecten-en-events/p5js)	| Jerry	|
+| w6 	| di 8/2 9:00-12:30	| 	| 	|
 | 	| 	| 	| 	|
 | w7 	| di 15/2 9:00-12:30	|  	| 	|
 | 	| 	| 	| 	|
