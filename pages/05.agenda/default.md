@@ -71,7 +71,7 @@ Title: Agenda
 | eind april  | 2 daagse Rotterdam (o.v) |     |
 
 
-
+## 1e BACHELOR
 #### jury's
 |     |       |     |
 | --- | :---: | --- |
@@ -98,7 +98,7 @@ Title: Agenda
 | vr 26/11 10:30-17:30 | **tussentijdse jury** | juryleden: Jerry, Jasper & Anouk |
 | wo 26/01 10:30-17:30 | **tussentijdse jury** | juryleden: Jerry, Pieter-Paul, Jelena & Hendrik |
 | vr 22/04 10:30-17:30 (o.v.)| **tussentijdse jury** | juryleden: Jerry, Fairuz, Anouk & ?? (o.v.) |
-| vr 24/06 10:30-17:30 (o.v.)| **eindjury** | juryleden: Jerry, Anouk, Pieter-Paul, 1 (of 2) externen (o.v.) |
+| vr 24/06 9:30-17:00 (o.v.)| **eindjury** | juryleden: Jerry, Anouk, Pieter-Paul, 1 (of 2) externen (o.v.) |
 
 <!--
 ### transversaal atelier
