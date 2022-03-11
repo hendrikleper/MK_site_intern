@@ -10,7 +10,7 @@ media_order: 'osc.gif'
 # OSCILLATOR 1
 #### MEDIAKUNST studio
 #### 16/03/22 19:30 - 00:00
-
+![](osc.gif)    
 ## ᏞᎥᏁᎬ ꀎᏢ
 ### ◦• Pebblle •◦
 ### ◦• FGY9K •◦
