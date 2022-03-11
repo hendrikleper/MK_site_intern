@@ -139,7 +139,19 @@ transition: color 200ms ease-in-out;
 
 .bg-warning-light { background: #fcf8f2  }
 
-.bg-osc { background: #000 !important; color: #fff; }
+.bg-osc {
+  /*background: #000 !important; color: #fff;*/
+  /* The image used */
+  background-image: url("osc.gif");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 
 .hero h1 { color: #fff; font-size: 4rem; }
 
