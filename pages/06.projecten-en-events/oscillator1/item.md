@@ -5,7 +5,6 @@ publish_date: '11-03-2022 10:00'
 taxonomy:
     tag:
         - event
-hero_classes: 'bg-gray hero-large text-dark'
 ---
 
 <div class="hero bg-osc" markdown="1">
