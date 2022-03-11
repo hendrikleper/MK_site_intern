@@ -5,14 +5,13 @@ publish_date: '11-03-2022 10:00'
 taxonomy:
     tag:
         - event
-media_order: osc.gif
-hero_classes: hero-fullscreen
+media_order: 
+hero_classes:
 ---
 
 # OSCILLATOR 1
 #### MEDIAKUNST studio
 #### 16/03/22 19:30 - 00:00
-![](osc.gif)    
 ## ᏞᎥᏁᎬ ꀎᏢ
 ### ◦• Pebblle •◦
 ### ◦• FGY9K •◦
