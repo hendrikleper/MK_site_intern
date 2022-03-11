@@ -1,5 +1,5 @@
 ---
-title: 'OSCILLATOR 1'
+title: ' OSCILLATOR 1'
 date: '16-03-2022 19:30'
 publish_date: '11-03-2022 10:00'
 taxonomy:
@@ -23,6 +23,8 @@ hero_classes: 'bg-gray hero-large text-dark'
 ### ◦• Jorne Leurs •◦
 ### ◦• La Fin Lointaine •◦
 ### ◦• Vica Pacheco •◦
+    
+    
 🇺🇦 Ten voordele van het UKR noodfonds 🇺🇦    
 Steunen kan door langs te komen en iets te drinken.    
 Je kan ook storten op het rekeningnummer BE97 3900 9630 1049, met vermelding 'Noodfonds UKR"
