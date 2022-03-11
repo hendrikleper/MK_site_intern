@@ -7,11 +7,14 @@ taxonomy:
         - event
 hero_classes: 'bg-gray hero-large text-dark'
 ---
+
 <div class="text-center bg-dark" markdown="1">
 
 # OSCILLATOR 1
 #### MEDIAKUNST studio
 #### 16/03/22 19:30 - 00:00
+    
+    
 ## ᏞᎥᏁᎬ ꀎᏢ
 ### ◦• Pebblle •◦
 ### ◦• FGY9K •◦
