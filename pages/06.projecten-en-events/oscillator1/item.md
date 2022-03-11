@@ -7,6 +7,7 @@ taxonomy:
         - event
 hero_classes: 'bg-gray hero-large text-dark'
 ---
+<div class="text-center bg-dark">
 
 # OSCILLATOR 1
 #### MEDIAKUNST studio
@@ -22,3 +23,5 @@ hero_classes: 'bg-gray hero-large text-dark'
 🇺🇦 Ten voordele van het UKR noodfonds 🇺🇦    
 Steunen kan door langs te komen en iets te drinken.    
 Je kan ook storten op het rekeningnummer BE97 3900 9630 1049, met vermelding 'Noodfonds UKR"
+
+</div>
