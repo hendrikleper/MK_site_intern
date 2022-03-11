@@ -1,12 +1,14 @@
 ---
 title: 'OSCILLATOR 1'
-date: 16-03-2022 19:30
-publish_date: 11-03-2022 10:00
+date: '16-03-2022 19:30'
+publish_date: '11-03-2022 10:00'
 taxonomy:
     tag:
         - event
-media_order: 'osc.gif'
+media_order: osc.gif
+hero_classes: 'parallax hero-fullscreen'
 ---
+
 # OSCILLATOR 1
 #### MEDIAKUNST studio
 #### 16/03/22 19:30 - 00:00
