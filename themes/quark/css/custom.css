@@ -140,6 +140,8 @@ transition: color 200ms ease-in-out;
 
 .bg-warning-light { background: #fcf8f2  }
 
+.bg-osc { background: #000 !important; color: #fff; }
+
 .card-body a {
   text-decoration: none;
 }
