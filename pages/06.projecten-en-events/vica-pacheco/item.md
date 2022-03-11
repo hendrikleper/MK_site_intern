@@ -7,6 +7,7 @@ taxonomy:
         - lecture
         - 'studio visits'
 media_order: vica.jpg
+published: false
 ---
 
 # VICA PACHECO
