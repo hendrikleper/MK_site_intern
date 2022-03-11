@@ -12,7 +12,7 @@ hero_classes: 'bg-gray hero-large text-dark'
 # OSCILLATOR 1
 #### MEDIAKUNST studio
 #### 16/03/22 19:30 - 00:00
-===    
+   
 •    
 ## ᏞᎥᏁᎬ ꀎᏢ
 ### ◦• Pebblle •◦
