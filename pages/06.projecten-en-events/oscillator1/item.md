@@ -9,12 +9,11 @@ hero_classes: 'bg-gray hero-large text-dark'
 ---
 
 <div class="hero bg-osc" markdown="1">
-
 # OSCILLATOR 1
 #### MEDIAKUNST studio
 #### 16/03/22 19:30 - 00:00
-    
-    
+===    
+•    
 ## ᏞᎥᏁᎬ ꀎᏢ
 ### ◦• Pebblle •◦
 ### ◦• FGY9K •◦
@@ -23,7 +22,7 @@ hero_classes: 'bg-gray hero-large text-dark'
 ### ◦• Jorne Leurs •◦
 ### ◦• La Fin Lointaine •◦
 ### ◦• Vica Pacheco •◦
-    
+•    
     
 🇺🇦 Ten voordele van het UKR noodfonds 🇺🇦    
 Steunen kan door langs te komen en iets te drinken.    
