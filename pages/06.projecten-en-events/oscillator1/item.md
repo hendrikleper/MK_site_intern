@@ -6,7 +6,7 @@ taxonomy:
     tag:
         - event
 media_order: osc.gif
-hero_classes: 'parallax hero-fullscreen'
+hero_classes: hero-fullscreen
 ---
 
 # OSCILLATOR 1
