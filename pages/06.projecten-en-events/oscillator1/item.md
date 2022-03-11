@@ -5,8 +5,7 @@ publish_date: '11-03-2022 10:00'
 taxonomy:
     tag:
         - event
-media_order:
-hero_classes: bg-gray
+hero_classes: 'bg-gray hero-large'
 ---
 
 # OSCILLATOR 1
