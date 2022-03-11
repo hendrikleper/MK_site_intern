@@ -1,13 +1,15 @@
 ---
-Title: P5.JS CODELAB
-date: 01-03-2022 09:00
-publish_date: 01-03-2022 09:00
+Title: 'P5.JS CODELAB'
+date: '01-03-2022 09:00'
+publish_date: '01-03-2022 09:00'
 taxonomy:
     tag:
         - workshop
         - codelab
-media_order: 'p5js.jpg'
+media_order: p5js.jpg
+published: false
 ---
+
 # P5.JS CODELAB
 #### dinsdag, 1 & 8 maart 2022, 9:00 - 12:30
 <!--
