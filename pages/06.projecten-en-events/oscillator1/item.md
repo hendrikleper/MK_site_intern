@@ -8,7 +8,7 @@ taxonomy:
 hero_classes: 'bg-gray hero-large text-dark'
 ---
 
-<div class="hero" markdown="1">
+<div class="hero bg-osc" markdown="1">
 
 # OSCILLATOR 1
 #### MEDIAKUNST studio
