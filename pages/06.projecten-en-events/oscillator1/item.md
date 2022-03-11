@@ -6,7 +6,7 @@ taxonomy:
     tag:
         - event
 media_order:
-hero_classes: hero bg-gray
+hero_classes: bg-gray
 ---
 
 # OSCILLATOR 1
