@@ -12,7 +12,7 @@ kostprijs trein ±86,40€
 ### Overnachting
 #### 28 en 29 april in [Hostel Room](https://www.roomrotterdam.nl/)
 * 1 x 8-persoonskamer
-* 1 x 4-persoonsfamiliekamer
+* 2 x 4-persoonsfamiliekamer
 
 > [Hostel ROOM Rotterdam    
   Van Vollenhovenstraat 62 3016 BK Rotterdam    
@@ -63,17 +63,17 @@ nog in overleg: iii, Varia, Rib & Roodkapje
 ### kosten
 #### Gedeelde kosten te betalen via factuur van KASK
 ##### verblijf
-* Hostel: 72,00€
+* Hostel: 75,00€
 * Ontbijt: 10,00€   
-= subtotaal: 82,00€   
+= subtotaal: 85,00€   
 
 ##### bezoeken
 * Bezoek Hito Steyerl: 10,00€
 * Bezoek Melly & Tent: 4,50€
-* extra (varia, rib, ...): 13,50€    
-= subtotaal: 28,00€    
+* Lunch (& bezoek) iii & varia: 20,50€    
+= subtotaal: 35,00€    
 
-##### = totaal: 110€
+##### = totaal: 120€
 
 #### kosten op eigen rekening
 ##### verplaatsingen met de trein
@@ -89,11 +89,12 @@ of via eigen vervoer
 * Food & drinks: 80,00 à 120,00€
 * Bezoek Boijmans deport of nieuwe Instituut: 10€ à 15€
 
-#### kosten gedragen door ateliergeld
-* Bezoek iii, Varia en Rib: 19€/student + ... (?) bijdrage via ateliergeld
-
+#### kosten gedragen door ateliergeld & internationalisering
+* Bezoek iii: 300€ (?)
+* Varia en Rib: 100€ (?)
 
 ### Deelnemers
+ontvangen een KASK-factuur voor 120€
 1. Merisa Llukaj
 2. June Rausenberger
 3. Milla van der Graaf
@@ -106,21 +107,22 @@ of via eigen vervoer
 10. Justin Meulebrouck
 11. Nicolas Peeters
 12. Anthony Chang
+13. Sam Steyaert
+14. Tristan Feyaerts
 
-**komen mee zonder overnachting**
-13. Hannah Van der Haegen
-14. Noah Heylen
-15. Nina Paesmans
+**komen mee zonder overnachting**    
+ontvangen een KASK-factuur voor 35€
+15. Hannah Van der Haegen
+16. Noah Heylen
+17. Nina Paesmans
 
-**nog niet zeker**
-* Sam Steyaert
-* Tristan Feyaerts
+**nog niet zeker**    
 * Vasil Ivanou (gaat vermoedelijk maar 1 dag mee nr Hito Steyerl)
 
 ### Begeleiders
-16. Hendrik leper
-17. Frederic Van de Velde (geen verblijf)
-   
+18. Hendrik leper
+19. Frederic Van de Velde (geen verblijf)
+
 **nog niet zeker**
 * Jerry Galle (vrijdag & zaterdag ??)
 * Fairuz Ghammam (??)
