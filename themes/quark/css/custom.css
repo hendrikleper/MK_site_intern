@@ -153,8 +153,7 @@ transition: color 200ms ease-in-out;
   background-size: cover;
 }
 
-.hero h1 { color: #fff; font-size: 4rem; }
-.hero h2 { color: #fff); font-size: 2.5rem; }
+.hero h1, h2,h3,h4,h5,h6 { color: #fff; }
 .hero p { color: #fff); }
 
 .card-body a {
