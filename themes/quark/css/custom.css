@@ -132,8 +132,6 @@ transition: color 200ms ease-in-out;
 
 .bg-warning-light { background: #fcf8f2  }
 
-.osc { display: -ms-flexbox; display: flex; -ms-flex-align: center; align-items: center; -ms-flex-pack: center; justify-content: center; padding-top: 6rem; padding-bottom: 7rem; background-size: cover; background-position: center; }
-
 .bg-osc {
   /*background: #000 !important; color: #fff;*/
   /* The image used */
