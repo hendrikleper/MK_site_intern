@@ -7,11 +7,11 @@ taxonomy:
         - event
 ---
 
-<div class="hero bg-osc" markdown="1">
+<div class="osc bg-osc" markdown="1">
 # OSCILLATOR 1
 #### MEDIAKUNST studio
 #### 16/03/22 19:30 - 00:00
-   
+
 •    
 ## ᏞᎥᏁᎬ ꀎᏢ
 ### ◦• Pebblle •◦
@@ -22,7 +22,7 @@ taxonomy:
 ### ◦• La Fin Lointaine •◦
 ### ◦• Vica Pacheco •◦
 •    
-    
+
 🇺🇦 Ten voordele van het UKR noodfonds 🇺🇦    
 Steunen kan door langs te komen en iets te drinken.    
 Je kan ook storten op het rekeningnummer BE97 3900 9630 1049, met vermelding 'Noodfonds UKR"
