@@ -7,7 +7,7 @@ taxonomy:
         - event
 ---
 
-<div class="osc bg-osc" markdown="1">
+<div class="hero bg-osc" markdown="1">
 # OSCILLATOR 1
 #### MEDIAKUNST studio
 #### 16/03/22 19:30 - 00:00
