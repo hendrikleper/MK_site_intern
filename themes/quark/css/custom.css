@@ -3,20 +3,13 @@ html {
 }
 
 body {
-
 }
 
-
 h1, .h1 { font-size: 3rem; }
-
 h2, .h2 { font-size: 1.6rem; }
-
 h3, .h3 { font-size: 1.3rem; }
-
 h4, .h4 { font-size: 1.1rem; }
-
 h5, .h5 { font-size: 1rem; }
-
 h6, .h6 { font-size: .8rem; }
 
 
@@ -139,6 +132,8 @@ transition: color 200ms ease-in-out;
 
 .bg-warning-light { background: #fcf8f2  }
 
+.osc { display: -ms-flexbox; display: flex; -ms-flex-align: center; align-items: center; -ms-flex-pack: center; justify-content: center; padding-top: 6rem; padding-bottom: 7rem; background-size: cover; background-position: center; }
+
 .bg-osc {
   /*background: #000 !important; color: #fff;*/
   /* The image used */
@@ -153,8 +148,8 @@ transition: color 200ms ease-in-out;
   background-size: cover;
 }
 
-.hero h1, h2,h3,h4,h5,h6 { color: #fff; }
-.hero p { color: #fff); }
+.osc h1, h2, h3, h4, h5, h6 { color: #fff; }
+.osc p { color: #fff); }
 
 .card-body a {
   text-decoration: none;
