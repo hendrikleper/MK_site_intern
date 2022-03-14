@@ -146,7 +146,7 @@ transition: color 200ms ease-in-out;
   background-size: cover;
 }
 
-.osc h1, h2, h3, h4, h5, h6 { color: #fff; }
+.osc h1, .osc h2, .osc h3, .osc h4, .osc h5, .osc h6 { color: #fff; }
 .osc p { color: #fff); }
 
 .card-body a {
