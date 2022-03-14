@@ -84,7 +84,7 @@ of via eigen vervoer (autodelen / flixbus)
 
 ##### extra
 * verplaatsingen ter plaatse (tram / bus / metro): 9,00€/dag
-* Food & drinks: 80,00 à 120,00€
+* Food & drinks: ±80,00€
 * Bezoek Boijmans deport of nieuwe Instituut: 10€ à 15€
 
 #### kosten gedragen door ateliergeld & internationalisering
