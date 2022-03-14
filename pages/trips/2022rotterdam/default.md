@@ -97,29 +97,30 @@ ontvangen een KASK-factuur voor 120€
 2. June Rausenberger
 3. Milla van der Graaf
 4. Sophia Vielma (2 dagen, moet op 29/4 avond thuis zijn)
-5. Martijn Naetens
-6. Boris Daems
-7. Arne Mees
-8. Vincent Van Asten
-9. Boris Deben
-10. Justin Meulebrouck
-11. Nicolas Peeters
-12. Anthony Chang
-13. Sam Steyaert
-14. Tristan Feyaerts
+5. Floor Toppets
+6. Martijn Naetens
+7. Boris Daems
+8. Arne Mees
+9. Vincent Van Asten
+10. Boris Deben
+11. Justin Meulebrouck
+12. Nicolas Peeters
+13. Anthony Chang
+14. Sam Steyaert
+15. Tristan Feyaerts
 
 **komen mee zonder overnachting**    
 ontvangen een KASK-factuur voor 35€
-15. Hannah Van der Haegen
-16. Noah Heylen
-17. Nina Paesmans
+16. Hannah Van der Haegen
+17. Noah Heylen
+18. Nina Paesmans
 
 **nog niet zeker**    
 * Vasil Ivanou (gaat vermoedelijk maar 1 dag mee nr Hito Steyerl)
 
 ### Begeleiders
-18. Hendrik leper
-19. Frederic Van de Velde (geen verblijf)
+19. Hendrik leper
+20. Frederic Van de Velde (geen verblijf)
 
 **nog niet zeker**
 * Jerry Galle (vrijdag & zaterdag ??)
