@@ -22,7 +22,7 @@ kostprijs alle treinritten is ±86,40€
 ### Programma
 Het programma werd omgedraaid wegens reservatie-beleid Stedelijk !!    
 De bezoeken by iii, Melly en Stedelijk zijn gereserveerd.    
-Nog in overleg: Varia, Rib
+Nog in overleg: Varia & Rib.
 #### Donderdag 28 april
 * 08:27 - Vertrek Gent Sint-Pieters > Den Haag (Moerwijk)
 * 11:16 - Den Haag (Moerwijk)    
