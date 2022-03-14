@@ -12,7 +12,7 @@ kostprijs alle treinritten is ±86,40€
 ### Overnachting
 #### 28 en 29 april in [Hostel Room](https://www.roomrotterdam.nl/)
 * 1 x 8-persoonskamer
-* 2 x 4-persoonsfamiliekamer
+* 2 x 4-persoonsfamiliekamers
 
 > [Hostel ROOM Rotterdam    
   Van Vollenhovenstraat 62 3016 BK Rotterdam    
@@ -22,7 +22,7 @@ kostprijs alle treinritten is ±86,40€
 ### Programma
 Het programma werd omgedraaid wegens reservatie-beleid Stedelijk !!    
 De bezoeken by iii, Melly en Stedelijk zijn gereserveerd.    
-nog in overleg: Varia, Rib
+Nog in overleg: Varia, Rib
 #### Donderdag 28 april
 * 08:27 - Vertrek Gent Sint-Pieters > Den Haag (Moerwijk)
 * 11:16 - Den Haag (Moerwijk)    
@@ -35,9 +35,9 @@ nog in overleg: Varia, Rib
 * 15:00 - Bezoek [Kunstinstituut Melly](https://www.kunstinstituutmelly.nl/)
 & [Tent](https://www.tentrotterdam.nl) (sluit 18u)
 * 18:00 - inchecken Room
-* 19:00 - Diner (eventueel bij [Burgertrut](https://roodkapje.org/burgertrut/), vegan fastfood)
-* 20:00 - Avondprogramma, bijv. concert in [Roodkapje](https://roodkapje.org/)
-* of - Bezoek [Het Nieuwe Instituut](https://hetnieuweinstituut.nl/) (van 17:00 tot 21:00 gratis) o.a. [De toekomst door toekomstige ogen, 20 jaar VPRO tegenlicht](https://tegenlicht.hetnieuweinstituut.nl/)
+* 19:00 - Diner (eventueel bij [Burgertrut](https://roodkapje.org/burgertrut/), vegan fastfood > reservatie noodzakelijk)
+* 20:00 - Avondprogramma, bijv. concert in [Roodkapje](https://roodkapje.org/) (vvk 10€), ...
+* of - Bezoek (optioneel) [Het Nieuwe Instituut](https://hetnieuweinstituut.nl/) (van 17:00 tot 21:00 gratis) o.a. [De toekomst door toekomstige ogen, 20 jaar VPRO tegenlicht](https://tegenlicht.hetnieuweinstituut.nl/)
 
 #### Vrijdag 29 april
 * 09:00 - Ontbijt    
@@ -61,7 +61,7 @@ nog in overleg: Varia, Rib
 * 17:41 - Aankomst Gent SP
 
 ### kosten
-#### Gedeelde kosten te betalen via factuur van KASK
+#### Gedeelde kosten te betalen via factuur van KASK (totaal 120€)
 ##### verblijf
 * Hostel: 75,00€
 * Ontbijt: 10,00€   
@@ -73,8 +73,6 @@ nog in overleg: Varia, Rib
 * Lunch (& bezoek) iii & varia: 20,50€    
 = subtotaal: 35,00€    
 
-##### = totaal: 120€
-
 #### kosten op eigen rekening
 ##### verplaatsingen met de trein
 * trein Gent SP - Den Haag: 26,00€
@@ -82,7 +80,7 @@ nog in overleg: Varia, Rib
 * trein Amsterdam - Rotterdam: 16,90€
 * trein Amsterdam - Gent SP: 36,80€     
 = totaal: 86,70€    
-of via eigen vervoer
+of via eigen vervoer (autodelen / flixbus)
 
 ##### extra
 * verplaatsingen ter plaatse (tram / bus / metro): 9,00€/dag
