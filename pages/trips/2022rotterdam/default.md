@@ -7,7 +7,7 @@ Title: 'ROTTERDAM reis'
 ### Verplaatsingen
 #### huis > Den Haag > Rotterdam > Amsterdam > huis    
 elk boekt of zorgt voor eigen vervoer!     
-kostprijs trein ±86,40€
+kostprijs alle treinritten is ±86,40€
 
 ### Overnachting
 #### 28 en 29 april in [Hostel Room](https://www.roomrotterdam.nl/)
@@ -20,9 +20,9 @@ kostprijs trein ±86,40€
   www.roomrotterdam.nl](www.roomrotterdam.nl)
 
 ### Programma
-voorstel - meest haalbaar wegens reservatie-beleid Stedelijk !!    
-gereserveerd: bezoeken Melly en Stedelijk    
-nog in overleg: iii, Varia, Rib & Roodkapje
+Het programma werd omgedraaid wegens reservatie-beleid Stedelijk !!    
+De bezoeken by iii, Melly en Stedelijk zijn gereserveerd.    
+nog in overleg: Varia, Rib
 #### Donderdag 28 april
 * 08:27 - Vertrek Gent Sint-Pieters > Den Haag (Moerwijk)
 * 11:16 - Den Haag (Moerwijk)    
@@ -31,11 +31,11 @@ nog in overleg: iii, Varia, Rib & Roodkapje
 *--- treinen elke ±15min*
 * 14:32 - Den Haag (Moerwijk) > Rotterdam Centraal
 * 14:53 - Aankomst Rotterdam Centraal    
-*--- 10min wandeling naar Witte de W-straat*
+*--- 10min wandeling naar Witte de Withstraat*
 * 15:00 - Bezoek [Kunstinstituut Melly](https://www.kunstinstituutmelly.nl/)
 & [Tent](https://www.tentrotterdam.nl) (sluit 18u)
 * 18:00 - inchecken Room
-* 19:00 - Diner (eventueel bij [Burgertrut](https://roodkapje.org/#food-page), vegan fastfood)
+* 19:00 - Diner (eventueel bij [Burgertrut](https://roodkapje.org/burgertrut/), vegan fastfood)
 * 20:00 - Avondprogramma, bijv. concert in [Roodkapje](https://roodkapje.org/)
 * of - Bezoek [Het Nieuwe Instituut](https://hetnieuweinstituut.nl/) (van 17:00 tot 21:00 gratis) o.a. [De toekomst door toekomstige ogen, 20 jaar VPRO tegenlicht](https://tegenlicht.hetnieuweinstituut.nl/)
 
@@ -57,8 +57,8 @@ nog in overleg: iii, Varia, Rib & Roodkapje
 * 10:05 - Vertrek Rotterdam Centraal > Amsterdam Centraal
 * 11:15 - Aankomst Amsterdam Centraal
 * 12:00 - Bezoek [Hito Steyerl in Stedelijk Amsterdam](https://www.stedelijk.nl/nl/tentoonstellingen/hito-steyerl)
-* 15:28 - Vertrek naar Gent SP / BXL
-* 18:33 - Aankomst Gent SP
+* 15:15 - Vertrek naar Gent SP / BXL
+* 17:41 - Aankomst Gent SP
 
 ### kosten
 #### Gedeelde kosten te betalen via factuur van KASK
@@ -77,11 +77,11 @@ nog in overleg: iii, Varia, Rib & Roodkapje
 
 #### kosten op eigen rekening
 ##### verplaatsingen met de trein
-* trein Gent SP - Amsterdam: 30,00€
+* trein Gent SP - Den Haag: 26,00€
+* trein Den Haag - Rotterdam: 5,00€
 * trein Amsterdam - Rotterdam: 16,90€
-* trein Rotterdam - Den Haag: 5,00€
-* trein Den Haag - Gent SP: 34,50€     
-= totaal: 86,40€    
+* trein Amsterdam - Gent SP: 36,80€     
+= totaal: 86,70€    
 of via eigen vervoer
 
 ##### extra
