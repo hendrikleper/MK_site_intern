@@ -51,16 +51,7 @@ Title: Agenda
 | 	| 	| 	| 	|
 | w8 	| PROJECTWEEK	| 	| 	|
 | 	| 	| 	| 	|
-| w9 	| 	| 	| 	|
-| 	| 	| 	| 	|
-| w10 | 	| 	| 	|
-| 	| 	| 	| 	|
-| w11 	|  	|  	| 	|
-| 	| 	| 	| 	|
-| w12 	|  	|  	| 	|
-| 	| 	| 	| 	|
-| w13 	|  	|  	| 	|
-| 	| 	| 	| 	|
+
 
 
 #### uitstappen
@@ -68,7 +59,7 @@ Title: Agenda
 | --- | :---: | --- |
 | woensdag 8/12 namiddag | Brussel | [Bezoek aan Argos & iMal](../trips/2021bxl) |
 | woensdag 9/2 | Brussel | [Elephy "Talking, Reading, and Watching Collectively" @ Harlan Levey & Beursschouwburg](https://www.beursschouwburg.be/en/events/talking-reading-watching-collectively/) |
-| eind april  | 2 daagse Rotterdam (o.v) |     |
+| 2!-30 april  | NL | [3 daagse Rotterdam](../trips/2022rotterdam) |
 
 
 ## 1e BACHELOR
@@ -77,7 +68,7 @@ Title: Agenda
 | --- | :---: | --- |
 | wo 24/11 10:30-16:00 | **tussentijdse jury** | juryleden: Fairuz, Jerry & Hendrik |
 | di 25/01 10:30-17:30 | **tussentijdse jury** | juryleden: Fairuz, Jerry & Hendrik |
-| wo 20/04 10:30-17:30 (o.v.)| **tussentijdse jury** | juryleden: Fairuz, Hendrik, Jerry &  Pieter-Paul (o.v.) |
+| wo 20/04 10:30-17:30 | **tussentijdse jury** | juryleden: Fairuz, Hendrik, Jerry &  Pieter-Paul |
 | wo 15/06 10:30-17:30 (o.v.)| **eindjury** | juryleden: Fairuz, Hendrik, Jasper, Jerry, Joost (o.v.) |
 
 
@@ -87,7 +78,7 @@ Title: Agenda
 | --- | :---: | --- |
 | do 25/11 9:00-17:30 | **tussentijdse jury** | juryleden: Joost, Anouk & Hendrik |
 | do 27/01 9:00-17:30 | **tussentijdse jury** | juryleden: Joost, Fairuz, Pieter-Paul & Benny Nemer |
-| do 21/04 9:00-17:30 (o.v.)| **tussentijdse jury** | juryleden: Joost, Jasper & Anouk (o.v.) |
+| do 21/04 9:00-17:30 | **tussentijdse jury** | juryleden: Joost, Jasper, Anouk & Hendrik |
 | vr 17/06 9:00-17:30 (o.v.)| **eindjury** | juryleden: Joost, Jerry, Dirk Zoete, Anouk  (o.v.) |
 
 
@@ -97,8 +88,8 @@ Title: Agenda
 | --- | :---: | --- |
 | vr 26/11 10:30-17:30 | **tussentijdse jury** | juryleden: Jerry, Jasper & Anouk |
 | wo 26/01 10:30-17:30 | **tussentijdse jury** | juryleden: Jerry, Pieter-Paul, Jelena & Hendrik |
-| vr 22/04 10:30-17:30 (o.v.)| **tussentijdse jury** | juryleden: Jerry, Fairuz, Anouk & ?? (o.v.) |
-| vr 24/06 9:30-17:00 (o.v.)| **eindjury** | juryleden: Jerry, Anouk, Pieter-Paul, 1 (of 2) externen (o.v.) |
+| vr 22/04 10:30-17:30 | **tussentijdse jury** | juryleden: Jerry, Fairuz, Anouk & Benny Nemer  |
+| do 23/06 9:30-17:00 (o.v.)| **eindjury** | juryleden: Jerry, Anouk, Pieter-Paul, 1 (of 2) externen (o.v.) |
 
 <!--
 ### transversaal atelier
