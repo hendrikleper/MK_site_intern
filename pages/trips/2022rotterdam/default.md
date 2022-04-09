@@ -27,7 +27,7 @@ Nog in overleg: Varia & Rib.
 * 08:27 - Vertrek Gent Sint-Pieters > Den Haag (Moerwijk)
 * 11:16 - Den Haag (Moerwijk)    
 *--- 10min wandeling naar iii*
-* 11:30 - Bezoek [iii](https://instrumentinventors.org) (Den Haag) bvb rondleiding id voormiddag + lunch + showcase i/d namiddag   
+* 11:30 - Bezoek [iii](https://instrumentinventors.org) (Den Haag) met introductie en rondleiding door Yun Lee, showcases van [Tijs Ham](https://instrumentinventors.org/artist/tijs-ham), [Gemma Luz Bosch](https://instrumentinventors.org/artist/gemma-luz-bosch), [Matteo Marangoni](https://instrumentinventors.org/artist/matteo-marangoni) & [Dieter Vandoren](https://instrumentinventors.org/artist/dieter-vandoren) & vegetarische lunch.    
 *--- treinen elke ±15min*
 * 14:32 - Den Haag (Moerwijk) > Rotterdam Centraal
 * 14:53 - Aankomst Rotterdam Centraal    
@@ -36,15 +36,16 @@ Nog in overleg: Varia & Rib.
 & [Tent](https://www.tentrotterdam.nl) (sluit 18u)
 * 18:00 - inchecken Room
 * 19:00 - Diner (eventueel bij [Burgertrut](https://roodkapje.org/burgertrut/), vegan fastfood > reservatie noodzakelijk)
-* 20:00 - Avondprogramma, bijv. concert in [Roodkapje](https://roodkapje.org/) (vvk 10€), ...
+* 20:00 - Avondprogramma, bijv. concert van Pierre Bastien, Ben Bertrand & Lucija Gregov in [Roodkapje](https://roodkapje.org/event/2022-04-pierre-bastien-ben-bertrand-lucija-gregov-futura-resistenza/) (vvk 9€), ...
 * of - Bezoek (optioneel) [Het Nieuwe Instituut](https://hetnieuweinstituut.nl/) (van 17:00 tot 21:00 gratis) o.a. [De toekomst door toekomstige ogen, 20 jaar VPRO tegenlicht](https://tegenlicht.hetnieuweinstituut.nl/)
+* of - (optioneel) [The Hmm @ 4 Locations](https://thehmm.nl/event/the-hmm-4-locations/) (van 20:00 @ Het Nieuwe Instituut, vvk €8)
 
 #### Vrijdag 29 april
 * 09:00 - Ontbijt    
 *--- 35' wandelen*
-* 10:30 - Bezoek [Varia](https://varia.zone/)
-* 12:30 - Lunch
-* 13:30 - Bezoek [Rib](https://www.ribrib.nl/)    
+* 10:30 - Bezoek [Rib](https://www.ribrib.nl/)
+* 12:30 - Lunch, bijv. bij [Durum Time](https://www.durumtime-rotterdam.nl/)
+* 13:30 - Bezoek [Varia](https://varia.zone/)    
 *--- 40' wandelen*
 * 16:00 - Bezoek (optioneel) [Boijmans depot](https://www.boijmans.nl/)
 * en/of - Bezoek (optioneel) [Het Nieuwe Instituut](https://hetnieuweinstituut.nl/) (heeft een fijn terras)    
