@@ -36,7 +36,7 @@ Nog in overleg: Varia & Rib.
 & [Tent](https://www.tentrotterdam.nl) (sluit 18u)
 * 18:00 - inchecken Room
 * 19:00 - Diner (eventueel bij [Burgertrut](https://roodkapje.org/burgertrut/), vegan fastfood > reservatie noodzakelijk)
-* 20:00 - Avondprogramma, bijv. concert van Pierre Bastien, Ben Bertrand & Lucija Gregov in [Roodkapje](https://roodkapje.org/event/2022-04-pierre-bastien-ben-bertrand-lucija-gregov-futura-resistenza/) (vvk 9€), ...
+* 20:00 - Avondprogramma, concerten (optioneel) van Pierre Bastien, Ben Bertrand & Lucija Gregov in [Roodkapje](https://roodkapje.org/event/2022-04-pierre-bastien-ben-bertrand-lucija-gregov-futura-resistenza/) (vvk 9€), ...
 * of - Bezoek (optioneel) [Het Nieuwe Instituut](https://hetnieuweinstituut.nl/) (van 17:00 tot 21:00 gratis) o.a. [De toekomst door toekomstige ogen, 20 jaar VPRO tegenlicht](https://tegenlicht.hetnieuweinstituut.nl/)
 * of - (optioneel) [The Hmm @ 4 Locations](https://thehmm.nl/event/the-hmm-4-locations/) (van 20:00 @ Het Nieuwe Instituut, vvk €8)
 
