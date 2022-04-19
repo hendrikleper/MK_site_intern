@@ -44,13 +44,13 @@ Nog in overleg: Varia & Rib.
 * 09:00 - Ontbijt    
 *--- 35' wandelen*
 * 10:30 - Bezoek [Rib](https://www.ribrib.nl/)
-* 12:30 - Lunch, bijv. bij [Durum Time](https://www.durumtime-rotterdam.nl/)
+* 12:30 - Lunch bij [Durum Time](https://www.durumtime-rotterdam.nl/)
 * 13:30 - Bezoek [Varia](https://varia.zone/)    
 *--- 40' wandelen*
 * 16:00 - Bezoek (optioneel) [Boijmans depot](https://www.boijmans.nl/)
 * en/of - Bezoek (optioneel) [Het Nieuwe Instituut](https://hetnieuweinstituut.nl/) (heeft een fijn terras)    
 *-> keuze aan de studenten zelf (er zijn geen tickets gekocht)*
-* 18:00 - [Kunstblock avond](https://kunstblock.nl/) (tour of vrij) interessant want overal gratis toegang (o.a. [V2_](https://v2.nl/), ...)
+* 18:00 - [Kunstblock avond](https://kunstblock.nl/) (tour of vrij) interessant want overal gratis toegang (o.a. met [expanded cinema performance Objet Orienté Objet van Julien Clauss & Olivier Perriquet](https://v2.nl/events/ooo-objet-oriente-objet-kunstavond) in [V2_](https://v2.nl/), ...)
 * 21:00 - Late diner / Avondprogramma
 
 #### Zaterdag 30 april
@@ -115,14 +115,9 @@ ontvangen een KASK-factuur voor 35€
 16. Hannah Van der Haegen
 17. Noah Heylen
 18. Nina Paesmans
-
-**nog niet zeker**    
-* Vasil Ivanou (gaat vermoedelijk maar 1 dag mee nr Hito Steyerl)
+Vasil Ivanou (enkel op 30/4)
 
 ### Begeleiders
 19. Hendrik leper
 20. Frederic Van de Velde (geen verblijf)
-
-**nog niet zeker**
-* Jerry Galle (vrijdag & zaterdag ??)
-* Fairuz Ghammam (??)
+Fairuz Ghammam (enkel op 30/4)
