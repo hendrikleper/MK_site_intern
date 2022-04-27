@@ -55,9 +55,11 @@ Nog in overleg: Varia & Rib.
 
 #### Zaterdag 30 april
 * 09:00 - Ontbijt
-* 10:05 - Vertrek Rotterdam Centraal > Amsterdam Centraal
+* 10:05 - Vertrek Rotterdam Centraal > Amsterdam Centraal    
+*--- 35' wandelen of 15' tram 12*
 * 11:15 - Aankomst Amsterdam Centraal
-* 12:00 - Bezoek [Hito Steyerl in Stedelijk Amsterdam](https://www.stedelijk.nl/nl/tentoonstellingen/hito-steyerl)
+* 12:00 - Bezoek [Hito Steyerl in Stedelijk Amsterdam](https://www.stedelijk.nl/nl/tentoonstellingen/hito-steyerl)    
+*--- (14:30) 35' wandelen of 15' tram 12*
 * 15:15 - Vertrek naar Gent SP / BXL
 * 17:41 - Aankomst Gent SP
 
@@ -89,8 +91,9 @@ of via eigen vervoer (autodelen / flixbus)
 * Bezoek Boijmans deport of nieuwe Instituut: 10€ à 15€
 
 #### kosten gedragen door ateliergeld & internationalisering
-* Bezoek iii: 300€ (?)
-* Varia en Rib: 100€ (?)
+* Bezoek iii: 400€ (+ 200€ lunch)
+* Varia: 100€ (?)
+* Lunch Durumtime: (200€)
 
 ### Deelnemers
 ontvangen een KASK-factuur voor 120€
@@ -105,19 +108,27 @@ ontvangen een KASK-factuur voor 120€
 9. Vincent Van Asten
 10. Boris Deben
 11. Justin Meulebrouck
-12. Nicolas Peeters
+12. Nicolas Peeters (niet naar Hito Steyrl)
 13. Anthony Chang
 14. Sam Steyaert
 15. Tristan Feyaerts
 
 **komen mee zonder overnachting**    
 ontvangen een KASK-factuur voor 35€
-16. Hannah Van der Haegen
-17. Noah Heylen
-18. Nina Paesmans
+16. Noah Heylen
+17. Nina Paesmans
 Vasil Ivanou (enkel op 30/4)
 
 ### Begeleiders
-19. Hendrik leper
-20. Frederic Van de Velde (geen verblijf)
+18. Hendrik leper
+19. Frederic Van de Velde (geen verblijf)
 Fairuz Ghammam (enkel op 30/4)
+
+<!--
+concert tickets besteld:
+- Hendrik
+- Nicolas
+- Boris
+- Merisa
+- Martijn
+-->
