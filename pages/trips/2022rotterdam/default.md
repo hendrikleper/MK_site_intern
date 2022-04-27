@@ -55,6 +55,7 @@ Nog in overleg: Varia & Rib.
 
 #### Zaterdag 30 april
 * 09:00 - Ontbijt
+*--- 20' wandelen of 10' tram 7*
 * 10:05 - Vertrek Rotterdam Centraal > Amsterdam Centraal    
 *--- 35' wandelen of 15' tram 12*
 * 11:15 - Aankomst Amsterdam Centraal
