@@ -57,8 +57,8 @@ Nog in overleg: Varia & Rib.
 * 09:00 - Ontbijt
 *--- 20' wandelen of 10' tram 7*
 * 10:05 - Vertrek Rotterdam Centraal > Amsterdam Centraal    
-*--- 35' wandelen of 15' tram 12*
 * 11:15 - Aankomst Amsterdam Centraal
+*--- 35' wandelen of 15' tram 12*
 * 12:00 - Bezoek [Hito Steyerl in Stedelijk Amsterdam](https://www.stedelijk.nl/nl/tentoonstellingen/hito-steyerl)    
 *--- (14:30) 35' wandelen of 15' tram 12*
 * 15:15 - Vertrek naar Gent SP / BXL

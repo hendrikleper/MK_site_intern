@@ -79,7 +79,7 @@ Title: Agenda
 | do 25/11 9:00-17:30 | **tussentijdse jury** | juryleden: Joost, Anouk & Hendrik |
 | do 27/01 9:00-17:30 | **tussentijdse jury** | juryleden: Joost, Fairuz, Pieter-Paul & Benny Nemer |
 | do 21/04 9:00-17:30 | **tussentijdse jury** | juryleden: Joost, Jasper, Anouk & Hendrik |
-| vr 17/06 9:00-17:30 | **eindjury** | juryleden: Joost, Jerry, Dirk Zoete, ~~Anouk~~ |
+| vr 17/06 9:00-17:30 | **eindjury** | juryleden: Joost, Jerry, Fairuz, Simon Delobel,~~Dirk Zoete~~, ~~Anouk~~ |
 
 
 ## 3e BACHELOR
@@ -89,7 +89,7 @@ Title: Agenda
 | vr 26/11 10:30-17:30 | **tussentijdse jury** | juryleden: Jerry, Jasper & Anouk |
 | wo 26/01 10:30-17:30 | **tussentijdse jury** | juryleden: Jerry, Pieter-Paul, Jelena & Hendrik |
 | vr 22/04 10:30-17:30 | **tussentijdse jury** | juryleden: Jerry, Fairuz, Anouk & ~~Benny Nemer~~  |
-| do 23/06 9:30-17:00 | **eindjury** | juryleden: Jerry, Anouk, Pieter-Paul, Laura Nsengiyumva & Pepa Ivanova |
+| do 23/06 9:30-17:00 | **eindjury** | juryleden: Jerry, Anouk, Pieter-Paul, Benny Nemer, Laura Nsengiyumva & Pepa Ivanova |
 
 <!--
 ### transversaal atelier
