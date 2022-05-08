@@ -89,7 +89,7 @@ Title: Agenda
 | vr 26/11 10:30-17:30 | **tussentijdse jury** | juryleden: Jerry, Jasper & Anouk |
 | wo 26/01 10:30-17:30 | **tussentijdse jury** | juryleden: Jerry, Pieter-Paul, Jelena & Hendrik |
 | vr 22/04 10:30-17:30 | **tussentijdse jury** | juryleden: Jerry, Fairuz, Anouk & ~~Benny Nemer~~  |
-| do 23/06 9:30-17:00 | **eindjury** | juryleden: Jerry, Anouk, Pieter-Paul, Benny Nemer, Laura Nsengiyumva & Pepa Ivanova |
+| do 23/06 9:30-17:00 | **eindjury** | juryleden: Jerry, Anouk, Pieter-Paul, Laura Nsengiyumva & Pepa Ivanova |
 
 <!--
 ### transversaal atelier
