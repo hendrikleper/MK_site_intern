@@ -79,7 +79,7 @@ Title: Agenda
 | do 25/11 9:00-17:30 | **tussentijdse jury** | juryleden: Joost, Anouk & Hendrik |
 | do 27/01 9:00-17:30 | **tussentijdse jury** | juryleden: Joost, Fairuz, Pieter-Paul & Benny Nemer |
 | do 21/04 9:00-17:30 | **tussentijdse jury** | juryleden: Joost, Jasper, Anouk & Hendrik |
-| vr 17/06 9:00-17:30 | **eindjury** | juryleden: Joost, Jerry, Fairuz, Simon Delobel,~~Dirk Zoete~~, ~~Anouk~~ |
+| vr 17/06 9:00-17:30 | **eindjury** | juryleden: Joost, Jerry, Fairuz, Simon Delobel, ~~Dirk Zoete~~,  |
 
 
 ## 3e BACHELOR
